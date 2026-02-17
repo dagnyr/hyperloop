@@ -1,0 +1,110 @@
+ID   O19705_HUMAN            Unreviewed;       226 AA.
+AC   O19705;
+DT   01-JAN-1998, integrated into UniProtKB/TrEMBL.
+DT   01-JAN-1998, sequence version 1.
+DT   18-JUN-2025, entry version 135.
+DE   SubName: Full=MHC class II HLA-DQ-alpha chain {ECO:0000313|EMBL:AAC41959.1};
+DE   Flags: Fragment;
+GN   Name=HLA-DQA1 {ECO:0000313|EMBL:AAC41959.1};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606 {ECO:0000313|EMBL:AAC41959.1};
+RN   [1] {ECO:0000313|EMBL:AAC41959.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=8929711; DOI=10.1111/j.1399-0039.1996.tb02512.x;
+RA   Yasunaga S., Kimura A., Hamaguchi K., Ronningen K.S., Sasazuki T.;
+RT   "Different contribution of HLA-DR and -DQ genes in susceptibility and
+RT   resistance to insulin-dependent diabetes mellitus (IDDM).";
+RL   Tissue Antigens 47:37-48(1996).
+RN   [2] {ECO:0007829|PDB:6U3O}
+RP   X-RAY CRYSTALLOGRAPHY (2.74 ANGSTROMS) OF 1-183, AND DISULFIDE BONDS.
+RX   PubMed=31873306; DOI=10.1038/s41594-019-0353-4;
+RA   Petersen J., Ciacchi L., Tran M.T., Loh K.L., Kooy-Winkelaar Y.,
+RA   Croft N.P., Hardy M.Y., Chen Z., McCluskey J., Anderson R.P., Purcell A.W.,
+RA   Tye-Din J.A., Koning F., Reid H.H., Rossjohn J.;
+RT   "T cell receptor cross-reactivity between gliadin and bacterial peptides in
+RT   celiac disease.";
+RL   Nat. Struct. Mol. Biol. 27:49-61(2020).
+CC   -!- SUBCELLULAR LOCATION: Endosome membrane
+CC       {ECO:0000256|ARBA:ARBA00004530}; Single-pass type I membrane protein
+CC       {ECO:0000256|ARBA:ARBA00004530}. Lysosome membrane
+CC       {ECO:0000256|ARBA:ARBA00004352}; Single-pass type I membrane protein
+CC       {ECO:0000256|ARBA:ARBA00004352}.
+CC   -!- SIMILARITY: Belongs to the MHC class II family.
+CC       {ECO:0000256|ARBA:ARBA00007394, ECO:0000256|RuleBase:RU004238}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; L34091; AAC41959.1; -; mRNA.
+DR   PDB; 6U3O; X-ray; 2.74 A; C/E=1-183.
+DR   PDBsum; 6U3N; -.
+DR   PDBsum; 6U3O; -.
+DR   AlphaFoldDB; O19705; -.
+DR   SMR; O19705; -.
+DR   PeptideAtlas; O19705; -.
+DR   ABCD; O19705; 1 sequenced antibody.
+DR   ChiTaRS; HLA-DQA1; human.
+DR   GO; GO:0010008; C:endosome membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005765; C:lysosomal membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0042613; C:MHC class II protein complex; IEA:UniProtKB-KW.
+DR   GO; GO:0002250; P:adaptive immune response; IEA:UniProtKB-KW.
+DR   GO; GO:0002504; P:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II; IEA:UniProtKB-KW.
+DR   CDD; cd21008; IgC1_MHC_II_alpha_HLA-DQ; 1.
+DR   FunFam; 2.60.40.10:FF:000280; HLA class II histocompatibility antigen, DR alpha chain; 1.
+DR   FunFam; 3.10.320.10:FF:000002; HLA class II histocompatibility antigen, DR alpha chain; 1.
+DR   Gene3D; 3.10.320.10; Class II Histocompatibility Antigen, M Beta Chain, Chain B, domain 1; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 1.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003006; Ig/MHC_CS.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   InterPro; IPR050160; MHC/Immunoglobulin.
+DR   InterPro; IPR011162; MHC_I/II-like_Ag-recog.
+DR   InterPro; IPR014745; MHC_II_a/b_N.
+DR   InterPro; IPR001003; MHC_II_a_N.
+DR   PANTHER; PTHR19944:SF59; HLA CLASS II HISTOCOMPATIBILITY ANTIGEN, DQ ALPHA 1 CHAIN; 1.
+DR   PANTHER; PTHR19944; MHC CLASS II-RELATED; 1.
+DR   Pfam; PF07654; C1-set; 1.
+DR   Pfam; PF00993; MHC_II_alpha; 1.
+DR   SMART; SM00407; IGc1; 1.
+DR   SMART; SM00920; MHC_II_alpha; 1.
+DR   SUPFAM; SSF48726; Immunoglobulin; 1.
+DR   SUPFAM; SSF54452; MHC antigen-recognition domain; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+DR   PROSITE; PS00290; IG_MHC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0007829|PDB:6U3O};
+KW   Adaptive immunity {ECO:0000256|ARBA:ARBA00023130};
+KW   Disulfide bond {ECO:0000256|ARBA:ARBA00023157};
+KW   Endosome {ECO:0000256|ARBA:ARBA00022753};
+KW   Glycoprotein {ECO:0000256|ARBA:ARBA00023180};
+KW   Immunity {ECO:0000256|ARBA:ARBA00022859};
+KW   Lysosome {ECO:0000256|ARBA:ARBA00023228};
+KW   Membrane {ECO:0000256|ARBA:ARBA00023136, ECO:0000256|SAM:Phobius};
+KW   MHC II {ECO:0000256|ARBA:ARBA00023182};
+KW   Signal {ECO:0000256|ARBA:ARBA00022729};
+KW   Transmembrane {ECO:0000256|ARBA:ARBA00022692, ECO:0000256|SAM:Phobius};
+KW   Transmembrane helix {ECO:0000256|ARBA:ARBA00022989,
+KW   ECO:0000256|SAM:Phobius}.
+FT   TRANSMEM        198..216
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000256|SAM:Phobius"
+FT   DOMAIN          89..169
+FT                   /note="Ig-like"
+FT                   /evidence="ECO:0000259|PROSITE:PS50835"
+FT   DISULFID        109..165
+FT                   /evidence="ECO:0007829|PDB:6U3O"
+FT   NON_TER         1
+FT                   /evidence="ECO:0000313|EMBL:AAC41959.1"
+FT   NON_TER         226
+FT                   /evidence="ECO:0000313|EMBL:AAC41959.1"
+SQ   SEQUENCE   226 AA;  24984 MW;  3C6C765CC7551D01 CRC64;
+     EDIVADHVAS YGVNLYQSYG PSGQYTHEFD GDEQFYVDLG RKETVWCLPV LRQFRFDPQF
+     ALTNIAVLKH NLNSLIKRSN STAATNEVPE VTVFSKSPVT LGQPNILICL VDNIFPPVVN
+     ITWLSNGHSV TEGVSETSFL SKSDHSFFKI SYLTLLPSAE ESYDCKVEHW GLDKPLLKHW
+     EPEIPAPMSE LTETVVCALG LSVGLVGIVV GTVFIIRGLR SVGASR
+//

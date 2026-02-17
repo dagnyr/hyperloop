@@ -1,0 +1,131 @@
+ID   Q30066_HUMAN            Unreviewed;       227 AA.
+AC   Q30066;
+DT   01-NOV-1996, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1996, sequence version 1.
+DT   18-JUN-2025, entry version 140.
+DE   SubName: Full=MHC class II HLA-DQ-alpha chain {ECO:0000313|EMBL:AAC41952.1};
+DE   Flags: Fragment;
+GN   Name=HLA-DQA1 {ECO:0000313|EMBL:AAC41952.1};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606 {ECO:0000313|EMBL:AAC41952.1};
+RN   [1] {ECO:0000313|EMBL:AAC41952.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=8929711; DOI=10.1111/j.1399-0039.1996.tb02512.x;
+RA   Yasunaga S., Kimura A., Hamaguchi K., Ronningen K.S., Sasazuki T.;
+RT   "Different contribution of HLA-DR and -DQ genes in susceptibility and
+RT   resistance to insulin-dependent diabetes mellitus (IDDM).";
+RL   Tissue Antigens 47:37-48(1996).
+RN   [2] {ECO:0007829|PDB:4GRL, ECO:0007829|PDB:4MAY}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 2-184, AND DISULFIDE BONDS.
+RX   PubMed=24136005; DOI=10.1038/ncomms3623;
+RA   Sethi D.K., Gordo S., Schubert D.A., Wucherpfennig K.W.;
+RT   "Crossreactivity of a human autoimmune TCR is dominated by a single TCR
+RT   loop.";
+RL   Nat. Commun. 4:2623-2623(2013).
+RN   [3] {ECO:0007829|PDB:6DIG}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 1-196, GLYCOSYLATION AT ASN-121,
+RP   AND DISULFIDE BONDS.
+RX   PubMed=31748512; DOI=10.1038/s41467-019-13234-x;
+RA   Jiang W., Birtley J.R., Hung S.C., Wang W., Chiou S.H., Macaubas C.,
+RA   Kornum B., Tian L., Huang H., Adler L., Weaver G., Lu L.,
+RA   Ilstad-Minnihan A., Somasundaram S., Ayyangar S., Davis M.M., Stern L.J.,
+RA   Mellins E.D.;
+RT   "In vivo clonal expansion and phenotypes of hypocretin-specific
+RT   CD4<sup>+</sup> T cells in narcolepsy patients and controls.";
+RL   Nat. Commun. 10:5247-5247(2019).
+RN   [4] {ECO:0007829|PDB:7KEI}
+RP   X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 1-195, AND DISULFIDE BONDS.
+RA   Birtley J.R., Stern L.J., Mellins E.D., Jiang W.;
+RT   "Crystal structure of DQA1*01:02/DQB1*06:02 in complex with a flu
+RT   peptide.";
+RL   Submitted (OCT-2020) to the PDB data bank.
+CC   -!- SUBCELLULAR LOCATION: Endosome membrane
+CC       {ECO:0000256|ARBA:ARBA00004530}; Single-pass type I membrane protein
+CC       {ECO:0000256|ARBA:ARBA00004530}. Lysosome membrane
+CC       {ECO:0000256|ARBA:ARBA00004352}; Single-pass type I membrane protein
+CC       {ECO:0000256|ARBA:ARBA00004352}.
+CC   -!- SIMILARITY: Belongs to the MHC class II family.
+CC       {ECO:0000256|ARBA:ARBA00007394, ECO:0000256|RuleBase:RU004238}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; L34084; AAC41952.1; -; mRNA.
+DR   PDB; 4GRL; X-ray; 2.86 A; A=2-184.
+DR   PDB; 4MAY; X-ray; 2.20 A; A=2-184.
+DR   PDB; 6DIG; X-ray; 2.00 A; A=1-196.
+DR   PDB; 7KEI; X-ray; 1.75 A; A=1-195.
+DR   PDBsum; 4GRL; -.
+DR   PDBsum; 4MAY; -.
+DR   PDBsum; 6DIG; -.
+DR   AlphaFoldDB; Q30066; -.
+DR   SMR; Q30066; -.
+DR   ChiTaRS; HLA-DQA1; human.
+DR   EvolutionaryTrace; Q30066; -.
+DR   GO; GO:0010008; C:endosome membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005765; C:lysosomal membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0042613; C:MHC class II protein complex; IEA:UniProtKB-KW.
+DR   GO; GO:0002250; P:adaptive immune response; IEA:UniProtKB-KW.
+DR   GO; GO:0002504; P:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II; IEA:UniProtKB-KW.
+DR   CDD; cd21008; IgC1_MHC_II_alpha_HLA-DQ; 1.
+DR   FunFam; 2.60.40.10:FF:000280; HLA class II histocompatibility antigen, DR alpha chain; 1.
+DR   FunFam; 3.10.320.10:FF:000002; HLA class II histocompatibility antigen, DR alpha chain; 1.
+DR   Gene3D; 3.10.320.10; Class II Histocompatibility Antigen, M Beta Chain, Chain B, domain 1; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 1.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003006; Ig/MHC_CS.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   InterPro; IPR050160; MHC/Immunoglobulin.
+DR   InterPro; IPR011162; MHC_I/II-like_Ag-recog.
+DR   InterPro; IPR014745; MHC_II_a/b_N.
+DR   InterPro; IPR001003; MHC_II_a_N.
+DR   PANTHER; PTHR19944:SF59; HLA CLASS II HISTOCOMPATIBILITY ANTIGEN, DQ ALPHA 1 CHAIN; 1.
+DR   PANTHER; PTHR19944; MHC CLASS II-RELATED; 1.
+DR   Pfam; PF07654; C1-set; 1.
+DR   Pfam; PF00993; MHC_II_alpha; 1.
+DR   SMART; SM00407; IGc1; 1.
+DR   SMART; SM00920; MHC_II_alpha; 1.
+DR   SUPFAM; SSF48726; Immunoglobulin; 1.
+DR   SUPFAM; SSF54452; MHC antigen-recognition domain; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+DR   PROSITE; PS00290; IG_MHC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0007829|PDB:4GRL, ECO:0007829|PDB:4MAY};
+KW   Adaptive immunity {ECO:0000256|ARBA:ARBA00023130};
+KW   Disulfide bond {ECO:0000256|ARBA:ARBA00023157};
+KW   Endosome {ECO:0000256|ARBA:ARBA00022753};
+KW   Glycoprotein {ECO:0000256|ARBA:ARBA00023180};
+KW   Immunity {ECO:0000256|ARBA:ARBA00022859};
+KW   Lysosome {ECO:0000256|ARBA:ARBA00023228};
+KW   Membrane {ECO:0000256|ARBA:ARBA00023136, ECO:0000256|SAM:Phobius};
+KW   MHC II {ECO:0000256|ARBA:ARBA00023182};
+KW   Signal {ECO:0000256|ARBA:ARBA00022729};
+KW   Transmembrane {ECO:0000256|ARBA:ARBA00022692, ECO:0000256|SAM:Phobius};
+KW   Transmembrane helix {ECO:0000256|ARBA:ARBA00022989,
+KW   ECO:0000256|SAM:Phobius}.
+FT   TRANSMEM        199..220
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000256|SAM:Phobius"
+FT   DOMAIN          90..170
+FT                   /note="Ig-like"
+FT                   /evidence="ECO:0000259|PROSITE:PS50835"
+FT   CARBOHYD        121
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0007829|PDB:6DIG"
+FT   DISULFID        110..166
+FT                   /evidence="ECO:0007829|PDB:4GRL, ECO:0007829|PDB:4MAY"
+FT   NON_TER         1
+FT                   /evidence="ECO:0000313|EMBL:AAC41952.1"
+FT   NON_TER         227
+FT                   /evidence="ECO:0000313|EMBL:AAC41952.1"
+SQ   SEQUENCE   227 AA;  25198 MW;  FC546FA807D36161 CRC64;
+     EDIVADHVAS CGVNLYQFYG PSGQYTHEFD GDEQFYVDLE RKETAWRWPE FSKFGGFDPQ
+     GALRNMAVAK HNLNIMIKRY NSTAATNEVP EVTVFSKSPV TLGQPNTLIC LVDNIFPPVV
+     NITWLSNGQS VTEGVSETSF LSKSDHSFFK ISYLTFLPSA DEIYDCKVEH WGLDQPLLKH
+     WEPEIPAPMS ELTETVVCAL GLSVGLMGIV VGTVFIIQGL RSVGASR
+//

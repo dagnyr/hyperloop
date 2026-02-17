@@ -1,0 +1,76 @@
+ID   R9XSW3_WHEAT            Unreviewed;       207 AA.
+AC   R9XSW3;
+DT   18-SEP-2013, integrated into UniProtKB/TrEMBL.
+DT   18-SEP-2013, sequence version 1.
+DT   28-JAN-2026, entry version 47.
+DE   RecName: Full=Prolamin {ECO:0000256|ARBA:ARBA00041747};
+GN   Name=gli-2 {ECO:0000313|EMBL:AGO17678.1};
+OS   Triticum aestivum (Wheat).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP clade;
+OC   Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+OX   NCBI_TaxID=4565 {ECO:0000313|EMBL:AGO17678.1};
+RN   [1] {ECO:0000313|EMBL:AGO17678.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Li Y.G., Xing R.R., Li S.P.;
+RL   Submitted (MAR-2013) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0007829|PDB:5KS9}
+RP   X-RAY CRYSTALLOGRAPHY (2.55 ANGSTROMS) OF 146-163.
+RX   PubMed=27568928; DOI=10.1016/j.str.2016.07.010;
+RA   Petersen J., Kooy-Winkelaar Y., Loh K.L., Tran M., van Bergen J.,
+RA   Koning F., Rossjohn J., Reid H.H.;
+RT   "Diverse T cell receptor gene usage in HLA-DQ8-associated celiac disease
+RT   converges into a consensus binding solution.";
+RL   Structure 24:1643-1657(2016).
+CC   -!- FUNCTION: Gliadin is the major seed storage protein in wheat.
+CC       {ECO:0000256|ARBA:ARBA00037409}.
+CC   -!- SIMILARITY: Belongs to the gliadin/glutenin family.
+CC       {ECO:0000256|ARBA:ARBA00007506}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; KC715934; AGO17678.1; -; Genomic_DNA.
+DR   PDB; 5KS9; X-ray; 2.55 A; B/D=146-163.
+DR   PDBsum; 5KS9; -.
+DR   AlphaFoldDB; R9XSW3; -.
+DR   ExpressionAtlas; R9XSW3; baseline and differential.
+DR   GO; GO:0045735; F:nutrient reservoir activity; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.110.10; Plant lipid-transfer and hydrophobic proteins; 1.
+DR   InterPro; IPR036312; Bifun_inhib/LTP/seed_sf.
+DR   InterPro; IPR016140; Bifunc_inhib/LTP/seed_store.
+DR   InterPro; IPR001954; Glia_glutenin.
+DR   PANTHER; PTHR33454:SF7; ALPHA_BETA-GLIADIN MM1; 1.
+DR   PANTHER; PTHR33454; PROLAMIN PPROL 14P; 1.
+DR   Pfam; PF13016; Gliadin; 1.
+DR   PRINTS; PR00208; GLIADGLUTEN.
+DR   SMART; SM00499; AAI; 1.
+DR   SUPFAM; SSF47699; Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0007829|PDB:5KS9};
+KW   Repeat {ECO:0000256|ARBA:ARBA00022737};
+KW   Seed storage protein {ECO:0000256|ARBA:ARBA00023129};
+KW   Signal {ECO:0000256|SAM:SignalP};
+KW   Storage protein {ECO:0000256|ARBA:ARBA00022761}.
+FT   SIGNAL          1..20
+FT                   /evidence="ECO:0000256|SAM:SignalP"
+FT   CHAIN           21..207
+FT                   /note="Prolamin"
+FT                   /evidence="ECO:0000256|SAM:SignalP"
+FT                   /id="PRO_5004483308"
+FT   DOMAIN          62..196
+FT                   /note="Bifunctional inhibitor/plant lipid transfer
+FT                   protein/seed storage helical"
+FT                   /evidence="ECO:0000259|SMART:SM00499"
+FT   REGION          142..164
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        142..157
+FT                   /note="Low complexity"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+SQ   SEQUENCE   207 AA;  23500 MW;  DD2DD1CD8568BDAB CRC64;
+     MKTFLILALL AIVATTATTA VRVPVPQYSQ PQQPISQQQQ QQQQQQQQQI LQQILQQQLI
+     PCRDVVLQQH SIAYGSSQVL QQSTYQLVQQ LCCQQLWQIP EQSRCQAIHN VVHAIILHQQ
+     QQQQQQQQQQ QPLSQVSFQQ PQQQYPSGQG SFQPSQQNPL AQGSVQPQQL PQFEEIRNLA
+     LETLPAMCNV YIPPYCTIAP VGIFGTN
+//

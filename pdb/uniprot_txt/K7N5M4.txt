@@ -1,0 +1,273 @@
+ID   K7N5M4_HUMAN            Unreviewed;       259 AA.
+AC   K7N5M4;
+DT   09-JAN-2013, integrated into UniProtKB/TrEMBL.
+DT   09-JAN-2013, sequence version 1.
+DT   28-JAN-2026, entry version 80.
+DE   SubName: Full=Human nkt tcr beta chain {ECO:0000313|PDB:4EN3};
+GN   Name=B2M {ECO:0000313|PDB:4EN3};
+GN   ORFNames=HDCMA22P {ECO:0000313|PDB:4EN3};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606 {ECO:0000313|PDB:4EN3};
+RN   [1] {ECO:0007829|PDB:3PQY}
+RP   X-RAY CRYSTALLOGRAPHY (3.19 ANGSTROMS) OF 107-249, AND DISULFIDE BONDS.
+RX   PubMed=21606376; DOI=10.1073/pnas.1106851108;
+RA   Day E.B., Guillonneau C., Gras S., La Gruta N.L., Vignali D.A.,
+RA   Doherty P.C., Purcell A.W., Rossjohn J., Turner S.J.;
+RT   "Structural basis for enabling T-cell receptor diversity within biased
+RT   virus-specific CD8+ T-cell responses.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 108:9536-9541(2011).
+RN   [2] {ECO:0000313|PDB:4EN3, ECO:0007829|PDB:4EN3}
+RP   X-RAY CRYSTALLOGRAPHY (2.57 ANGSTROMS) IN COMPLEX WITH
+RP   N-ACETYL-D-GLUCOSAMINE, AND ACTIVE SITE.
+RX   PubMed=23109910; DOI=10.1371/journal.pbio.1001412;
+RA   Lopez-Sagaseta J., Kung J.E., Savage P.B., Gumperz J., Adams E.J.;
+RT   "The molecular basis for recognition of CD1d/alpha-galactosylceramide by a
+RT   human non-Valpha24 T cell receptor.";
+RL   PLoS Biol. 10:e1001412-e1001412(2012).
+RN   [3] {ECO:0007829|PDB:4MNH, ECO:0007829|PDB:4NDM}
+RP   X-RAY CRYSTALLOGRAPHY (3.01 ANGSTROMS) OF 120-248, AND DISULFIDE BONDS.
+RX   PubMed=24239091; DOI=10.1016/j.immuni.2013.11.001;
+RA   Luoma A.M., Castro C.D., Mayassi T., Bembinster L.A., Bai L., Picard D.,
+RA   Anderson B., Scharf L., Kung J.E., Sibener L.V., Savage P.B., Jabri B.,
+RA   Bendelac A., Adams E.J.;
+RT   "Crystal structure of Vdelta1 T cell receptor in complex with CD1d-
+RT   sulfatide shows MHC-like recognition of a self-lipid by human gammadelta T
+RT   cells.";
+RL   Immunity 39:1032-1042(2013).
+RN   [4] {ECO:0007829|PDB:5WLG}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 117-118 AND 120-249, AND
+RP   DISULFIDE BONDS.
+RX   PubMed=29150238; DOI=10.1016/j.immuni.2017.10.013;
+RA   Van Braeckel-Budimir N., Gras S., Ladell K., Josephs T.M., Pewe L.,
+RA   Urban S.L., Miners K.L., Farenc C., Price D.A., Rossjohn J., Harty J.T.;
+RT   "A T Cell Receptor Locus Harbors a Malaria-Specific Immune Response Gene.";
+RL   Immunity 47:835-847.e4(2017).
+RN   [5] {ECO:0007829|PDB:5MEN}
+RP   X-RAY CRYSTALLOGRAPHY (2.81 ANGSTROMS) OF 125-249, AND DISULFIDE BONDS.
+RX   PubMed=27903649; DOI=10.1074/jbc.m116.741603;
+RA   Cole D.K., van den Berg H.A., Lloyd A., Crowther M.D., Beck K.,
+RA   Ekeruche-Makinde J., Miles J.J., Bulek A.M., Dolton G., Schauenburg A.J.,
+RA   Wall A., Fuller A., Clement M., Laugel B., Rizkallah P.J., Wooldridge L.,
+RA   Sewell A.K.;
+RT   "Structural Mechanism Underpinning Cross-reactivity of a CD8+ T-cell Clone
+RT   That Recognizes a Peptide Derived from Human Telomerase Reverse
+RT   Transcriptase.";
+RL   J. Biol. Chem. 292:802-813(2017).
+RN   [6] {ECO:0007829|PDB:6BJ2, ECO:0007829|PDB:6BJ3}
+RP   X-RAY CRYSTALLOGRAPHY (1.75 ANGSTROMS) OF 7-249 IN COMPLEX WITH ZN(2+), AND
+RP   DISULFIDE BONDS.
+RX   PubMed=30053426; DOI=10.1016/j.cell.2018.06.017;
+RA   Sibener L.V., Fernandes R.A., Kolawole E.M., Carbone C.B., Liu F.,
+RA   McAffee D., Birnbaum M.E., Yang X., Su L.F., Yu W., Dong S., Gee M.H.,
+RA   Jude K.M., Davis M.M., Groves J.T., Goddard W.A., Heath J.R., Evavold B.D.,
+RA   Vale R.D., Garcia K.C.;
+RT   "Isolation of a Structural Mechanism for Uncoupling T Cell Receptor
+RT   Signaling from Peptide-MHC Binding.";
+RL   Cell 174:672-687.e27(2018).
+RN   [7] {ECO:0007829|PDB:6AT6}
+RP   X-RAY CRYSTALLOGRAPHY (1.42 ANGSTROMS) OF 120-249, AND DISULFIDE BONDS.
+RX   PubMed=29531227; DOI=10.1038/s41467-018-03321-w;
+RA   Chan K.F., Gully B.S., Gras S., Beringer D.X., Kjer-Nielsen L., Cebon J.,
+RA   McCluskey J., Chen W., Rossjohn J.;
+RT   "Divergent T-cell receptor recognition modes of a HLA-I restricted extended
+RT   tumour-associated peptide.";
+RL   Nat. Commun. 9:1026-1026(2018).
+RN   [8] {ECO:0007829|PDB:6CW6}
+RP   X-RAY CRYSTALLOGRAPHY (2.85 ANGSTROMS) OF 4-248, AND DISULFIDE BONDS.
+RX   PubMed=31391251; DOI=10.1074/jbc.ra119.009963;
+RA   Wang J., Guillaume J., Janssens J., Remesh S.G., Ying G., Bitra A.,
+RA   Van Calenbergh S., Zajonc D.M.;
+RT   "A molecular switch in mouse CD1d modulates natural killer T cell
+RT   activation by alpha-galactosylsphingamides.";
+RL   J. Biol. Chem. 294:14345-14356(2019).
+RN   [9] {ECO:0007829|PDB:6D78, ECO:0007829|PDB:6DKP}
+RP   X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) OF 5-249, AND DISULFIDE BONDS.
+RX   PubMed=30617019; DOI=10.1016/j.ymthe.2018.12.010;
+RA   Hellman L.M., Foley K.C., Singh N.K., Alonso J.A., Riley T.P., Devlin J.R.,
+RA   Ayres C.M., Keller G.L.J., Zhang Y., Vander Kooi C.W., Nishimura M.I.,
+RA   Baker B.M.;
+RT   "Improving T Cell Receptor On-Target Specificity via Structure-Guided
+RT   Design.";
+RL   Mol. Ther. 27:300-313(2019).
+RN   [10] {ECO:0007829|PDB:6Q3S}
+RP   X-RAY CRYSTALLOGRAPHY (2.50 ANGSTROMS) OF 123-249, AND DISULFIDE BONDS.
+RX   PubMed=31324691; DOI=10.1126/sciimmunol.aav0860;
+RA   Moritz A., Anjanappa R., Wagner C., Bunk S., Hofmann M., Pszolla G.,
+RA   Saikia A., Garcia-Alai M., Meijers R., Rammensee H.G., Springer S.,
+RA   Maurer D.;
+RT   "High-throughput peptide-MHC complex generation and kinetic screenings of
+RT   TCRs with peptide-receptive HLA-A*02:01 molecules.";
+RL   Sci. Immunol. 4:eaav0860-eaav0860(2019).
+RN   [11] {ECO:0007829|PDB:6R2L}
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 5-5 AND 107-249, AND DISULFIDE
+RP   BONDS.
+RX   PubMed=32310221; DOI=10.1172/jci130562;
+RA   Holland C.J., Crean R.M., Pentier J.M., de Wet B., Lloyd A.,
+RA   Srikannathasan V., Lissin N., Lloyd K.A., Blicher T.H., Conroy P.J.,
+RA   Hock M., Pengelly R.J., Spinner T.E., Cameron B., Potter E.A.,
+RA   Jeyanthan A., Molloy P.E., Sami M., Aleksic M., Liddy N., Robinson R.A.,
+RA   Harper S., Lepore M., Pudney C.R., van der Kamp M.W., Rizkallah P.J.,
+RA   Jakobsen B.K., Vuidepot A., Cole D.K.;
+RT   "Specificity of bispecific T cell receptors and antibodies targeting
+RT   peptide-HLA.";
+RL   J. Clin. Invest. 130:2673-2688(2020).
+RN   [12] {ECO:0007829|PDB:6V80}
+RP   X-RAY CRYSTALLOGRAPHY (3.53 ANGSTROMS) OF 6-96; 101-101 AND 106-249, AND
+RP   DISULFIDE BONDS.
+RX   DOI=10.1038/s43018-020-00111-6;
+RA   Shahine A., Rossjohn J.;
+RT   "A single-domain bispecific antibody targeting CD1d and the NKT T-cell
+RT   receptor induces a potent antitumor response.";
+RL   Nat. Cancer 1:1054-1065(2020).
+RN   [13] {ECO:0007829|PDB:6U07}
+RP   X-RAY CRYSTALLOGRAPHY (1.76 ANGSTROMS) OF 120-249, AND DISULFIDE BONDS.
+RX   PubMed=32393818; DOI=10.1038/s41467-020-16231-7;
+RA   Froning K., Maguire J., Sereno A., Huang F., Chang S., Weichert K.,
+RA   Frommelt A.J., Dong J., Wu X., Austin H., Conner E.M., Fitchett J.R.,
+RA   Heng A.R., Balasubramaniam D., Hilgers M.T., Kuhlman B., Demarest S.J.;
+RT   "Computational stabilization of T cell receptors allows pairing with
+RT   antibodies to form bispecifics.";
+RL   Nat. Commun. 11:2330-2330(2020).
+RN   [14] {ECO:0007829|PDB:6PY2}
+RP   X-RAY CRYSTALLOGRAPHY (2.83 ANGSTROMS) OF 7-249, AND DISULFIDE BONDS.
+RX   PubMed=31974305; DOI=10.1073/pnas.1914308117;
+RA   Ting Y.T., Dahal-Koirala S., Kim H.S.K., Qiao S.W., Neumann R.S.,
+RA   Lundin K.E.A., Petersen J., Reid H.H., Sollid L.M., Rossjohn J.;
+RT   "A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac
+RT   disease.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 117:3063-3073(2020).
+RN   [15] {ECO:0007829|PDB:7M72}
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS) OF 4-249, AND DISULFIDE BONDS.
+RX   PubMed=34759313; DOI=10.1038/s41586-021-04083-0;
+RA   Oh S.F., Praveena T., Song H., Yoo J.S., Jung D.J., Erturk-Hasdemir D.,
+RA   Hwang Y.S., Lee C.C., Le Nours J., Kim H., Lee J., Blumberg R.S.,
+RA   Rossjohn J., Park S.B., Kasper D.L.;
+RT   "Host immunomodulatory lipids created by symbionts from dietary amino
+RT   acids.";
+RL   Nature 600:302-307(2021).
+RN   [16] {ECO:0007829|PDB:7NDQ, ECO:0007829|PDB:7NDU}
+RP   X-RAY CRYSTALLOGRAPHY (2.55 ANGSTROMS) OF 106-106 AND 120-249, AND
+RP   DISULFIDE BONDS.
+RX   PubMed=35108401; DOI=10.1002/eji.202149745;
+RA   Barber C., De Souza V.A., Paterson R.L., Martin-Urdiroz M., Mulakkal N.C.,
+RA   Srikannathasan V., Connolly M., Phillips G., Foong-Leong T., Pengelly R.,
+RA   Karuppiah V., Grant T., Dembek M., Verma A., Gibbs-Howe D., Blicher T.H.,
+RA   Knox A., Robinson R.A., Cole D.K., Leonard S.;
+RT   "Structure-guided stabilization of pathogen-derived peptide-HLA-E complexes
+RT   using non-natural amino acids conserves native TCR recognition.";
+RL   Eur. J. Immunol. 52:618-632(2022).
+RN   [17] {ECO:0007829|PDB:7N4K, ECO:0007829|PDB:7N5C}
+RP   X-RAY CRYSTALLOGRAPHY (1.85 ANGSTROMS) OF 107-249, AND DISULFIDE BONDS.
+RX   PubMed=35999236; DOI=10.1038/s41467-022-32692-4;
+RA   Szeto C., Zareie P., Wirasinha R.C., Zhang J.B., Nguyen A.T.,
+RA   Riboldi-Tunnicliffe A., La Gruta N.L., Gras S., Daley S.R.;
+RT   "Covalent TCR-peptide-MHC interactions induce T cell activation and
+RT   redirect T cell fate in the thymus.";
+RL   Nat. Commun. 13:4951-4951(2022).
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000256|ARBA:ARBA00004236}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   PDB; 3PQY; X-ray; 3.19 A; E/J/O/T=107-249.
+DR   PDB; 4EN3; X-ray; 2.57 A; B=1-259.
+DR   PDB; 4MNH; X-ray; 3.30 A; A/C=2-259.
+DR   PDB; 4NDM; X-ray; 3.01 A; A=120-248.
+DR   PDB; 5MEN; X-ray; 2.81 A; E=125-249.
+DR   PDB; 5WLG; X-ray; 2.10 A; E/J=4-5, E/J=107-107, E/J=109-118, E/J=120-249.
+DR   PDB; 6AT6; X-ray; 1.42 A; B=120-249.
+DR   PDB; 6BJ2; X-ray; 3.35 A; E=5-249.
+DR   PDB; 6BJ3; X-ray; 1.90 A; H=7-249.
+DR   PDB; 6BJ8; X-ray; 1.75 A; H=7-249.
+DR   PDB; 6CW6; X-ray; 2.85 A; D=4-248.
+DR   PDB; 6D78; X-ray; 2.35 A; E=5-249.
+DR   PDB; 6DKP; X-ray; 2.97 A; E=120-249.
+DR   PDB; 6PY2; X-ray; 2.83 A; E=7-249.
+DR   PDB; 6Q3S; X-ray; 2.50 A; E=123-249.
+DR   PDB; 6R2L; X-ray; 2.30 A; E=5-5, E=107-249.
+DR   PDB; 6U07; X-ray; 1.76 A; B=120-249.
+DR   PDB; 6V80; X-ray; 3.53 A; D/I=6-96, D/I=101-101, D/I=106-249.
+DR   PDB; 7M72; X-ray; 2.40 A; D=4-249.
+DR   PDB; 7N4K; X-ray; 1.85 A; E=107-249.
+DR   PDB; 7N5C; X-ray; 1.87 A; E=107-249.
+DR   PDB; 7N5P; X-ray; 2.09 A; E=107-249.
+DR   PDB; 7NDQ; X-ray; 2.55 A; EEE=106-106, EEE=120-249.
+DR   PDB; 7NDU; X-ray; 2.90 A; EEE=120-249.
+DR   PDBsum; 4EN3; -.
+DR   PDBsum; 4MNH; -.
+DR   PDBsum; 4NDM; -.
+DR   PDBsum; 5WLG; -.
+DR   PDBsum; 6PY2; -.
+DR   PDBsum; 6R2L; -.
+DR   PDBsum; 6U07; -.
+DR   AlphaFoldDB; K7N5M4; -.
+DR   SMR; K7N5M4; -.
+DR   OrthoDB; 9949628at2759; -.
+DR   ChiTaRS; B2M; human.
+DR   EvolutionaryTrace; K7N5M4; -.
+DR   GO; GO:0042101; C:T cell receptor complex; IEA:UniProtKB-ARBA.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0002376; P:immune system process; IEA:UniProtKB-KW.
+DR   CDD; cd05769; IgC1_TCR_beta; 1.
+DR   CDD; cd05899; IgV_TCR_beta; 1.
+DR   FunFam; 2.60.40.10:FF:001090; T cell receptor beta constant 1; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 2.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   InterPro; IPR003599; Ig_sub.
+DR   InterPro; IPR013106; Ig_V-set.
+DR   InterPro; IPR050413; TCR_beta_variable.
+DR   PANTHER; PTHR23268:SF30; T CELL RECEPTOR BETA CHAIN MC.7.G5-RELATED; 1.
+DR   PANTHER; PTHR23268; T-CELL RECEPTOR BETA CHAIN; 1.
+DR   Pfam; PF07654; C1-set; 1.
+DR   Pfam; PF07686; V-set; 1.
+DR   SMART; SM00409; IG; 1.
+DR   SMART; SM00407; IGc1; 1.
+DR   SUPFAM; SSF48726; Immunoglobulin; 2.
+DR   PROSITE; PS50835; IG_LIKE; 2.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0007829|PDB:3PQY, ECO:0007829|PDB:4EN3};
+KW   Cell membrane {ECO:0000256|ARBA:ARBA00022475};
+KW   Disulfide bond {ECO:0000256|ARBA:ARBA00023157};
+KW   Glycoprotein {ECO:0000256|ARBA:ARBA00023180};
+KW   Immunity {ECO:0000256|ARBA:ARBA00022859};
+KW   Membrane {ECO:0000256|ARBA:ARBA00023136};
+KW   Metal-binding {ECO:0007829|PDB:6BJ2};
+KW   Signal {ECO:0000256|ARBA:ARBA00022729}; Zinc {ECO:0007829|PDB:6BJ2}.
+FT   DOMAIN          3..111
+FT                   /note="Ig-like"
+FT                   /evidence="ECO:0000259|PROSITE:PS50835"
+FT   DOMAIN          128..237
+FT                   /note="Ig-like"
+FT                   /evidence="ECO:0000259|PROSITE:PS50835"
+FT   BINDING         142
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="1"
+FT                   /evidence="ECO:0007829|PDB:6BJ2"
+FT   BINDING         159
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0007829|PDB:6BJ2"
+FT   BINDING         161
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /ligand_label="2"
+FT                   /evidence="ECO:0007829|PDB:6BJ2"
+FT   DISULFID        26..94
+FT                   /evidence="ECO:0007829|PDB:4EN3, ECO:0007829|PDB:4MNH"
+FT   DISULFID        150..215
+FT                   /evidence="ECO:0007829|PDB:3PQY, ECO:0007829|PDB:4EN3"
+SQ   SEQUENCE   259 AA;  29288 MW;  8B762DD690E0B1B5 CRC64;
+     ADPEADIYQT PRYLVIGTGK KITLECSQTM GHDKMYWYQQ DPGMELHLIH YSYGVNSTEK
+     GDLSSESTVS RIRTEHFPLT LESARPSHTS QYLCASSENS GTGRIYEQYF GPGTRLTVTE
+     DLKNVFPPEV AVFEPSEAEI SHTQKATLVC LATGFYPDHV ELSWWVNGKE VHSGVCTDPQ
+     PLKEQPALND SRYALSSRLR VSATFWQNPR NHFRCQVQFY GLSENDEWTQ DRAKPVTQIV
+     SAEAWGRADS RGGLEVLFQ
+//

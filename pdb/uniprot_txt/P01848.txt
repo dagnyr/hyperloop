@@ -1,0 +1,648 @@
+ID   TRAC_HUMAN              Reviewed;         140 AA.
+AC   P01848; A0A087WWC6;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   18-JUL-2018, sequence version 2.
+DT   28-JAN-2026, entry version 190.
+DE   RecName: Full=T cell receptor alpha chain constant {ECO:0000303|Ref.4};
+GN   Name=TRAC {ECO:0000303|Ref.4}; Synonyms=TCRA;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (IMGT ALLELE TRAC*01).
+RX   PubMed=3875483; DOI=10.1002/j.1460-2075.1985.tb03803.x;
+RA   Rabbitts T.H., Lefranc M.P., Stinson M.A., Sims J.E., Schroder J.,
+RA   Steinmetz M., Spurr N.L., Solomon E., Goodfellow P.N.;
+RT   "The chromosomal location of T-cell receptor genes and a T cell rearranging
+RT   gene: possible correlation with specific translocations in human T cell
+RT   leukaemia.";
+RL   EMBO J. 4:1461-1465(1985).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (IMGT ALLELE TRAC*01).
+RX   PubMed=3873654; DOI=10.1073/pnas.82.10.3430;
+RA   Yanagi Y., Chan A., Chin B., Minden M., Mak T.W.;
+RT   "Analysis of cDNA clones specific for human T cells and the alpha and beta
+RT   chains of the T-cell receptor heterodimer from a human T-cell line.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 82:3430-3434(1985).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (IMGT ALLELE TRAC*01).
+RX   PubMed=12508121; DOI=10.1038/nature01348;
+RA   Heilig R., Eckenberg R., Petit J.-L., Fonknechten N., Da Silva C.,
+RA   Cattolico L., Levy M., Barbe V., De Berardinis V., Ureta-Vidal A.,
+RA   Pelletier E., Vico V., Anthouard V., Rowen L., Madan A., Qin S., Sun H.,
+RA   Du H., Pepin K., Artiguenave F., Robert C., Cruaud C., Bruels T.,
+RA   Jaillon O., Friedlander L., Samson G., Brottier P., Cure S., Segurens B.,
+RA   Aniere F., Samain S., Crespeau H., Abbasi N., Aiach N., Boscus D.,
+RA   Dickhoff R., Dors M., Dubois I., Friedman C., Gouyvenoux M., James R.,
+RA   Madan A., Mairey-Estrada B., Mangenot S., Martins N., Menard M., Oztas S.,
+RA   Ratcliffe A., Shaffer T., Trask B., Vacherie B., Bellemere C., Belser C.,
+RA   Besnard-Gonnet M., Bartol-Mavel D., Boutard M., Briez-Silla S.,
+RA   Combette S., Dufosse-Laurent V., Ferron C., Lechaplais C., Louesse C.,
+RA   Muselet D., Magdelenat G., Pateau E., Petit E., Sirvain-Trukniewicz P.,
+RA   Trybou A., Vega-Czarny N., Bataille E., Bluet E., Bordelais I., Dubois M.,
+RA   Dumont C., Guerin T., Haffray S., Hammadi R., Muanga J., Pellouin V.,
+RA   Robert D., Wunderle E., Gauguet G., Roy A., Sainte-Marthe L., Verdier J.,
+RA   Verdier-Discala C., Hillier L.W., Fulton L., McPherson J., Matsuda F.,
+RA   Wilson R., Scarpelli C., Gyapay G., Wincker P., Saurin W., Quetier F.,
+RA   Waterston R., Hood L., Weissenbach J.;
+RT   "The DNA sequence and analysis of human chromosome 14.";
+RL   Nature 421:601-607(2003).
+RN   [4]
+RP   NOMENCLATURE.
+RA   Lefranc M.P., Lefranc G.;
+RT   "The T Cell Receptor FactsBook.";
+RL   (In) Lefranc M.P., Lefranc G. (eds.);
+RL   The T Cell Receptor FactsBook., pp.1-397, Academic Press, London. (2001).
+RN   [5]
+RP   REVIEW ON T CELL REPERTOIRE DIVERSITY.
+RX   PubMed=15040585; DOI=10.1038/nri1292;
+RA   Nikolich-Zugich J., Slifka M.K., Messaoudi I.;
+RT   "The many important facets of T-cell repertoire diversity.";
+RL   Nat. Rev. Immunol. 4:123-132(2004).
+RN   [6]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-32 AND ASN-66.
+RC   TISSUE=Leukemic T-cell;
+RX   PubMed=19349973; DOI=10.1038/nbt.1532;
+RA   Wollscheid B., Bausch-Fluck D., Henderson C., O'Brien R., Bibel M.,
+RA   Schiess R., Aebersold R., Watts J.D.;
+RT   "Mass-spectrometric identification and relative quantification of N-linked
+RT   cell surface glycoproteins.";
+RL   Nat. Biotechnol. 27:378-386(2009).
+RN   [7]
+RP   REVIEW ON T CELL RECEPTOR-CD3 COMPLEX ASSEMBLY, AND SUBCELLULAR LOCATION.
+RX   PubMed=20452950; DOI=10.1101/cshperspect.a005140;
+RA   Wucherpfennig K.W., Gagnon E., Call M.J., Huseby E.S., Call M.E.;
+RT   "Structural biology of the T-cell receptor: insights into receptor
+RT   assembly, ligand recognition, and initiation of signaling.";
+RL   Cold Spring Harb. Perspect. Biol. 2:A005140-A005140(2010).
+RN   [8]
+RP   REVIEW ON T CELL RECEPTOR SIGNALING.
+RX   PubMed=23524462; DOI=10.1038/nri3403;
+RA   Brownlie R.J., Zamoyska R.;
+RT   "T cell receptor signalling networks: branched, diversified and bounded.";
+RL   Nat. Rev. Immunol. 13:257-269(2013).
+RN   [9]
+RP   NOMENCLATURE.
+RX   PubMed=24600447; DOI=10.3389/fimmu.2014.00022;
+RA   Lefranc M.P.;
+RT   "Immunoglobulin and T Cell Receptor Genes: IMGT((R)) and the Birth and Rise
+RT   of Immunoinformatics.";
+RL   Front. Immunol. 5:22-22(2014).
+RN   [10]
+RP   REVIEW ON FUNCTION.
+RX   PubMed=25493333; DOI=10.1146/annurev-immunol-032414-112334;
+RA   Rossjohn J., Gras S., Miles J.J., Turner S.J., Godfrey D.I., McCluskey J.;
+RT   "T cell antigen receptor recognition of antigen-presenting molecules.";
+RL   Annu. Rev. Immunol. 33:169-200(2015).
+RN   [11]
+RP   DISULFIDE BOND, SUBUNIT, DOMAIN, AND MUTAGENESIS OF ASN-130.
+RX   PubMed=27791034; DOI=10.1073/pnas.1611445113;
+RA   Krshnan L., Park S., Im W., Call M.J., Call M.E.;
+RT   "A conserved alphabeta transmembrane interface forms the core of a compact
+RT   T-cell receptor-CD3 structure within the membrane.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 113:E6649-E6658(2016).
+RN   [12]
+RP   INVOLVEMENT IN IMD7.
+RX   PubMed=21206088; DOI=10.1172/jci41931;
+RA   Morgan N.V., Goddard S., Cardno T.S., McDonald D., Rahman F., Barge D.,
+RA   Ciupek A., Straatman-Iwanowska A., Pasha S., Guckian M., Anderson G.,
+RA   Huissoon A., Cant A., Tate W.P., Hambleton S., Maher E.R.;
+RT   "Mutation in the TCRalpha subunit constant gene (TRAC) leads to a human
+RT   immunodeficiency disorder characterized by a lack of TCRalphabeta+ T
+RT   cells.";
+RL   J. Clin. Invest. 121:695-702(2011).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (1.5 ANGSTROMS) OF 1-93.
+RX   PubMed=12429093; DOI=10.1016/s0969-2126(02)00878-x;
+RA   Kjer-Nielsen L., Clements C.S., Brooks A.G., Purcell A.W., McCluskey J.,
+RA   Rossjohn J.;
+RT   "The 1.5 A crystal structure of a highly selected antiviral T cell receptor
+RT   provides evidence for a structural basis of immunodominance.";
+RL   Structure 10:1521-1532(2002).
+RN   [14]
+RP   X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS) OF 1-91 IN COMPLEX WITH HLA-A/B2M
+RP   HETERODIMER AND TRBC1, AND DISULFIDE BOND.
+RX   PubMed=12796775; DOI=10.1038/ni942;
+RA   Stewart-Jones G.B.E., McMichael A.J., Bell J.I., Stuart D.I., Jones E.Y.;
+RT   "A structural basis for immunodominant human T cell receptor recognition.";
+RL   Nat. Immunol. 4:657-663(2003).
+RN   [15]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 1-94 IN COMPLEX WITH
+RP   HLA-DRA/HLA-DRB5 HETERODIMER AND MBP PEPTIDE.
+RX   PubMed=16079912; DOI=10.1038/sj.emboj.7600771;
+RA   Li Y., Huang Y., Lue J., Quandt J.A., Martin R., Mariuzza R.A.;
+RT   "Structure of a human autoimmune TCR bound to a myelin basic protein self-
+RT   peptide and a multiple sclerosis-associated MHC class II molecule.";
+RL   EMBO J. 24:2968-2979(2005).
+CC   -!- FUNCTION: Constant region of T cell receptor (TR) alpha chain
+CC       (PubMed:24600447). Alpha-beta T cell receptors are antigen specific
+CC       receptors which are essential to the immune response and are present on
+CC       the cell surface of T lymphocytes. Recognize peptide-major
+CC       histocompatibility (MH) (pMH) complexes that are displayed by antigen
+CC       presenting cells (APC), a prerequisite for efficient T cell adaptive
+CC       immunity against pathogens (PubMed:25493333). Binding of alpha-beta TR
+CC       to pMH complex initiates TR-CD3 clustering on the cell surface and
+CC       intracellular activation of LCK that phosphorylates the ITAM motifs of
+CC       CD3G, CD3D, CD3E and CD247 enabling the recruitment of ZAP70. In turn,
+CC       ZAP70 phosphorylates LAT, which recruits numerous signaling molecules
+CC       to form the LAT signalosome. The LAT signalosome propagates signal
+CC       branching to three major signaling pathways, the calcium, the mitogen-
+CC       activated protein kinase (MAPK) kinase and the nuclear factor NF-kappa-
+CC       B (NF-kB) pathways, leading to the mobilization of transcription
+CC       factors that are critical for gene expression and essential for T cell
+CC       growth and differentiation (PubMed:23524462). The T cell repertoire is
+CC       generated in the thymus, by V-(D)-J rearrangement. This repertoire is
+CC       then shaped by intrathymic selection events to generate a peripheral T
+CC       cell pool of self-MH restricted, non-autoaggressive T cells. Post-
+CC       thymic interaction of alpha-beta TR with the pMH complexes shapes TR
+CC       structural and functional avidity (PubMed:15040585).
+CC       {ECO:0000303|PubMed:15040585, ECO:0000303|PubMed:23524462,
+CC       ECO:0000303|PubMed:24600447, ECO:0000303|PubMed:25493333}.
+CC   -!- SUBUNIT: Alpha-beta TR is a heterodimer composed of an alpha and beta
+CC       chain; disulfide-linked. The alpha-beta TR is associated with the
+CC       transmembrane signaling CD3 coreceptor proteins to form the TR-CD3 (TcR
+CC       or TCR). The assembly of alpha-beta TR heterodimers with CD3 occurs in
+CC       the endoplasmic reticulum where a single alpha-beta TR heterodimer
+CC       associates with one CD3D-CD3E heterodimer, one CD3G-CD3E heterodimer
+CC       and one CD247 homodimer forming a stable octameric structure. CD3D-CD3E
+CC       and CD3G-CD3E heterodimers preferentially associate with TR alpha and
+CC       TR beta chains, respectively. The association of the CD247 homodimer is
+CC       the last step of TcR assembly in the endoplasmic reticulum and is
+CC       required for transport to the cell surface.
+CC       {ECO:0000269|PubMed:27791034, ECO:0000303|PubMed:20452950}.
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000303|PubMed:20452950}.
+CC   -!- DOMAIN: The connecting peptide (CP) domain contributes to the TR-CD3
+CC       assembly and signal transduction. {ECO:0000305|PubMed:27791034}.
+CC   -!- DOMAIN: The TM domain mediates the interaction with the CD3 subunits.
+CC       {ECO:0000269|PubMed:27791034}.
+CC   -!- POLYMORPHISM: There are several alleles. The sequence shown is that of
+CC       IMGT allele TRAC*01. {ECO:0000305}.
+CC   -!- DISEASE: Immunodeficiency 7 (IMD7) [MIM:615387]: A primary
+CC       immunodeficiency disorder manifesting with recurrent respiratory
+CC       infections, candidiasis, diarrhea, and failure to thrive. Patients show
+CC       a clear predisposition to herpes viral infections, and features of
+CC       immune dysregulation, including hypereosinophilia, vitiligo, and
+CC       alopecia areata. Other features include lymphadenopathy and
+CC       hepatosplenomegaly. CD3+ T-cells express TCR-gamma/delta, but little or
+CC       no TCR-alpha/beta. {ECO:0000269|PubMed:21206088}. Note=The disease is
+CC       caused by variants affecting the gene represented in this entry.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA26435.1; Type=Miscellaneous discrepancy; Note=Chimeric mRNA corresponding to regions V, J and C of T cell receptor (TR) alpha chain.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X02592; CAA26435.1; ALT_SEQ; mRNA.
+DR   EMBL; AC243965; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   PIR; S18893; RWHUAC.
+DR   PDB; 1AO7; X-ray; 2.60 A; D=1-93.
+DR   PDB; 1BD2; X-ray; 2.50 A; D=1-93.
+DR   PDB; 1FYT; X-ray; 2.60 A; D=1-97.
+DR   PDB; 1J8H; X-ray; 2.40 A; D=1-97.
+DR   PDB; 1KGC; X-ray; 1.50 A; D=1-93.
+DR   PDB; 1MI5; X-ray; 2.50 A; D=1-89.
+DR   PDB; 1OGA; X-ray; 1.40 A; D=1-95.
+DR   PDB; 1QRN; X-ray; 2.80 A; D=1-89.
+DR   PDB; 1QSF; X-ray; 2.80 A; D=1-89.
+DR   PDB; 1YMM; X-ray; 3.50 A; D=1-94.
+DR   PDB; 1ZGL; X-ray; 2.80 A; M/Q/S/U=1-94.
+DR   PDB; 2AK4; X-ray; 2.50 A; D/I/N/T=1-93.
+DR   PDB; 2BNQ; X-ray; 1.70 A; D=1-89.
+DR   PDB; 2BNR; X-ray; 1.90 A; D=1-89.
+DR   PDB; 2BNU; X-ray; 1.40 A; A=1-89.
+DR   PDB; 2CDF; X-ray; 2.25 A; A=1-78.
+DR   PDB; 2CDG; X-ray; 2.60 A; A=1-78.
+DR   PDB; 2ESV; X-ray; 2.60 A; D=1-89.
+DR   PDB; 2EYR; X-ray; 2.40 A; A=1-93.
+DR   PDB; 2EYS; X-ray; 2.21 A; A=1-93.
+DR   PDB; 2EYT; X-ray; 2.60 A; A/C=1-93.
+DR   PDB; 2F53; X-ray; 2.10 A; D=1-77.
+DR   PDB; 2F54; X-ray; 2.70 A; D/K=1-91.
+DR   PDB; 2GJ6; X-ray; 2.56 A; D=1-89.
+DR   PDB; 2IAL; X-ray; 1.92 A; A/C=1-93.
+DR   PDB; 2IAM; X-ray; 2.80 A; C=1-93.
+DR   PDB; 2IAN; X-ray; 2.80 A; D/I/N/S=1-93.
+DR   PDB; 2NX5; X-ray; 2.70 A; D/I/N/T=1-77.
+DR   PDB; 2P5E; X-ray; 1.89 A; D=1-79.
+DR   PDB; 2P5W; X-ray; 2.20 A; D=1-77.
+DR   PDB; 2PO6; X-ray; 3.20 A; C/G=1-90.
+DR   PDB; 2PYE; X-ray; 2.30 A; D=1-79.
+DR   PDB; 2PYF; X-ray; 2.20 A; A=1-91.
+DR   PDB; 2VLJ; X-ray; 2.40 A; D=1-89.
+DR   PDB; 2VLK; X-ray; 2.50 A; D=1-89.
+DR   PDB; 2VLM; X-ray; 1.98 A; D=1-89.
+DR   PDB; 2VLR; X-ray; 2.30 A; D/I=1-89.
+DR   PDB; 2XN9; X-ray; 2.30 A; A=1-93.
+DR   PDB; 2XNA; X-ray; 2.10 A; A=1-93.
+DR   PDB; 3ARB; X-ray; 2.70 A; C=1-93.
+DR   PDB; 3ARD; X-ray; 3.01 A; C=1-93.
+DR   PDB; 3ARE; X-ray; 2.80 A; C=1-93.
+DR   PDB; 3ARF; X-ray; 2.90 A; C=1-93.
+DR   PDB; 3ARG; X-ray; 3.00 A; C=1-93.
+DR   PDB; 3D39; X-ray; 2.81 A; D=1-89.
+DR   PDB; 3DX9; X-ray; 2.75 A; A/C=1-90.
+DR   PDB; 3DXA; X-ray; 3.50 A; D/I/N=1-91.
+DR   PDB; 3FFC; X-ray; 2.80 A; D/I=1-89.
+DR   PDB; 3GSN; X-ray; 2.80 A; A=1-89.
+DR   PDB; 3HE7; X-ray; 2.80 A; C=1-93.
+DR   PDB; 3HG1; X-ray; 3.00 A; D=1-85.
+DR   PDB; 3KPR; X-ray; 2.60 A; D/I=1-89.
+DR   PDB; 3KPS; X-ray; 2.70 A; D=1-89.
+DR   PDB; 3KXF; X-ray; 3.10 A; D/G/M/N=1-89.
+DR   PDB; 3O4L; X-ray; 2.54 A; D=1-90.
+DR   PDB; 3O6F; X-ray; 2.80 A; C/G=1-90.
+DR   PDB; 3O8X; X-ray; 2.74 A; C=1-93.
+DR   PDB; 3O9W; X-ray; 2.80 A; C=1-93.
+DR   PDB; 3PWP; X-ray; 2.69 A; D=1-89.
+DR   PDB; 3QDG; X-ray; 2.69 A; D=1-89.
+DR   PDB; 3QDJ; X-ray; 2.30 A; D=1-89.
+DR   PDB; 3QDM; X-ray; 2.80 A; D=1-87.
+DR   PDB; 3QEQ; X-ray; 2.59 A; D=1-86.
+DR   PDB; 3QEU; X-ray; 2.09 A; A/D=1-91.
+DR   PDB; 3QIB; X-ray; 2.70 A; C=1-93.
+DR   PDB; 3QJF; X-ray; 2.40 A; A/C=1-93.
+DR   PDB; 3QUX; X-ray; 2.91 A; C=1-93.
+DR   PDB; 3SCM; X-ray; 2.50 A; C=1-93.
+DR   PDB; 3SDA; X-ray; 2.80 A; C=1-93.
+DR   PDB; 3SDC; X-ray; 3.10 A; C=1-93.
+DR   PDB; 3SDD; X-ray; 3.00 A; C=1-93.
+DR   PDB; 3SDX; X-ray; 3.12 A; E/G=1-90.
+DR   PDB; 3SJV; X-ray; 3.10 A; D/I/N/S=1-93.
+DR   PDB; 3SKN; X-ray; 2.90 A; A/C/E/G=1-93.
+DR   PDB; 3T0E; X-ray; 4.00 A; C=1-94.
+DR   PDB; 3TN0; X-ray; 3.20 A; C=1-93.
+DR   PDB; 3TVM; X-ray; 2.80 A; C/G=1-93.
+DR   PDB; 4APQ; X-ray; 3.00 A; C=1-93.
+DR   PDB; 4C56; X-ray; 2.90 A; A/G=1-93.
+DR   PDB; 4G8E; X-ray; 2.20 A; A=1-90.
+DR   PDB; 4G8F; X-ray; 2.10 A; A=1-93.
+DR   PDB; 4IRS; X-ray; 2.80 A; C=1-93.
+DR   PDB; 4JFD; X-ray; 2.46 A; D=1-86.
+DR   PDB; 4JFE; X-ray; 2.70 A; D=1-87.
+DR   PDB; 4JFF; X-ray; 2.43 A; D=1-87.
+DR   PDB; 4JFH; X-ray; 2.40 A; D=1-90.
+DR   PDB; 4JRX; X-ray; 2.30 A; D=1-89.
+DR   PDB; 4JRY; X-ray; 2.80 A; D=1-89.
+DR   PDB; 4MVB; X-ray; 3.09 A; A=1-93.
+DR   PDB; 4MXQ; X-ray; 2.60 A; C=1-93.
+DR   PDB; 4N0C; X-ray; 2.90 A; C/G=1-93.
+DR   PDB; 4N5E; X-ray; 3.06 A; C=1-93.
+DR   PDB; 4NHU; X-ray; 2.90 A; A/C=1-93.
+DR   PDB; 4ONH; X-ray; 3.01 A; A=1-93.
+DR   PDB; 4P4K; X-ray; 2.80 A; C/G=1-93.
+DR   PDB; 4PRH; X-ray; 2.50 A; D=1-93.
+DR   PDB; 4PRI; X-ray; 2.40 A; D=1-89.
+DR   PDB; 4PRP; X-ray; 2.50 A; D=1-89.
+DR   PDB; 4UDT; X-ray; 1.35 A; A=1-93.
+DR   PDB; 4UDU; X-ray; 2.50 A; A=1-93.
+DR   PDB; 4WW1; X-ray; 1.38 A; A=1-93.
+DR   PDB; 4WW2; X-ray; 2.48 A; A=1-93.
+DR   PDB; 4WWK; X-ray; 3.10 A; A=1-93.
+DR   PDB; 4X6B; X-ray; 2.10 A; A/C=1-93.
+DR   PDB; 4X6C; X-ray; 2.80 A; E/G=1-93.
+DR   PDB; 4X6D; X-ray; 2.98 A; E/G=1-93.
+DR   PDB; 4Y16; X-ray; 2.60 A; C=1-93.
+DR   PDB; 4Y2D; X-ray; 3.05 A; C/G=1-93.
+DR   PDB; 4Y4F; X-ray; 3.19 A; C/G=1-93.
+DR   PDB; 4Y4H; X-ray; 3.10 A; C/G=1-93.
+DR   PDB; 4Y4K; X-ray; 2.90 A; C=1-93.
+DR   PDB; 4ZDH; X-ray; 2.10 A; A=1-91.
+DR   PDB; 5BRZ; X-ray; 2.62 A; D=2-82.
+DR   PDB; 5BS0; X-ray; 2.40 A; D=1-82.
+DR   PDB; 5C07; X-ray; 2.11 A; D/I=1-88.
+DR   PDB; 5C08; X-ray; 2.33 A; D/I=1-80.
+DR   PDB; 5C09; X-ray; 2.48 A; D/I=1-90.
+DR   PDB; 5C0A; X-ray; 2.46 A; D/I=1-87.
+DR   PDB; 5C0B; X-ray; 2.03 A; D/I=1-89.
+DR   PDB; 5C0C; X-ray; 1.97 A; D/I=1-89.
+DR   PDB; 5EU6; X-ray; 2.02 A; D=1-87.
+DR   PDB; 5FK9; X-ray; 3.10 A; A=1-93.
+DR   PDB; 5FKA; X-ray; 2.40 A; A=1-93.
+DR   PDB; 5HHM; X-ray; 2.50 A; D/I=1-89.
+DR   PDB; 5HHO; X-ray; 2.95 A; D=1-89.
+DR   PDB; 5HYJ; X-ray; 3.06 A; D/I=1-82.
+DR   PDB; 5JZI; X-ray; 2.50 A; G/I=1-93.
+DR   PDB; 5KS9; X-ray; 2.55 A; E/G=1-93.
+DR   PDB; 5KSA; X-ray; 2.00 A; C=1-93.
+DR   PDB; 5KSB; X-ray; 2.90 A; E/G=1-93.
+DR   PDB; 5NQK; X-ray; 3.25 A; A=1-91.
+DR   PDB; 6DKP; X-ray; 2.97 A; D=1-89.
+DR   PDB; 6JXR; EM; 3.70 A; m=1-140.
+DR   PDB; 7FJD; EM; 3.20 A; m=1-140.
+DR   PDB; 7FJE; EM; 3.00 A; m=1-140.
+DR   PDB; 7FJF; EM; 3.10 A; m=1-140.
+DR   PDB; 7NDT; X-ray; 3.00 A; DDD/III=1-85.
+DR   PDB; 7RYL; X-ray; 2.00 A; D=1-93.
+DR   PDB; 7RYM; X-ray; 3.20 A; D=1-93.
+DR   PDB; 7RYN; X-ray; 2.70 A; D=1-93.
+DR   PDB; 7RYO; X-ray; 3.00 A; D=1-93.
+DR   PDB; 7T2B; X-ray; 2.80 A; D/I/N/S=1-93.
+DR   PDB; 7T2C; X-ray; 3.10 A; D=1-93.
+DR   PDB; 7T2D; X-ray; 3.40 A; D/I/N/S=1-93.
+DR   PDB; 8RRO; X-ray; 3.50 A; A/F/K/P/U/Z/e/j=1-90.
+DR   PDB; 8RVD; X-ray; 3.00 A; B/D/G/H/J/L/N/P=1-93.
+DR   PDB; 8TW4; EM; 3.30 A; A=1-140.
+DR   PDB; 8Y6X; X-ray; 3.40 A; D=1-93.
+DR   PDB; 8YIV; X-ray; 2.10 A; D=1-93.
+DR   PDB; 8YJ2; X-ray; 2.26 A; D=1-93.
+DR   PDB; 8YJ3; X-ray; 3.50 A; B/D/F/H=1-93.
+DR   PDB; 9BBC; EM; 3.30 A; A=1-139.
+DR   PDB; 9C3E; EM; 3.50 A; A=1-138.
+DR   PDBsum; 1AO7; -.
+DR   PDBsum; 1BD2; -.
+DR   PDBsum; 1FYT; -.
+DR   PDBsum; 1J8H; -.
+DR   PDBsum; 1KGC; -.
+DR   PDBsum; 1MI5; -.
+DR   PDBsum; 1OGA; -.
+DR   PDBsum; 1QRN; -.
+DR   PDBsum; 1QSF; -.
+DR   PDBsum; 1YMM; -.
+DR   PDBsum; 1ZGL; -.
+DR   PDBsum; 2AK4; -.
+DR   PDBsum; 2BNQ; -.
+DR   PDBsum; 2BNR; -.
+DR   PDBsum; 2BNU; -.
+DR   PDBsum; 2CDF; -.
+DR   PDBsum; 2CDG; -.
+DR   PDBsum; 2ESV; -.
+DR   PDBsum; 2EYR; -.
+DR   PDBsum; 2EYS; -.
+DR   PDBsum; 2EYT; -.
+DR   PDBsum; 2F53; -.
+DR   PDBsum; 2F54; -.
+DR   PDBsum; 2GJ6; -.
+DR   PDBsum; 2IAL; -.
+DR   PDBsum; 2IAM; -.
+DR   PDBsum; 2IAN; -.
+DR   PDBsum; 2NX5; -.
+DR   PDBsum; 2P5E; -.
+DR   PDBsum; 2P5W; -.
+DR   PDBsum; 2PO6; -.
+DR   PDBsum; 2PYE; -.
+DR   PDBsum; 2PYF; -.
+DR   PDBsum; 2VLJ; -.
+DR   PDBsum; 2VLK; -.
+DR   PDBsum; 2VLM; -.
+DR   PDBsum; 2VLR; -.
+DR   PDBsum; 2XN9; -.
+DR   PDBsum; 2XNA; -.
+DR   PDBsum; 3ARB; -.
+DR   PDBsum; 3ARD; -.
+DR   PDBsum; 3ARE; -.
+DR   PDBsum; 3ARF; -.
+DR   PDBsum; 3ARG; -.
+DR   PDBsum; 3D39; -.
+DR   PDBsum; 3DX9; -.
+DR   PDBsum; 3DXA; -.
+DR   PDBsum; 3FFC; -.
+DR   PDBsum; 3GSN; -.
+DR   PDBsum; 3HE7; -.
+DR   PDBsum; 3HG1; -.
+DR   PDBsum; 3KPR; -.
+DR   PDBsum; 3KPS; -.
+DR   PDBsum; 3KXF; -.
+DR   PDBsum; 3O4L; -.
+DR   PDBsum; 3O6F; -.
+DR   PDBsum; 3O8X; -.
+DR   PDBsum; 3O9W; -.
+DR   PDBsum; 3PWP; -.
+DR   PDBsum; 3QDG; -.
+DR   PDBsum; 3QDJ; -.
+DR   PDBsum; 3QDM; -.
+DR   PDBsum; 3QEQ; -.
+DR   PDBsum; 3QEU; -.
+DR   PDBsum; 3QIB; -.
+DR   PDBsum; 3QJF; -.
+DR   PDBsum; 3QUX; -.
+DR   PDBsum; 3SCM; -.
+DR   PDBsum; 3SDA; -.
+DR   PDBsum; 3SDC; -.
+DR   PDBsum; 3SDD; -.
+DR   PDBsum; 3SDX; -.
+DR   PDBsum; 3SJV; -.
+DR   PDBsum; 3SKN; -.
+DR   PDBsum; 3T0E; -.
+DR   PDBsum; 3TN0; -.
+DR   PDBsum; 3TVM; -.
+DR   PDBsum; 4APQ; -.
+DR   PDBsum; 4C56; -.
+DR   PDBsum; 4G8E; -.
+DR   PDBsum; 4G8F; -.
+DR   PDBsum; 4IRS; -.
+DR   PDBsum; 4JFD; -.
+DR   PDBsum; 4JFE; -.
+DR   PDBsum; 4JFF; -.
+DR   PDBsum; 4JFH; -.
+DR   PDBsum; 4JRX; -.
+DR   PDBsum; 4JRY; -.
+DR   PDBsum; 4MVB; -.
+DR   PDBsum; 4MXQ; -.
+DR   PDBsum; 4N0C; -.
+DR   PDBsum; 4N5E; -.
+DR   PDBsum; 4NHU; -.
+DR   PDBsum; 4ONH; -.
+DR   PDBsum; 4P4K; -.
+DR   PDBsum; 4PRH; -.
+DR   PDBsum; 4PRI; -.
+DR   PDBsum; 4PRP; -.
+DR   PDBsum; 4UDT; -.
+DR   PDBsum; 4UDU; -.
+DR   PDBsum; 4WW1; -.
+DR   PDBsum; 4WW2; -.
+DR   PDBsum; 4WWK; -.
+DR   PDBsum; 4X6B; -.
+DR   PDBsum; 4X6C; -.
+DR   PDBsum; 4X6D; -.
+DR   PDBsum; 4Y16; -.
+DR   PDBsum; 4Y2D; -.
+DR   PDBsum; 4Y4F; -.
+DR   PDBsum; 4Y4H; -.
+DR   PDBsum; 4Y4K; -.
+DR   PDBsum; 4ZDH; -.
+DR   PDBsum; 5BRZ; -.
+DR   PDBsum; 5BS0; -.
+DR   PDBsum; 5C07; -.
+DR   PDBsum; 5C08; -.
+DR   PDBsum; 5C09; -.
+DR   PDBsum; 5C0A; -.
+DR   PDBsum; 5C0B; -.
+DR   PDBsum; 5C0C; -.
+DR   PDBsum; 5EU6; -.
+DR   PDBsum; 5FK9; -.
+DR   PDBsum; 5FKA; -.
+DR   PDBsum; 5HHM; -.
+DR   PDBsum; 5HHO; -.
+DR   PDBsum; 5HYJ; -.
+DR   PDBsum; 5JZI; -.
+DR   PDBsum; 5KS9; -.
+DR   PDBsum; 5KSA; -.
+DR   PDBsum; 5KSB; -.
+DR   PDBsum; 5NQK; -.
+DR   PDBsum; 6DKP; -.
+DR   PDBsum; 6JXR; -.
+DR   PDBsum; 7FJD; -.
+DR   PDBsum; 7FJE; -.
+DR   PDBsum; 7FJF; -.
+DR   PDBsum; 7NDT; -.
+DR   PDBsum; 7RYL; -.
+DR   PDBsum; 7RYM; -.
+DR   PDBsum; 7RYN; -.
+DR   PDBsum; 7RYO; -.
+DR   PDBsum; 7T2B; -.
+DR   PDBsum; 7T2C; -.
+DR   PDBsum; 7T2D; -.
+DR   PDBsum; 8RRO; -.
+DR   PDBsum; 8RVD; -.
+DR   PDBsum; 8TW4; -.
+DR   PDBsum; 8Y6X; -.
+DR   PDBsum; 8YIV; -.
+DR   PDBsum; 8YJ2; -.
+DR   PDBsum; 8YJ3; -.
+DR   PDBsum; 9BBC; -.
+DR   PDBsum; 9C3E; -.
+DR   AlphaFoldDB; P01848; -.
+DR   EMDB; EMD-31618; -.
+DR   EMDB; EMD-31619; -.
+DR   EMDB; EMD-31620; -.
+DR   EMDB; EMD-37929; -.
+DR   EMDB; EMD-9895; -.
+DR   SMR; P01848; -.
+DR   ComplexPortal; CPX-6482; Alpha-beta T cell receptor complex, TRBC2 variant.
+DR   ComplexPortal; CPX-6581; Alpha-beta T cell receptor complex, TRBC1 variant.
+DR   FunCoup; P01848; 180.
+DR   IntAct; P01848; 13.
+DR   ChEMBL; CHEMBL3580506; -.
+DR   DrugBank; DB02740; 3-Indolebutyric Acid.
+DR   IMGT_GENE-DB; TRAC; -.
+DR   GlyCosmos; P01848; 4 sites, No reported glycans.
+DR   GlyGen; P01848; 4 sites.
+DR   iPTMnet; P01848; -.
+DR   PhosphoSitePlus; P01848; -.
+DR   BioMuta; TRAC; -.
+DR   DMDM; 135511; -.
+DR   MassIVE; P01848; -.
+DR   ProteomicsDB; 51491; -.
+DR   UCSC; uc058zhj.1; human.
+DR   AGR; HGNC:12029; -.
+DR   GeneCards; TRAC; -.
+DR   HGNC; HGNC:12029; TRAC.
+DR   HPA; ENSG00000277734; Tissue enriched (lymphoid).
+DR   MalaCards; TRAC; -.
+DR   MIM; 186880; gene.
+DR   MIM; 615387; phenotype.
+DR   Orphanet; 397959; TCR-alpha-beta-positive T-cell deficiency.
+DR   HOGENOM; CLU_092098_1_0_1; -.
+DR   InParanoid; P01848; -.
+DR   OMA; CNATLIE; -.
+DR   OrthoDB; 8947657at2759; -.
+DR   PAN-GO; P01848; 1 GO annotation based on evolutionary models.
+DR   PhylomeDB; P01848; -.
+DR   PathwayCommons; P01848; -.
+DR   Reactome; R-HSA-198933; Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell.
+DR   Reactome; R-HSA-202424; Downstream TCR signaling.
+DR   Reactome; R-HSA-202427; Phosphorylation of CD3 and TCR zeta chains.
+DR   Reactome; R-HSA-202430; Translocation of ZAP-70 to Immunological synapse.
+DR   Reactome; R-HSA-202433; Generation of second messenger molecules.
+DR   Reactome; R-HSA-389948; Co-inhibition by PD-1.
+DR   SignaLink; P01848; -.
+DR   SIGNOR; P01848; -.
+DR   ChiTaRS; TRAC; human.
+DR   EvolutionaryTrace; P01848; -.
+DR   Pharos; P01848; Tdark.
+DR   PRO; PR:P01848; -.
+DR   Proteomes; UP000005640; Unplaced.
+DR   RNAct; P01848; protein.
+DR   GO; GO:0042105; C:alpha-beta T cell receptor complex; IDA:UniProt.
+DR   GO; GO:0005886; C:plasma membrane; IDA:ComplexPortal.
+DR   GO; GO:0002250; P:adaptive immune response; NAS:ComplexPortal.
+DR   GO; GO:0046631; P:alpha-beta T cell activation; NAS:ComplexPortal.
+DR   GO; GO:0009617; P:response to bacterium; IBA:GO_Central.
+DR   GO; GO:0050852; P:T cell receptor signaling pathway; NAS:ComplexPortal.
+DR   CDD; cd07688; IgC_TCR_alpha; 1.
+DR   FunFam; 2.60.40.10:FF:003018; T cell receptor alpha constant; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 1.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR015370; TCR_alpha_C.
+DR   Pfam; PF09291; DUF1968; 1.
+DR   SUPFAM; SSF48726; Immunoglobulin; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Adaptive immunity; Cell membrane; Disulfide bond;
+KW   Glycoprotein; Immunity; Membrane; Receptor; Reference proteome;
+KW   T cell receptor; Transmembrane; Transmembrane helix.
+FT   CHAIN           <1..140
+FT                   /note="T cell receptor alpha chain constant"
+FT                   /id="PRO_0000184524"
+FT   TRANSMEM        116..138
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255, ECO:0000269|PubMed:27791034"
+FT   TOPO_DOM        139..140
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          19..107
+FT                   /note="Ig-like C1-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114"
+FT   REGION          94..115
+FT                   /note="Connecting peptide"
+FT                   /evidence="ECO:0000305|PubMed:27791034"
+FT   CARBOHYD        32
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00498,
+FT                   ECO:0000269|PubMed:19349973"
+FT   CARBOHYD        66
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00498,
+FT                   ECO:0000269|PubMed:19349973"
+FT   CARBOHYD        77
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00498"
+FT   CARBOHYD        113
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00498"
+FT   DISULFID        22..72
+FT                   /evidence="ECO:0000269|PubMed:12796775"
+FT   DISULFID        94
+FT                   /note="Interchain (with C-130 in TRBC1 or TRBC2)"
+FT                   /evidence="ECO:0000305|PubMed:27791034"
+FT   MUTAGEN         130
+FT                   /note="N->L,F: Impairs TR-CD3 complex assembly."
+FT                   /evidence="ECO:0000269|PubMed:27791034"
+FT   NON_TER         1
+FT   STRAND          7..15
+FT                   /evidence="ECO:0007829|PDB:4UDT"
+FT   STRAND          16..18
+FT                   /evidence="ECO:0007829|PDB:2VLR"
+FT   STRAND          20..26
+FT                   /evidence="ECO:0007829|PDB:4UDT"
+FT   STRAND          29..31
+FT                   /evidence="ECO:0007829|PDB:4N0C"
+FT   STRAND          37..40
+FT                   /evidence="ECO:0007829|PDB:5C0C"
+FT   STRAND          41..43
+FT                   /evidence="ECO:0007829|PDB:4UDT"
+FT   STRAND          47..51
+FT                   /evidence="ECO:0007829|PDB:4UDT"
+FT   HELIX           52..54
+FT                   /evidence="ECO:0007829|PDB:4UDT"
+FT   STRAND          56..66
+FT                   /evidence="ECO:0007829|PDB:4UDT"
+FT   STRAND          67..69
+FT                   /evidence="ECO:0007829|PDB:2BNU"
+FT   HELIX           72..75
+FT                   /evidence="ECO:0007829|PDB:4UDT"
+FT   TURN            76..78
+FT                   /evidence="ECO:0007829|PDB:4UDT"
+FT   STRAND          95..98
+FT                   /evidence="ECO:0007829|PDB:5JZI"
+FT   HELIX           99..101
+FT                   /evidence="ECO:0007829|PDB:7FJE"
+FT   HELIX           107..139
+FT                   /evidence="ECO:0007829|PDB:7FJE"
+SQ   SEQUENCE   140 AA;  15717 MW;  CF6B38A0F653035D CRC64;
+     IQNPDPAVYQ LRDSKSSDKS VCLFTDFDSQ TNVSQSKDSD VYITDKTVLD MRSMDFKSNS
+     AVAWSNKSDF ACANAFNNSI IPEDTFFPSP ESSCDVKLVE KSFETDTNLN FQNLSVIGFR
+     ILLLKVAGFN LLMTLRLWSS
+//

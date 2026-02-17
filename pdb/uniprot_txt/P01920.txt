@@ -1,0 +1,1703 @@
+ID   DQB1_HUMAN              Reviewed;         261 AA.
+AC   P01920; A1KR27; A2RPH3; A4Q9R4; A4USG2; A4USG5; A6N8I7; A9YQA0; B0S7Y7;
+AC   B1A0K6; B1GXI3; B3VLT3; B5BLN7; B7VU69; C0MQ34; C0MQ35; C8ZL52; C8ZLJ8;
+AC   C8ZLJ9; C9DRQ3; O19708; O19713; O19724; O62861; O78046; O78221; O78223;
+AC   O98034; O98201; P01917; P01918; P01919; P03992; P05537; P79482; P79526;
+AC   P79544; P79551; Q08GC8; Q09035; Q0E4V9; Q1M312; Q29731; Q29877; Q29884;
+AC   Q29915; Q29966; Q2P9N3; Q2QK85; Q30061; Q30075; Q30076; Q30080; Q30081;
+AC   Q30082; Q30083; Q30084; Q30089; Q30095; Q31633; Q38I47; Q45UE3; Q4QZB5;
+AC   Q53I44; Q564J6; Q5G841; Q5ISH1; Q5ISH3; Q5W1E1; Q5Y7G8; Q643R4; Q6B9X1;
+AC   Q70VH8; Q7YP69; Q8HWH0; Q8MH58; Q8SNB4; Q8SND1; Q8SP70; Q8WMA3; Q9BD17;
+AC   Q9MYH2; Q9TPA9; Q9XRY6; Q9XRY7; Q9XRZ2;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   02-MAR-2010, sequence version 2.
+DT   28-JAN-2026, entry version 211.
+DE   RecName: Full=HLA class II histocompatibility antigen, DQ beta 1 chain;
+DE   AltName: Full=MHC class II antigen DQB1;
+DE   Flags: Precursor;
+GN   Name=HLA-DQB1; Synonyms=HLA-DQB;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE DQB1*02:01), AND NUCLEOTIDE SEQUENCE
+RP   [MRNA] OF 33-261 (CLONE PII-BETA-2) (ALLELE DQB1*05:01).
+RX   PubMed=6415003; DOI=10.1016/0198-8859(83)90087-3;
+RA   Larhammar D., Andersson G., Andersson M., Bill P., Boehme J., Claesson L.,
+RA   Denaro M., Emmoth E., Gustafsson K., Hammarling U., Heldin E.,
+RA   Hyldig-Nielsen J.-J., Lind P., Schenning L., Servenius B., Widmark E.,
+RA   Rask L., Peterson P.A.;
+RT   "Molecular analysis of human class II transplantation antigens and their
+RT   genes.";
+RL   Hum. Immunol. 8:95-103(1983).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE DQB1*02:01).
+RX   PubMed=6954511; DOI=10.1073/pnas.79.12.3687;
+RA   Larhammar D., Schenning L., Gustafsson K., Wiman K., Claesson L., Rask L.,
+RA   Peterson P.A.;
+RT   "Complete amino acid sequence of an HLA-DR antigen-like beta chain as
+RT   predicted from the nucleotide sequence: similarities with immunoglobulins
+RT   and HLA-A, -B, and -C antigens.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 79:3687-3691(1982).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELE DQB1*03:02).
+RX   PubMed=6316358; DOI=10.1073/pnas.80.23.7313;
+RA   Larhammar D., Hyldig-Nielsen J.-J., Servenius B., Andersson G., Rask L.,
+RA   Peterson P.A.;
+RT   "Exon-intron organization and complete nucleotide sequence of a human major
+RT   histocompatibility antigen DC beta gene.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 80:7313-7317(1983).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELE DQB1*02:01).
+RX   PubMed=6206493; DOI=10.1073/pnas.81.16.5199;
+RA   Boss J.M., Strominger J.L.;
+RT   "Cloning and sequence analysis of the human major histocompatibility
+RT   complex gene DC-3 beta.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 81:5199-5203(1984).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE DQB1*05:01).
+RX   PubMed=2998758; DOI=10.1002/j.1460-2075.1985.tb04012.x;
+RA   Tonnelle C., Demars R., Long E.O.;
+RT   "DO beta: a new beta chain gene in HLA-D with a distinct regulation of
+RT   expression.";
+RL   EMBO J. 4:2839-2847(1985).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE DQB1*05:01).
+RX   PubMed=2888727; DOI=10.1007/bf00346523;
+RA   Turco E., Care A., Compagnone-Post P., Robinson C., Cascino I., Trucco M.;
+RT   "Allelic forms of the alpha- and beta-chain genes encoding DQw1-positive
+RT   heterodimers.";
+RL   Immunogenetics 26:282-290(1987).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELE DQB1*03:02).
+RX   PubMed=3036828; DOI=10.1016/s0021-9258(18)47482-0;
+RA   Jonsson A.-K., Hyldig-Nielsen J.-J., Servenius B., Larhammar D.,
+RA   Andersson G., Joergensen F., Peterson P.A., Rask L.;
+RT   "Class II genes of the human major histocompatibility complex. Comparisons
+RT   of the DQ and DX alpha and beta genes.";
+RL   J. Biol. Chem. 262:8767-8777(1987).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND VARIANTS VAL-15; SER-28; GLY-45; LEU-58;
+RP   GLY-77; GLY-102 AND ARG-199.
+RX   PubMed=3584986;
+RA   Schiffenbauer J., Didier D.K., Klearman M., Rice K., Shuman S.,
+RA   Tieber V.L., Kittlesen D.J., Schwartz B.D.;
+RT   "Complete sequence of the HLA DQ alpha and DQ beta cDNA from a DR5/DQw3
+RT   cell line.";
+RL   J. Immunol. 139:228-233(1987).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE DQB1*06:02).
+RX   PubMed=3259543; DOI=10.1007/bf00364432;
+RA   Lock C.B., So A.K., Welsh K.I., Parkes J.D., Trowsdale J.;
+RT   "MHC class II sequences of an HLA-DR2 narcoleptic.";
+RL   Immunogenetics 27:449-455(1988).
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE DQB1*03:03).
+RX   PubMed=2050393; DOI=10.1007/bf00216702;
+RA   Giorda R., Turco E., Trucco M.;
+RT   "Full length beta chain cDNAs of DQw9 and DQw8 molecules encode proteins
+RT   that differ only at amino acid 57.";
+RL   Immunogenetics 33:404-408(1991).
+RN   [11]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE DQB1*06:12).
+RX   PubMed=8988543; DOI=10.1111/j.1399-0039.1996.tb02674.x;
+RA   Vilches C., Garcia-Pacheco J.M., de Pablo R., Puente S., Kreisler M.;
+RT   "Complete coding region of the new HLA-DQB1*0612 allele, obtained by RT-
+RT   PCR.";
+RL   Tissue Antigens 48:589-592(1996).
+RN   [12]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELE DQB1*02:01).
+RX   PubMed=9271631; DOI=10.1007/s002510050295;
+RA   Ellis M.C., Hetisimer A.H., Ruddy D.A., Hansen S.L., Kronmal G.S.,
+RA   McClelland E., Quintana L., Drayna D.T., Aldrich M.S., Mignot E.;
+RT   "HLA class II haplotype and sequence analysis support a role for DQ in
+RT   narcolepsy.";
+RL   Immunogenetics 46:410-417(1997).
+RN   [13]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELES DQB1*03:01 AND DQB1*03:03).
+RX   PubMed=16140993; DOI=10.1101/gr.3554305;
+RA   Raymond C.K., Kas A., Paddock M., Qiu R., Zhou Y., Subramanian S.,
+RA   Chang J., Palmieri A., Haugen E., Kaul R., Olson M.V.;
+RT   "Ancient haplotypes of the HLA Class II region.";
+RL   Genome Res. 15:1250-1257(2005).
+RN   [14]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELES DQB1*03:01; DQB1*04:01 AND DQB1*05:02).
+RA   Kim E., Lee E., Kwack K.;
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [15]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (ALLELES DQB1*02:02;
+RP   DQB1*03:01 AND DQB1*03:03).
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [16]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ALLELE DQB1*03:02).
+RC   TISSUE=B-cell;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [17]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 1-126 (ALLELE DQB1*06:02).
+RX   PubMed=2925231; DOI=10.1007/bf00373644;
+RA   Hiraiwa A., Seyfried C.E., Nepom G.T., Milner E.C.;
+RT   "Sequence analysis of HLA class II domains: characterization of the DQw3
+RT   family of DQB genes.";
+RL   Immunogenetics 29:186-190(1989).
+RN   [18]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 2-261 (ALLELE DQB1*03:01), AND NUCLEOTIDE
+RP   SEQUENCE [MRNA] OF 33-261 (ALLELE DQB1*03:09).
+RA   White J.M., Baxter-Lowe L.A.;
+RT   "Nucleotide Deletions in a DQB1*0301 variant.";
+RL   Submitted (DEC-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [19]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 10-126 (ALLELE DQB1*06:02).
+RX   PubMed=2494138; DOI=10.1016/0198-8859(89)90058-x;
+RA   Uryu N., Maeda M., Nagata Y., Matsuki K., Juji T., Honda Y., Kawai J.,
+RA   Ando A., Tsuji K., Inoko H.;
+RT   "No difference in the nucleotide sequence of the DQ beta beta 1 domain
+RT   between narcoleptic and healthy individuals with DR2,Dw2.";
+RL   Hum. Immunol. 24:175-181(1989).
+RN   [20]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 33-261 (ALLELE DQB1*04:02).
+RX   PubMed=2777341; DOI=10.1007/bf02421214;
+RA   Jonsson A.-K., Andersson L., Rask L.;
+RT   "Complete sequences of DQA1 and DQB1 cDNA clones corresponding to the DQw4
+RT   specificity.";
+RL   Immunogenetics 30:232-234(1989).
+RN   [21]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 33-261 (ALLELES DQB1*03:03; DQB1*05:01;
+RP   DQB1*05:03; DQB1*06:01; DQB1*06:02; DQB1*06:03 AND DQB1*06:04), AND
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 33-126 (ALLELE DQB1*03:01).
+RX   PubMed=8929711; DOI=10.1111/j.1399-0039.1996.tb02512.x;
+RA   Yasunaga S., Kimura A., Hamaguchi K., Ronningen K.S., Sasazuki T.;
+RT   "Different contribution of HLA-DR and -DQ genes in susceptibility and
+RT   resistance to insulin-dependent diabetes mellitus (IDDM).";
+RL   Tissue Antigens 47:37-48(1996).
+RN   [22]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 33-261 (ALLELE DQB1*03:10).
+RX   PubMed=11098940; DOI=10.1034/j.1399-0039.2000.560412.x;
+RA   Balas A., Santos S., Aviles M.J., Garcia-Sanchez F., Lillo R.,
+RA   Vicario J.L.;
+RT   "Identification by sequencing based typing and complete coding region
+RT   analysis of three new HLA class II alleles: DRB3*0210, DRB3*0211 and
+RT   DQB1*0310.";
+RL   Tissue Antigens 56:380-384(2000).
+RN   [23]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 33-261 (ALLELE DQB1*06:09).
+RA   Yasunaga S.;
+RL   Submitted (JAN-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [24]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 33-231 (ALLELES DQB1*03:04 AND
+RP   DQB1*03:05).
+RX   PubMed=7928445; DOI=10.1016/0198-8859(94)90060-4;
+RA   Cucca F., Frau F., Lampis R., Floris M., Argiolas L., Macis D., Cao A.,
+RA   De Virgiliis S., Congia M.;
+RT   "HLA-DQB1*0305 and -DQB1*0304 alleles among Sardinians. Evolutionary and
+RT   practical implications for oligotyping.";
+RL   Hum. Immunol. 40:143-149(1994).
+RN   [25]
+RP   PROTEIN SEQUENCE OF 33-181 AND 200-230 (ALLELE DQB1*06:02).
+RX   PubMed=6576979; DOI=10.1515/bchm2.1983.364.1.749;
+RA   Goetz H., Kratzin H., Thinnes F.P., Yang C.-Y., Kruse T., Pauly E.,
+RA   Koelbel S., Egert G., Wernet P., Hilschmann N.;
+RT   "Primary structure of human class II histocompatibility antigens 3rd
+RT   communication. Amino acid sequence comparison between DR and DC subclass
+RT   antigens derived from a lymphoblastoid B cell line homozygous at the HLA
+RT   loci (HLA-A3,3; B7,7; Dw2,2; DR2,2: MT1,1; Dc1,1: MB1,1).";
+RL   Hoppe-Seyler's Z. Physiol. Chem. 364:749-755(1983).
+RN   [26]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 33-140 (ALLELE DQB1*06:05).
+RX   PubMed=2212675;
+RA   Lee K.W., Johnson A.H., Hurley C.K.;
+RT   "Two divergent routes of evolution gave rise to the DRw13 haplotypes.";
+RL   J. Immunol. 145:3119-3125(1990).
+RN   [27]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 33-126 (ALLELE DQB1*02:01).
+RX   PubMed=3020127;
+RA   Karr R.W., Gregersen P.K., Obata F., Goldberg D., Maccari J., Alber C.,
+RA   Silver J.;
+RT   "Analysis of DR-beta and DQ-beta chain cDNA clones from a DR7 haplotype.";
+RL   J. Immunol. 137:2886-2890(1986).
+RN   [28]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 33-126 (ALLELE DQB1*06:22).
+RX   PubMed=17868257; DOI=10.1111/j.1399-0039.2007.00927.x;
+RA   Chang Y., Fan T.X., Santana Z., Day N.K.;
+RT   "Identification of a novel allele HLA-DQB1*0622.";
+RL   Tissue Antigens 70:442-444(2007).
+RN   [29]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 33-122 (ALLELE DQB1*06:02).
+RX   PubMed=2886427; DOI=10.1007/bf00345459;
+RA   Lee B.S., Bell J.I., Rust N.A., McDevitt H.O.;
+RT   "Structural and functional variability among DQ beta alleles of DR2
+RT   subtypes.";
+RL   Immunogenetics 26:85-91(1987).
+RN   [30]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 33-107 (ALLELE DQB1*03:07).
+RX   PubMed=9174147; DOI=10.1111/j.1399-0039.1997.tb02789.x;
+RA   Thye T., Muntau B., Stelma F.F., Horstmann R.D.;
+RT   "A novel allele, DQB1*0307, in a West African family.";
+RL   Tissue Antigens 49:517-518(1997).
+RN   [31]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 37-126 (ALLELE DQB1*06:18).
+RX   PubMed=11782280; DOI=10.1034/j.1399-0039.2001.580409.x;
+RA   Casamitjana N., Gil J., Campos E., Santos M., Nogues N., Ribera A.,
+RA   Palou E.;
+RT   "Identification of a novel HLA-DQB1*06 allele, DQB1*0618.";
+RL   Tissue Antigens 58:269-271(2001).
+RN   [32]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 37-126 (ALLELE DQB1*06:19).
+RA   Bowman S., Diviney M., Dunckley H., Holdsworth R., Varney M.;
+RT   "A new DQB1*0602 variant found in Australian Caucasian.";
+RL   Submitted (MAR-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [33]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 37-121 (ALLELE DQB1*06:13).
+RX   PubMed=9458130; DOI=10.1111/j.1399-0039.1997.tb02935.x;
+RA   Hsu S.H., Robbins F.M., Modelo R.B., Brunner J., Flomenberg N.;
+RT   "Identification of a new DQB1*0613 allele in a family.";
+RL   Tissue Antigens 50:685-687(1997).
+RN   [34]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-257 (ALLELE DQB1*06:36).
+RC   TISSUE=Peripheral blood;
+RA   Skrablin P.S., Richter R., Seidl C., Seifried E.;
+RT   "New HLA-DQB1*06 allele found in a voluntary blood stem cell donor.";
+RL   Submitted (MAR-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [35]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-220 (ALLELE DQB1*03:19).
+RX   PubMed=17559588; DOI=10.1111/j.1399-0039.2007.00848.x;
+RA   Witter K., Mautner J., Albert T., Zahn R., Kauke T.;
+RT   "HLA-DQB1*0319, a novel HLA-DQB1 allele, shows strong haplotype association
+RT   to HLA-DRB1*1102.";
+RL   Tissue Antigens 70:73-75(2007).
+RN   [36]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-220 (ALLELE DQB1*06:34).
+RX   PubMed=18331527; DOI=10.1111/j.1399-0039.2008.01021.x;
+RA   Witter K., Albert T., Zahn R., Kauke T.;
+RT   "HLA-DQB1*0634, a novel DQB1 allele found by high-resolution HLA typing of
+RT   a sibling pair for potential bone marrow transplantation.";
+RL   Tissue Antigens 71:486-488(2008).
+RN   [37]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-220 (ALLELE DQB1*03:21), AND
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELES DQB1*02:05 AND
+RP   DQB1*03:20).
+RX   PubMed=18588576; DOI=10.1111/j.1399-0039.2008.01070.x;
+RA   Lazaro A.M., Xiao Y., Masaberg C., Lebeck L., Ng J., Hurley C.K.,
+RA   Posch P.E.;
+RT   "Novel alleles at the HLA-DRB1 and -DQB1 loci.";
+RL   Tissue Antigens 72:72-74(2008).
+RN   [38]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-220 (ALLELE DQB1*03:22).
+RC   TISSUE=Peripheral blood;
+RX   PubMed=19254265; DOI=10.1111/j.1399-0039.2008.01201.x;
+RA   Witter K., Lochmann E., Vecchiato C., Albert T., Zahn R., Kauke T.;
+RT   "Sequence-based HLA high-resolution retyping of a bone marrow
+RT   donor/recipient pair reveals the novel HLA allele DQB1*0322.";
+RL   Tissue Antigens 73:283-285(2009).
+RN   [39]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-220 (ALLELE DQB1*03:23).
+RC   TISSUE=Peripheral blood;
+RX   PubMed=19493242; DOI=10.1111/j.1399-0039.2009.01231.x;
+RA   Wienzek S., Verboom M., Blasczyk R., Bein G., Horn P.A.;
+RT   "DQB1*0323 is the result of a gene conversion event between a DQB1*06 and a
+RT   DQB1*030303 allele.";
+RL   Tissue Antigens 73:624-625(2009).
+RN   [40]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-220 (ALLELE DQB1*02:04).
+RA   Gragg H., Cordovado S.K., Hendrix M.M., Mueller P.W.;
+RT   "Identification of a novel HLA-DQB1*02 allele.";
+RL   Submitted (JUN-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [41]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-220 (ALLELE DQB1*03:25).
+RA   Thompson E.M., Mehdizadeh Kashi Z., Martin R.K.;
+RT   "Homo sapiens novel MHC class II HLA-DQB1 gene HLA-DQB1*03 novel allele,
+RT   exons 2 and 3.";
+RL   Submitted (MAY-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [42]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-220 (ALLELE DQB1*03:24).
+RA   Michaud C., Giannoli C., Favre Victoire I., Dubois V.;
+RT   "A new HLA-DQB allele, identified by routine sequencing.";
+RL   Submitted (DEC-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [43]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-220 (ALLELES DQB1*06:38 AND
+RP   DQB1*06:39).
+RC   TISSUE=Blood;
+RA   Anholts J.D.H.;
+RT   "New alleles found during routine SBT HLA typing.";
+RL   Submitted (SEP-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [44]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:10).
+RX   PubMed=8896183; DOI=10.1111/j.1399-0039.1996.tb02633.x;
+RA   Mersch G., Semana G., De Canck I., Jannes G., Rombout A., Sterker G.,
+RA   Rossau R.;
+RT   "Characterization of a new DQB1 allele (DQB1*0610) which differs from
+RT   DQB1*0602 at the highly polymorphic 57-codon.";
+RL   Tissue Antigens 48:217-220(1996).
+RN   [45]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:06).
+RC   TISSUE=Blood;
+RX   PubMed=8988541; DOI=10.1111/j.1399-0039.1996.tb02672.x;
+RA   Saito S., Ota S., Hashizume K., Yamada E., Kaneshige T., Hashimoto M.,
+RA   Oguchi H., Ishii E., Fukushima H.;
+RT   "A new HLA-DQB1*0306 allele sharing motifs from DQB1*03032 and DQB1*04
+RT   sequences.";
+RL   Tissue Antigens 48:580-585(1996).
+RN   [46]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:11), AND
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 41-120 (ALLELE DQB1*06:20).
+RX   PubMed=15361133; DOI=10.1111/j.1399-0039.2004.00307.x;
+RA   Hogbin J.P., Greville W., Chapman G., Kennedy A., Velickovic Z.M.,
+RA   Dunckley H.;
+RT   "Identification of two novel HLA class II alleles, DQB1*0311 and
+RT   DQB1*0620.";
+RL   Tissue Antigens 64:515-517(2004).
+RN   [47]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:16).
+RA   Chen D.-F., DeOliveira A., Peplinski S., Herczyk W., Reinsmoen N.L.;
+RT   "A novel DQB1*03 allele revealed by rSSOP and identified by SBT.";
+RL   Hum. Immunol. 66:30-30(2005).
+RN   [48]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:14).
+RX   PubMed=15853909; DOI=10.1111/j.1399-0039.2005.00397.x;
+RA   Gu H., Kimm K., Lee J.K., Oh B.;
+RT   "Identification of a novel HLA-DQB1 allele, DQB1*0314, by sequence-based
+RT   typing in the Korean population.";
+RL   Tissue Antigens 65:503-504(2005).
+RN   [49]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:28).
+RX   PubMed=17212715; DOI=10.1111/j.1399-0039.2006.00733.x;
+RA   Witter K., Albert T., Zahn R., Kauke T.;
+RT   "A novel HLA-DQB1*06 allele, DQB1*0628, found through routine sequence-
+RT   based HLA typing and confirmation of DQB1*060302.";
+RL   Tissue Antigens 69:102-103(2007).
+RN   [50]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:32).
+RC   TISSUE=Blood;
+RX   PubMed=17999653; DOI=10.1111/j.1399-0039.2007.00967.x;
+RA   Emmerich F., Schonemann C., Diederich G., Horn P.A., Salama A.;
+RT   "Identification of a novel HLA-DQB1 allele, HLA-DQB1*0632.";
+RL   Tissue Antigens 71:94-95(2008).
+RN   [51]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*05:05).
+RX   PubMed=19392794; DOI=10.1111/j.1399-0039.2009.01248.x;
+RA   Giannoli C., Paturel L., Favre-Victoire I., Bera O., Dubois V.;
+RT   "Two new HLA-DQB alleles routinely identified by sequence-based typing:
+RT   DQB1*030103 and DQB1*0505.";
+RL   Tissue Antigens 73:622-623(2009).
+RN   [52]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*02:03).
+RA   Olerup O.H.;
+RT   "A novel DQB1*02 allele.";
+RL   Submitted (OCT-1995) to the EMBL/GenBank/DDBJ databases.
+RN   [53]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:05).
+RA   Rugg J., Blanton M., Whitacre L., Balakrishnan K., Lebeer K.,
+RA   Van Reybroeck G., Mersch G.;
+RT   "Detection of a new DQB1 allele.";
+RL   Submitted (NOV-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [54]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:15).
+RA   Shah A., Ross J., Chenery P., Holman R., Madrigal A., Little A.M.;
+RT   "Two novel DQB1*06 alleles, identified by reverse line blot assay.";
+RL   Submitted (OCT-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [55]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:05).
+RC   TISSUE=Peripheral blood;
+RA   Moine A.;
+RT   "A new variant form of the HLA DQB1*0305 allele.";
+RL   Submitted (JAN-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [56]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:12).
+RA   Schwarz K., Zenz C.;
+RT   "Homo sapiens HLA-DQB1*0312 allele, exon 2.";
+RL   Submitted (JAN-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [57]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:13).
+RA   Wu J., Bassinger S., Williams T.M.;
+RT   "Novel human HLA-DQB1 allele identified in potential bone marrow donors.";
+RL   Submitted (FEB-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [58]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:21).
+RA   De Canck I.;
+RT   "Identification of a new HLA-DQB1*06 allele by INNO-LiPA.";
+RL   Submitted (DEC-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [59]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:17).
+RA   Bassinger S., Wu J., Zhang Q., Brinkema C., Smith A.G., Williams T.M.;
+RT   "Novel DQB1*06 alleles.";
+RL   Submitted (FEB-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [60]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:23).
+RA   Hirv K., Krauss A., Mytilineos J.;
+RT   "Characterization of a new HLA-DQB1 allele by direct sequencing.";
+RL   Submitted (AUG-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [61]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:15).
+RC   TISSUE=Peripheral blood;
+RA   Velickovic Z.M.;
+RT   "Novel HLA-DQB1*03 allele.";
+RL   Submitted (NOV-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [62]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:24).
+RA   Schranz P., Seelig R., Seelig H.P.;
+RT   "A new HLA-DQB1 allele.";
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [63]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:25).
+RA   Watabe K., Hashimoto M.;
+RT   "Homo sapiens HLA-DQ gene for MHC class2 antigen, partial cds, allele: HLA-
+RT   DQB1*060401V.";
+RL   Submitted (APR-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [64]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:17).
+RA   Chu C.-C.;
+RT   "A novel DQB1 allele found in Taiwan.";
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [65]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:18).
+RA   Hendrix M.M., Cordovado S.K., Mueller P.W.;
+RT   "High resolution genotyping of HLA-DQB1 exon 2 and 3.";
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [66]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:29).
+RA   Horn P.A., Blasczyk R.;
+RT   "A novel HLA-DRQ1*06 allele.";
+RL   Submitted (SEP-2006) to the EMBL/GenBank/DDBJ databases.
+RN   [67]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:31).
+RA   Nieberle I., Hirschmann D., Woelpl A.;
+RT   "Identification of several new class I and II alleles in routine HLA-
+RT   testing.";
+RL   Submitted (JAN-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [68]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:33).
+RA   Yu M., Hall J.E., Hartman K.J., Caparelli E., Czech J., Smyth E.,
+RA   Jennings L.;
+RT   "A novel HLA-DQB1*06 allele identified by PCR-SBT in a caucasian NMDP
+RT   donor.";
+RL   Submitted (MAY-2007) to the EMBL/GenBank/DDBJ databases.
+RN   [69]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*04:03).
+RA   Vigh A., Hirv K., Mytilineos J.;
+RT   "Characterization of a new HLA-Cw*07 allele.";
+RL   Submitted (JAN-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [70]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*06:37).
+RA   Fuerst D., Mytilineos J.;
+RT   "A new variant of HLA-DQB1*06.";
+RL   Submitted (JUL-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [71]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-126 (ALLELE DQB1*03:26).
+RA   Yang K., Chen M.;
+RT   "Novel DQB1*03 found in CAP test sample.";
+RL   Submitted (SEP-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [72]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-122 (ALLELE DQB1*06:16).
+RX   PubMed=10323344; DOI=10.1034/j.1399-0039.1999.530410.x;
+RA   Luo M., Blanchard J., Maclean I., Brunham R.;
+RT   "Identification of a novel DQB1 allele DBQ1*0616.";
+RL   Tissue Antigens 53:381-382(1999).
+RN   [73]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 38-115 (ALLELE DQB1*06:30).
+RA   Rizzo M., Hurley C.K.;
+RT   "Novel HLA-DQB1 allele.";
+RL   Submitted (APR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [74]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 41-126 (ALLELE DQB1*06:14).
+RC   TISSUE=Blood;
+RX   PubMed=9802612; DOI=10.1111/j.1399-0039.1998.tb03047.x;
+RA   Hashemi-tavoularis S., Ouellet S., Sengar D.P.S., Buyse I.M.;
+RT   "A novel DRB3 allele (DRB3*0208), a new allelic variant of DRB1*1502
+RT   (DRB1*15023) and two new DQB1 (DQB1*03012 and DQB1*0614) alleles.";
+RL   Tissue Antigens 52:294-299(1998).
+RN   [75]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 41-125 (ALLELE DQB1*06:11).
+RX   PubMed=8896171; DOI=10.1111/j.1399-0039.1996.tb02621.x;
+RA   Williams T.M., Bassinger S., Moehlenkamp C., Wu J., Montoya G.D.,
+RA   Griffith B.B., McAuley J.D., Goldman S., Maurer D.H., Troup G.M.;
+RT   "Strategy for distinguishing a new DQB1 allele (DQB1*0611) from the closely
+RT   related DQB1*0602 allele via sequence specific PCR or direct DNA
+RT   sequencing.";
+RL   Tissue Antigens 48:143-147(1996).
+RN   [76]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 41-125 (ALLELE DQB1*06:27).
+RX   PubMed=16441489; DOI=10.1111/j.1399-0039.2006.00515.x;
+RA   Brixner V., Mosebach M., Schmidt M., Hermann S., Seifried E., Martin H.,
+RA   Seidl C.;
+RT   "HLA-DRB1*0826 and HLA-DQB1*0627, two novel class II alleles identified in
+RT   blood stem cell donors of Caucasian origin.";
+RL   Tissue Antigens 67:160-162(2006).
+RN   [77]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 41-122 (ALLELES DQB1*06:07 AND
+RP   DQB1*06:08).
+RA   Dinauer D.M., Hessner M.J.;
+RL   Submitted (DEC-1998) to the EMBL/GenBank/DDBJ databases.
+RN   [78]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 41-114 (ALLELE DQB1*05:04).
+RX   PubMed=1440562; DOI=10.1111/j.1399-0039.1992.tb01958.x;
+RA   Fenske T.S., Baxter-Lowe L.A.;
+RT   "Two novel HLA-DQB1*06 alleles reveal additional heterogeneity of HLA-
+RT   DQw1.";
+RL   Tissue Antigens 40:49-52(1992).
+RN   [79]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 53-109 (ALLELE DQB1*02:01).
+RX   PubMed=2308943; DOI=10.1073/pnas.87.5.1835;
+RA   Gyllensten U.B., Lashkari D., Erlich H.A.;
+RT   "Allelic diversification at the class II DQB locus of the mammalian major
+RT   histocompatibility complex.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87:1835-1839(1990).
+RN   [80]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 53-109 (ALLELES DQB1*02:01 AND
+RP   DQB1*06:02).
+RX   PubMed=2010218; DOI=10.1007/bf01719235;
+RA   Bugawan T.L., Erlich H.A.;
+RT   "Rapid typing of HLA-DQB1 DNA polymorphism using nonradioactive
+RT   oligonucleotide probes and amplified DNA.";
+RL   Immunogenetics 33:163-170(1991).
+RN   [81]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 135-217 (ALLELE DQB1*02:01).
+RX   PubMed=6952552; DOI=10.1111/j.1365-3083.1981.tb00603.x;
+RA   Larhammar D., Wiman K., Schenning L., Claesson L., Gustafsson K.,
+RA   Peterson P.A., Rask L.;
+RT   "Evolutionary relationship between HLA-DR antigen beta-chains, HLA-A, B, C
+RT   antigen subunits and immunoglobulin chains.";
+RL   Scand. J. Immunol. 14:617-622(1981).
+RN   [82]
+RP   POLYMORPHISM.
+RX   PubMed=18565458; DOI=10.1016/s1474-4422(08)70140-6;
+RA   Bourgin P., Zeitzer J.M., Mignot E.;
+RT   "CSF hypocretin-1 assessment in sleep and neurological disorders.";
+RL   Lancet Neurol. 7:649-662(2008).
+RN   [83]
+RP   REVIEW.
+RX   PubMed=8598037; DOI=10.1016/s0092-8674(00)81025-9;
+RA   Cresswell P.;
+RT   "Invariant chain structure and MHC class II function.";
+RL   Cell 84:505-507(1996).
+RN   [84]
+RP   REVIEW.
+RX   PubMed=11684289; DOI=10.1016/s0161-5890(01)00069-4;
+RA   Villadangos J.A.;
+RT   "Presentation of antigens by MHC class II molecules: getting the most out
+RT   of them.";
+RL   Mol. Immunol. 38:329-346(2001).
+RN   [85]
+RP   REVIEW.
+RX   PubMed=18046453; DOI=10.1038/sj.emboj.7601945;
+RA   Rocha N., Neefjes J.;
+RT   "MHC class II molecules on the move for successful antigen presentation.";
+RL   EMBO J. 27:1-5(2008).
+RN   [86]
+RP   REVIEW.
+RX   PubMed=17241953; DOI=10.1016/j.immuni.2007.01.005;
+RA   Menendez-Benito V., Neefjes J.;
+RT   "Autophagy in MHC class II presentation: sampling from within.";
+RL   Immunity 26:1-3(2007).
+RN   [87]
+RP   REVIEW.
+RX   PubMed=19092054; DOI=10.1242/jcs.035089;
+RA   Berger A.C., Roche P.A.;
+RT   "MHC class II transport at a glance.";
+RL   J. Cell Sci. 122:1-4(2009).
+RN   [88]
+RP   REVIEW.
+RX   PubMed=19533806; DOI=10.3748/wjg.15.2855;
+RA   Beswick E.J., Reyes V.E.;
+RT   "CD74 in antigen presentation, inflammation, and cancers of the
+RT   gastrointestinal tract.";
+RL   World J. Gastroenterol. 15:2855-2861(2009).
+RN   [89]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 35-224 OF HLA-DQA1/HLA-DQB1
+RP   HETERODIMER IN COMPLEX WITH INS PEPTIDE, SUBUNIT, AND DISULFIDE BONDS.
+RX   PubMed=11376336; DOI=10.1038/88694;
+RA   Lee K.H., Wucherpfennig K.W., Wiley D.C.;
+RT   "Structure of a human insulin peptide-HLA-DQ8 complex and susceptibility to
+RT   type 1 diabetes.";
+RL   Nat. Immunol. 2:501-507(2001).
+RN   [90]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 35-231 OF HLA-DQA1/HLA-DQB1
+RP   HETERODIMER (HLA-DQ0602) IN COMPLEX WITH HCRT PEPTIDE, POLYMORPHISM,
+RP   SUBUNIT, AND DISULFIDE BONDS.
+RX   PubMed=14769912; DOI=10.1073/pnas.0308458100;
+RA   Siebold C., Hansen B.E., Wyer J.R., Harlos K., Esnouf R.E., Svejgaard A.,
+RA   Bell J.I., Strominger J.L., Jones E.Y., Fugger L.;
+RT   "Crystal structure of HLA-DQ0602 that protects against type 1 diabetes and
+RT   confers strong susceptibility to narcolepsy.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:1999-2004(2004).
+RN   [91]
+RP   X-RAY CRYSTALLOGRAPHY (2.22 ANGSTROMS) OF 33-230 OF HLA-DQA1/HLA-DQB1
+RP   HETERODIMER (DQ2) IN COMPLEX WITH TRITICUM AESTIVUM ALPHA/BETA-GLIADIN
+RP   PEPTIDE, SUBUNIT, AND POLYMORPHISM.
+RX   PubMed=15020763; DOI=10.1073/pnas.0306885101;
+RA   Kim C.Y., Quarsten H., Bergseng E., Khosla C., Sollid L.M.;
+RT   "Structural basis for HLA-DQ2-mediated presentation of gluten epitopes in
+RT   celiac disease.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:4175-4179(2004).
+RN   [92]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 33-224 OF HLA-DQA1/HLA-DQB1
+RP   HETERODIMER IN COMPLEX WITH TRITICUM AESTIVUM ALPHA/BETA-GLIADIN PEPTIDE,
+RP   POLYMORPHISM, SUBUNIT, AND DISULFIDE BONDS.
+RX   PubMed=17629515; DOI=10.1016/j.immuni.2007.05.015;
+RA   Henderson K.N., Tye-Din J.A., Reid H.H., Chen Z., Borg N.A., Beissbarth T.,
+RA   Tatham A., Mannering S.I., Purcell A.W., Dudek N.L., van Heel D.A.,
+RA   McCluskey J., Rossjohn J., Anderson R.P.;
+RT   "A structural and immunological basis for the role of human leukocyte
+RT   antigen DQ8 in celiac disease.";
+RL   Immunity 27:23-34(2007).
+RN   [93]
+RP   VARIANT [LARGE SCALE ANALYSIS] ALA-172, AND IDENTIFICATION BY MASS
+RP   SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+CC   -!- FUNCTION: Binds peptides derived from antigens that access the
+CC       endocytic route of antigen presenting cells (APC) and presents them on
+CC       the cell surface for recognition by the CD4 T-cells. The peptide
+CC       binding cleft accommodates peptides of 10-30 residues. The peptides
+CC       presented by MHC class II molecules are generated mostly by degradation
+CC       of proteins that access the endocytic route, where they are processed
+CC       by lysosomal proteases and other hydrolases. Exogenous antigens that
+CC       have been endocytosed by the APC are thus readily available for
+CC       presentation via MHC II molecules, and for this reason this antigen
+CC       presentation pathway is usually referred to as exogenous. As membrane
+CC       proteins on their way to degradation in lysosomes as part of their
+CC       normal turn-over are also contained in the endosomal/lysosomal
+CC       compartments, exogenous antigens must compete with those derived from
+CC       endogenous components. Autophagy is also a source of endogenous
+CC       peptides, autophagosomes constitutively fuse with MHC class II loading
+CC       compartments. In addition to APCs, other cells of the gastrointestinal
+CC       tract, such as epithelial cells, express MHC class II molecules and
+CC       CD74 and act as APCs, which is an unusual trait of the GI tract. To
+CC       produce a MHC class II molecule that presents an antigen, three MHC
+CC       class II molecules (heterodimers of an alpha and a beta chain)
+CC       associate with a CD74 trimer in the ER to form a heterononamer. Soon
+CC       after the entry of this complex into the endosomal/lysosomal system
+CC       where antigen processing occurs, CD74 undergoes a sequential
+CC       degradation by various proteases, including CTSS and CTSL, leaving a
+CC       small fragment termed CLIP (class-II-associated invariant chain
+CC       peptide). The removal of CLIP is facilitated by HLA-DM via direct
+CC       binding to the alpha-beta-CLIP complex so that CLIP is released. HLA-DM
+CC       stabilizes MHC class II molecules until primary high affinity antigenic
+CC       peptides are bound. The MHC II molecule bound to a peptide is then
+CC       transported to the cell membrane surface. In B-cells, the interaction
+CC       between HLA-DM and MHC class II molecules is regulated by HLA-DO.
+CC       Primary dendritic cells (DCs) also to express HLA-DO. Lysosomal
+CC       microenvironment has been implicated in the regulation of antigen
+CC       loading into MHC II molecules, increased acidification produces
+CC       increased proteolysis and efficient peptide loading.
+CC   -!- SUBUNIT: Heterodimer of an alpha and a beta subunit; also referred as
+CC       MHC class II molecule. In the endoplasmic reticulum (ER) it forms a
+CC       heterononamer; 3 MHC class II molecules bind to a CD74 homotrimer (also
+CC       known as invariant chain or HLA class II histocompatibility antigen
+CC       gamma chain). In the endosomal/lysosomal system; CD74 undergoes
+CC       sequential degradation by various proteases; leaving a small fragment
+CC       termed CLIP on each MHC class II molecule. MHC class II molecule
+CC       interacts with HLA_DM, and HLA_DO in B-cells, in order to release CLIP
+CC       and facilitate the binding of antigenic peptides.
+CC       {ECO:0000269|PubMed:11376336, ECO:0000269|PubMed:14769912,
+CC       ECO:0000269|PubMed:15020763, ECO:0000269|PubMed:17629515}.
+CC   -!- INTERACTION:
+CC       P01920; P01909: HLA-DQA1; NbExp=10; IntAct=EBI-1038012, EBI-713389;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Single-pass type I membrane
+CC       protein. Endoplasmic reticulum membrane; Single-pass type I membrane
+CC       protein. Golgi apparatus, trans-Golgi network membrane; Single-pass
+CC       type I membrane protein. Endosome membrane; Single-pass type I membrane
+CC       protein. Lysosome membrane; Single-pass type I membrane protein.
+CC       Note=The MHC class II complex transits through a number of
+CC       intracellular compartments in the endocytic pathway until it reaches
+CC       the cell membrane for antigen presentation.
+CC   -!- POLYMORPHISM: The following alleles of HLA-DQB1 are known: DQB1*02:01,
+CC       DQB1*02:02, DQB1*02:03, DQB1*02:04, DQB1*02:05, DQB1*03:01, DQB1*03:02,
+CC       DQB1*03:03, DQB1*03:04, DQB1*03:05, DQB1*03:06, DQB1*03:07, DQB1*03:08,
+CC       DQB1*03:09, DQB1*03:10, DQB1*03:11, DQB1*03:12, DQB1*03:13, DQB1*03:14,
+CC       DQB1*03:15, DQB1*03:16, DQB1*03:17, DQB1*03:18, DQB1*03:19, DQB1*03:20,
+CC       DQB1*03:21, DQB1*03:22, DQB1*03:23, DQB1*03:24, DQB1*03:25, DQB1*03:26,
+CC       DQB1*04:01, DQB1*04:02, DQB1*04:03, DQB1*05:01, DQB1*05:02, DQB1*05:03,
+CC       DQB1*05:04, DQB1*05:05, DQB1*06:01, DQB1*06:02, DQB1*06:03, DQB1*06:04,
+CC       DQB1*06:05, DQB1*06:06, DQB1*06:07, DQB1*06:08, DQB1*06:09, DQB1*06:10,
+CC       DQB1*06:11, DQB1*06:12, DQB1*06:13, DQB1*06:14, DQB1*06:15, DQB1*06:16,
+CC       DQB1*06:17, DQB1*06:18, DQB1*06:19, DQB1*06:20, DQB1*06:21, DQB1*06:22,
+CC       DQB1*06:23, DQB1*06:24, DQB1*06:25, DQB1*06:27, DQB1*06:28, DQB1*06:29,
+CC       DQB1*06:30, DQB1*06:31, DQB1*06:32, DQB1*06:33, DQB1*06:34, DQB1*06:35,
+CC       DQB1*06:36, DQB1*06:37, DQB1*06:38, and DQB1*06:39. The sequence shown
+CC       is that of DQB1*03:01.
+CC   -!- POLYMORPHISM: DQ2 (heterodimer of DQA1*05:01/DQB1*02:01) is associated
+CC       with more than 90% of celiac disease patients. A minority displays DQ8
+CC       (heterodimer of DQA1*03/DQB1*03:02).
+CC   -!- POLYMORPHISM: DQ0602 (heterodimer of DQA1*01:02/DQB1*06:02) confers
+CC       dominant protection against type 1 diabetes (T1D) and strong
+CC       susceptibility to narcolepsy. DQB1*06:02 has been found to be present
+CC       in most of the narcolepsy patients. As well 98% of the patients with an
+CC       HCRT deficiency are positive for DQB1*06:02.
+CC   -!- SIMILARITY: Belongs to the MHC class II family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAC64403.2; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=CAJ57391.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; K01499; AAA98746.1; -; Genomic_DNA.
+DR   EMBL; K02405; AAA75521.1; -; Genomic_DNA.
+DR   EMBL; X03068; CAA26872.1; -; mRNA.
+DR   EMBL; M17564; AAA59765.1; -; mRNA.
+DR   EMBL; M29613; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; M29616; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; M16996; AAA59770.1; -; mRNA.
+DR   EMBL; M20432; AAA59769.1; -; mRNA.
+DR   EMBL; M60028; AAA59755.1; -; mRNA.
+DR   EMBL; X96420; CAA65280.1; -; mRNA.
+DR   EMBL; U92032; AAB91991.1; -; Genomic_DNA.
+DR   EMBL; AY663393; AAU87973.1; -; Genomic_DNA.
+DR   EMBL; AY663394; AAU87977.1; -; Genomic_DNA.
+DR   EMBL; AY663397; AAU87986.1; -; Genomic_DNA.
+DR   EMBL; AY663409; AAU88017.1; -; Genomic_DNA.
+DR   EMBL; AY663404; AAU88002.1; -; Genomic_DNA.
+DR   EMBL; AY663410; AAU88020.1; -; Genomic_DNA.
+DR   EMBL; AY663412; AAU88027.1; -; Genomic_DNA.
+DR   EMBL; AY656681; AAV71028.1; -; mRNA.
+DR   EMBL; AY656682; AAV71029.1; -; mRNA.
+DR   EMBL; AY656683; AAV71030.1; -; mRNA.
+DR   EMBL; BX927168; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CR753846; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; CR933859; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BC012106; AAH12106.1; -; mRNA.
+DR   EMBL; M25327; AAA59677.1; -; mRNA.
+DR   EMBL; U66400; AAB51698.1; -; mRNA.
+DR   EMBL; U83582; AAB41231.1; -; mRNA.
+DR   EMBL; AH002887; AAA59762.1; -; Genomic_DNA.
+DR   EMBL; M26042; AAA36270.1; -; mRNA.
+DR   EMBL; M33907; AAA52672.1; -; mRNA.
+DR   EMBL; L34096; AAC41964.1; -; mRNA.
+DR   EMBL; L34098; AAC41966.1; -; mRNA.
+DR   EMBL; L34101; AAC41969.1; -; mRNA.
+DR   EMBL; L34103; AAC41971.1; -; mRNA.
+DR   EMBL; L34104; AAC41972.1; -; mRNA.
+DR   EMBL; L34105; AAC41973.1; -; mRNA.
+DR   EMBL; L34106; AAC41974.1; -; mRNA.
+DR   EMBL; L34107; AAC41975.1; -; mRNA.
+DR   EMBL; AF195245; AAF28315.1; -; mRNA.
+DR   EMBL; L42626; AAA85335.1; -; mRNA.
+DR   EMBL; X76553; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; X76554; -; NOT_ANNOTATED_CDS; mRNA.
+DR   EMBL; M59800; AAA64235.1; -; mRNA.
+DR   EMBL; M14189; AAA36268.1; -; mRNA.
+DR   EMBL; AY672649; AAT77952.1; -; Genomic_DNA.
+DR   EMBL; M17207; AAA59697.1; -; mRNA.
+DR   EMBL; Z49215; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AY026349; AAK01944.1; -; Genomic_DNA.
+DR   EMBL; AF091305; AAC64403.2; ALT_SEQ; Genomic_DNA.
+DR   EMBL; U77344; AAB19215.1; -; Genomic_DNA.
+DR   EMBL; FN256435; CAX62164.1; -; Genomic_DNA.
+DR   EMBL; FN256435; CAX62165.1; -; Genomic_DNA.
+DR   EMBL; AM400970; CAL47037.1; -; Genomic_DNA.
+DR   EMBL; AM421131; CAM07104.1; -; Genomic_DNA.
+DR   EMBL; EF484936; ABO87661.1; -; Genomic_DNA.
+DR   EMBL; EF484939; ABO87664.1; -; Genomic_DNA.
+DR   EMBL; EU275158; ABY26531.1; -; Genomic_DNA.
+DR   EMBL; AM944346; CAQ16179.1; -; Genomic_DNA.
+DR   EMBL; FM200854; CAR31119.1; -; Genomic_DNA.
+DR   EMBL; AH013029; AAP93137.1; -; Genomic_DNA.
+DR   EMBL; EU770203; ACF16333.1; -; Genomic_DNA.
+DR   EMBL; FM955320; CAW24712.1; -; Genomic_DNA.
+DR   EMBL; FN552709; CBF35736.1; -; Genomic_DNA.
+DR   EMBL; FN552710; CBF35739.1; -; Genomic_DNA.
+DR   EMBL; X86327; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; D78569; BAA11413.1; -; Genomic_DNA.
+DR   EMBL; AF439338; AAL35222.1; -; Genomic_DNA.
+DR   EMBL; AF384556; AAM53072.1; -; Genomic_DNA.
+DR   EMBL; DQ026226; AAY89656.1; -; Genomic_DNA.
+DR   EMBL; AY762968; AAV97949.1; -; Genomic_DNA.
+DR   EMBL; AM181332; CAJ57391.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; AM691798; CAM88661.1; -; Genomic_DNA.
+DR   EMBL; AM259942; CAJ90956.1; -; Genomic_DNA.
+DR   EMBL; U39090; AAB02681.1; -; Genomic_DNA.
+DR   EMBL; AJ003005; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AJ012156; CAA09929.1; -; Genomic_DNA.
+DR   EMBL; AJ290396; CAC27418.1; -; Genomic_DNA.
+DR   EMBL; AF469118; AAL77085.1; -; Genomic_DNA.
+DR   EMBL; AF479569; AAM09472.1; -; Genomic_DNA.
+DR   EMBL; AJ535315; CAD59445.2; -; Genomic_DNA.
+DR   EMBL; AF181983; AAD54423.2; -; Genomic_DNA.
+DR   EMBL; AY733062; AAU33811.1; -; Genomic_DNA.
+DR   EMBL; AJ854065; CAH69441.1; -; Genomic_DNA.
+DR   EMBL; AJ964903; CAI79639.1; -; Genomic_DNA.
+DR   EMBL; AB211231; BAD95610.1; -; Genomic_DNA.
+DR   EMBL; DQ114427; AAZ20753.1; -; Genomic_DNA.
+DR   EMBL; DQ227421; ABB05231.1; -; Genomic_DNA.
+DR   EMBL; AM403489; CAL48285.1; -; Genomic_DNA.
+DR   EMBL; AM490069; CAM32717.1; -; Genomic_DNA.
+DR   EMBL; EF622510; ABR24117.1; -; Genomic_DNA.
+DR   EMBL; EU410617; ABZ89500.1; -; Genomic_DNA.
+DR   EMBL; GQ422610; ACV66342.1; -; Genomic_DNA.
+DR   EMBL; FN550110; CBE66554.1; -; Genomic_DNA.
+DR   EMBL; AF087939; AAD39697.1; -; Genomic_DNA.
+DR   EMBL; AY094140; AAM14401.1; -; Genomic_DNA.
+DR   EMBL; AJ001257; CAA04631.1; -; Genomic_DNA.
+DR   EMBL; U39086; AAA93181.1; -; Genomic_DNA.
+DR   EMBL; AJ965439; CAI84643.1; -; Genomic_DNA.
+DR   EMBL; AF112463; AAD23990.1; -; Genomic_DNA.
+DR   EMBL; AF112464; AAD23991.1; -; Genomic_DNA.
+DR   EMBL; M94773; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; M65042; AAA36241.1; -; Genomic_DNA.
+DR   EMBL; M25025; AAA59793.1; -; mRNA.
+DR   PIR; A02234; HLHU1C.
+DR   PIR; A35055; A35055.
+DR   PIR; A94003; HLHUDB.
+DR   PIR; B32527; B32527.
+DR   PIR; B37044; B37044.
+DR   PIR; C24669; HLHU2C.
+DR   PIR; F30575; F30575.
+DR   PIR; I54480; I54480.
+DR   PIR; I68732; I68732.
+DR   PIR; I72482; I72482.
+DR   PIR; S46648; S46648.
+DR   RefSeq; NP_001230891.1; NM_001243962.1.
+DR   RefSeq; NP_002114.3; NM_002123.4.
+DR   PDB; 1JK8; X-ray; 2.40 A; B=35-224.
+DR   PDB; 1S9V; X-ray; 2.22 A; B/E=33-230.
+DR   PDB; 1UVQ; X-ray; 1.80 A; B=35-230.
+DR   PDB; 2NNA; X-ray; 2.10 A; B=33-224.
+DR   PDB; 4GG6; X-ray; 3.20 A; B/D=33-224.
+DR   PDB; 4OZF; X-ray; 2.70 A; B=33-224.
+DR   PDB; 4OZG; X-ray; 3.00 A; B/D=33-224.
+DR   PDB; 4OZH; X-ray; 2.80 A; B/D=33-224.
+DR   PDB; 4OZI; X-ray; 3.20 A; B/D=33-224.
+DR   PDB; 8VSP; EM; 3.12 A; B/E/H=1-261.
+DR   PDBsum; 1JK8; -.
+DR   PDBsum; 1S9V; -.
+DR   PDBsum; 1UVQ; -.
+DR   PDBsum; 2NNA; -.
+DR   PDBsum; 4GG6; -.
+DR   PDBsum; 4OZF; -.
+DR   PDBsum; 4OZG; -.
+DR   PDBsum; 4OZH; -.
+DR   PDBsum; 4OZI; -.
+DR   PDBsum; 8VSP; -.
+DR   AlphaFoldDB; P01920; -.
+DR   EMDB; EMD-43501; -.
+DR   SMR; P01920; -.
+DR   BioGRID; 109364; 122.
+DR   FunCoup; P01920; 459.
+DR   IntAct; P01920; 73.
+DR   MINT; P01920; -.
+DR   STRING; 9606.ENSP00000364080; -.
+DR   TCDB; 9.A.75.1.1; the mhc ii receptor (mhc2r) family.
+DR   GlyCosmos; P01920; 1 site, No reported glycans.
+DR   GlyGen; P01920; 2 sites.
+DR   iPTMnet; P01920; -.
+DR   PhosphoSitePlus; P01920; -.
+DR   BioMuta; HLA-DQB1; -.
+DR   DMDM; 290457643; -.
+DR   jPOST; P01920; -.
+DR   MassIVE; P01920; -.
+DR   PaxDb; 9606-ENSP00000364080; -.
+DR   ProteomicsDB; 51513; -.
+DR   ABCD; P01920; 26 sequenced antibodies.
+DR   CPTC; P01920; 1 antibody.
+DR   DNASU; 3119; -.
+DR   Ensembl; ENST00000399088.8; ENSP00000382038.4; ENSG00000231286.7.
+DR   Ensembl; ENST00000413089.1; ENSP00000396539.1; ENSG00000231286.7.
+DR   Ensembl; ENST00000416192.6; ENSP00000410107.2; ENSG00000233209.6.
+DR   Ensembl; ENST00000419914.6; ENSP00000402865.2; ENSG00000225824.8.
+DR   Ensembl; ENST00000422950.1; ENSP00000414079.1; ENSG00000233209.6.
+DR   Ensembl; ENST00000424806.1; ENSP00000410330.1; ENSG00000225824.8.
+DR   GeneID; 3119; -.
+DR   KEGG; hsa:3119; -.
+DR   UCSC; uc011hep.3; human.
+DR   AGR; HGNC:4944; -.
+DR   ClinPGx; PA35068; -.
+DR   CTD; 3119; -.
+DR   DisGeNET; 3119; -.
+DR   GeneCards; HLA-DQB1; -.
+DR   GeneReviews; HLA-DQB1; -.
+DR   HGNC; HGNC:4944; HLA-DQB1.
+DR   MalaCards; HLA-DQB1; -.
+DR   MIM; 604305; gene.
+DR   Orphanet; 703; Bullous pemphigoid.
+DR   Orphanet; 930; Idiopathic achalasia.
+DR   Orphanet; 2073; Narcolepsy type 1.
+DR   Orphanet; 83465; Narcolepsy type 2.
+DR   Orphanet; 477738; Pediatric multiple sclerosis.
+DR   eggNOG; ENOG502RYBQ; Eukaryota.
+DR   InParanoid; P01920; -.
+DR   OrthoDB; 10043043at2759; -.
+DR   PAN-GO; P01920; 6 GO annotations based on evolutionary models.
+DR   PhylomeDB; P01920; -.
+DR   PathwayCommons; P01920; -.
+DR   Reactome; R-HSA-202424; Downstream TCR signaling.
+DR   Reactome; R-HSA-202427; Phosphorylation of CD3 and TCR zeta chains.
+DR   Reactome; R-HSA-202430; Translocation of ZAP-70 to Immunological synapse.
+DR   Reactome; R-HSA-202433; Generation of second messenger molecules.
+DR   Reactome; R-HSA-2132295; MHC class II antigen presentation.
+DR   Reactome; R-HSA-389948; Co-inhibition by PD-1.
+DR   Reactome; R-HSA-877300; Interferon gamma signaling.
+DR   SignaLink; P01920; -.
+DR   SIGNOR; P01920; -.
+DR   BioGRID-ORCS; 3119; 11 hits in 1060 CRISPR screens.
+DR   ChiTaRS; HLA-DQB1; human.
+DR   EvolutionaryTrace; P01920; -.
+DR   GeneWiki; HLA-DQB1; -.
+DR   GenomeRNAi; 3119; -.
+DR   Pharos; P01920; Tbio.
+DR   PRO; PR:P01920; -.
+DR   Proteomes; UP000005640; Unplaced.
+DR   RNAct; P01920; protein.
+DR   Bgee; ENSG00000231286; Expressed in spleen and 10 other cell types or tissues.
+DR   GO; GO:0030669; C:clathrin-coated endocytic vesicle membrane; TAS:Reactome.
+DR   GO; GO:0030666; C:endocytic vesicle membrane; TAS:Reactome.
+DR   GO; GO:0012507; C:ER to Golgi transport vesicle membrane; TAS:Reactome.
+DR   GO; GO:0000139; C:Golgi membrane; TAS:Reactome.
+DR   GO; GO:0031902; C:late endosome membrane; IBA:GO_Central.
+DR   GO; GO:0098553; C:lumenal side of endoplasmic reticulum membrane; TAS:Reactome.
+DR   GO; GO:0005765; C:lysosomal membrane; IBA:GO_Central.
+DR   GO; GO:0016020; C:membrane; HDA:UniProtKB.
+DR   GO; GO:0042613; C:MHC class II protein complex; ISS:CAFA.
+DR   GO; GO:0005886; C:plasma membrane; TAS:Reactome.
+DR   GO; GO:0032588; C:trans-Golgi network membrane; TAS:Reactome.
+DR   GO; GO:0030658; C:transport vesicle membrane; TAS:Reactome.
+DR   GO; GO:0023026; F:MHC class II protein complex binding; IBA:GO_Central.
+DR   GO; GO:0032395; F:MHC class II receptor activity; NAS:UniProtKB.
+DR   GO; GO:0042605; F:peptide antigen binding; ISS:CAFA.
+DR   GO; GO:0002250; P:adaptive immune response; IEA:UniProtKB-KW.
+DR   GO; GO:0019886; P:antigen processing and presentation of exogenous peptide antigen via MHC class II; IDA:UniProtKB.
+DR   GO; GO:0006959; P:humoral immune response; IMP:UniProtKB.
+DR   GO; GO:0006955; P:immune response; NAS:UniProtKB.
+DR   GO; GO:0002503; P:peptide antigen assembly with MHC class II protein complex; IBA:GO_Central.
+DR   GO; GO:0050778; P:positive regulation of immune response; IBA:GO_Central.
+DR   GO; GO:0050870; P:positive regulation of T cell activation; IBA:GO_Central.
+DR   GO; GO:0050852; P:T cell receptor signaling pathway; IDA:UniProtKB.
+DR   CDD; cd21001; IgC1_MHC_II_beta_HLA-DQ_I-A; 1.
+DR   FunFam; 2.60.40.10:FF:000116; HLA class II histocompatibility antigen, DRB1-1 beta chain; 1.
+DR   FunFam; 3.10.320.10:FF:000001; HLA class II histocompatibility antigen, DRB1-1 beta chain; 1.
+DR   Gene3D; 3.10.320.10; Class II Histocompatibility Antigen, M Beta Chain, Chain B, domain 1; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 1.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003006; Ig/MHC_CS.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   InterPro; IPR050160; MHC/Immunoglobulin.
+DR   InterPro; IPR011162; MHC_I/II-like_Ag-recog.
+DR   InterPro; IPR014745; MHC_II_a/b_N.
+DR   InterPro; IPR000353; MHC_II_b_N.
+DR   PANTHER; PTHR19944:SF101; HLA CLASS II HISTOCOMPATIBILITY ANTIGEN, DQ BETA 1 CHAIN; 1.
+DR   PANTHER; PTHR19944; MHC CLASS II-RELATED; 1.
+DR   Pfam; PF07654; C1-set; 1.
+DR   Pfam; PF00969; MHC_II_beta; 1.
+DR   SMART; SM00407; IGc1; 1.
+DR   SMART; SM00921; MHC_II_beta; 1.
+DR   SUPFAM; SSF48726; Immunoglobulin; 1.
+DR   SUPFAM; SSF54452; MHC antigen-recognition domain; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+DR   PROSITE; PS00290; IG_MHC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Adaptive immunity; Cell membrane; Direct protein sequencing;
+KW   Disulfide bond; Endoplasmic reticulum; Endosome; Glycoprotein;
+KW   Golgi apparatus; Immunity; Lysosome; Membrane; MHC II;
+KW   Proteomics identification; Reference proteome; Signal; Transmembrane;
+KW   Transmembrane helix.
+FT   SIGNAL          1..32
+FT                   /evidence="ECO:0000269|PubMed:6576979"
+FT   CHAIN           33..261
+FT                   /note="HLA class II histocompatibility antigen, DQ beta 1
+FT                   chain"
+FT                   /id="PRO_0000018989"
+FT   TOPO_DOM        33..230
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        231..251
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        252..261
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          129..217
+FT                   /note="Ig-like C1-type"
+FT   REGION          33..126
+FT                   /note="Beta-1"
+FT   REGION          127..220
+FT                   /note="Beta-2"
+FT   REGION          221..230
+FT                   /note="Connecting peptide"
+FT   CARBOHYD        51
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000255"
+FT   DISULFID        47..111
+FT   DISULFID        149..205
+FT   VARIANT         6
+FT                   /note="A -> S (in allele DQB1*05:01 and allele DQB1*05:02;
+FT                   dbSNP:rs1049056)"
+FT                   /id="VAR_056570"
+FT   VARIANT         12
+FT                   /note="G -> D (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*06:02 and allele DQB1*06:12; dbSNP:rs1049057)"
+FT                   /id="VAR_062679"
+FT   VARIANT         15
+FT                   /note="A -> V (in allele DQB1*03:02, allele DQB1*03:03,
+FT                   allele DQB1*04:01, allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*06:02 and allele DQB1*06:12; dbSNP:rs3189152)"
+FT                   /evidence="ECO:0000269|PubMed:3584986"
+FT                   /id="VAR_062680"
+FT   VARIANT         23
+FT                   /note="A -> S (in allele DQB1*02:01 and allele DQB1*02:02;
+FT                   dbSNP:rs3891176)"
+FT                   /id="VAR_062681"
+FT   VARIANT         24
+FT                   /note="M -> I (in allele DQB1*05:01 and allele DQB1*05:02;
+FT                   dbSNP:rs1049059)"
+FT                   /id="VAR_062682"
+FT   VARIANT         27
+FT                   /note="T -> A (in allele DQB1*04:01; dbSNP:rs1049060)"
+FT                   /id="VAR_062683"
+FT   VARIANT         27
+FT                   /note="T -> S (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*06:02 and allele DQB1*06:12; dbSNP:rs1049060)"
+FT                   /id="VAR_062684"
+FT   VARIANT         28
+FT                   /note="P -> L (in allele DQB1*06:02 and allele DQB1*06:12;
+FT                   dbSNP:rs1049062)"
+FT                   /id="VAR_062685"
+FT   VARIANT         28
+FT                   /note="P -> S (in allele DQB1*05:01 and allele DQB1*05:02;
+FT                   dbSNP:rs1049061)"
+FT                   /evidence="ECO:0000269|PubMed:3584986"
+FT                   /id="VAR_062686"
+FT   VARIANT         29
+FT                   /note="V -> L (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*06:02 and allele DQB1*06:12; dbSNP:rs1130366)"
+FT                   /id="VAR_062687"
+FT   VARIANT         35
+FT                   /note="S -> P (in allele DQB1*06:01; dbSNP:rs12722106)"
+FT                   /id="VAR_062688"
+FT   VARIANT         41
+FT                   /note="Y -> F (in allele DQB1*04:01, allele DQB1*04:02,
+FT                   allele DQB1*04:03, allele DQB1*06:02, allele DQB1*06:10,
+FT                   allele DQB1*06:13, allele DQB1*06:14, allele DQB1*06:15,
+FT                   allele DQB1*06:16, allele DQB1*06:19, allele DQB1*06:20,
+FT                   allele DQB1*06:22, allele DQB1*06:23, allele DQB1*06:24,
+FT                   allele DQB1*06:29, allele DQB1*06:33 and allele DQB1*06:37;
+FT                   dbSNP:rs9274407)"
+FT                   /id="VAR_062689"
+FT   VARIANT         41
+FT                   /note="Y -> L (in allele DQB1*06:01 and allele DQB1*06:35;
+FT                   requires 2 nucleotide substitutions)"
+FT                   /id="VAR_062690"
+FT   VARIANT         43
+FT                   /note="F -> L (in allele DQB1*06:33; dbSNP:rs56173496)"
+FT                   /id="VAR_062691"
+FT   VARIANT         45
+FT                   /note="A -> G (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04, allele DQB1*02:05,
+FT                   allele DQB1*03:02, allele DQB1*03:03, allele DQB1*03:05,
+FT                   allele DQB1*03:06, allele DQB1*03:07, allele DQB1*03:08,
+FT                   allele DQB1*03:11, allele DQB1*03:15, allele DQB1*03:17,
+FT                   allele DQB1*03:18, allele DQB1*03:20, allele DQB1*03:23,
+FT                   allele DQB1*03:25, allele DQB1*03:26, allele DQB1*04:01,
+FT                   allele DQB1*04:02, allele DQB1*04:03, allele DQB1*05:01,
+FT                   allele DQB1*05:02, allele DQB1*05:03, allele DQB1*05:04,
+FT                   allele DQB1*05:05, allele DQB1*06:02, allele DQB1*06:03,
+FT                   allele DQB1*06:04, allele DQB1*06:05, allele DQB1*06:07,
+FT                   allele DQB1*06:08, allele DQB1*06:09, allele DQB1*06:10,
+FT                   allele DQB1*06:11, allele DQB1*06:12, allele DQB1*06:13,
+FT                   allele DQB1*06:14, allele DQB1*06:15, allele DQB1*06:16,
+FT                   allele DQB1*06:17, allele DQB1*06:18, allele DQB1*06:19,
+FT                   allele DQB1*06:20, allele DQB1*06:21, allele DQB1*06:22,
+FT                   allele DQB1*06:23, allele DQB1*06:24, allele DQB1*06:25,
+FT                   allele DQB1*06:27, allele DQB1*06:28, allele DQB1*06:29,
+FT                   allele DQB1*06:30, allele DQB1*06:31, allele DQB1*06:32,
+FT                   allele DQB1*06:33, allele DQB1*06:34, allele DQB1*06:36,
+FT                   allele DQB1*06:37, allele DQB1*06:38 and allele DQB1*06:39;
+FT                   dbSNP:rs1130375)"
+FT                   /evidence="ECO:0000269|PubMed:3584986"
+FT                   /id="VAR_061472"
+FT   VARIANT         46
+FT                   /note="M -> L (in allele DQB1*03:11, allele DQB1*03:26,
+FT                   allele DQB1*05:01, allele DQB1*05:02, allele DQB1*05:03,
+FT                   allele DQB1*05:04, allele DQB1*05:05, allele DQB1*06:05,
+FT                   allele DQB1*06:20 and allele DQB1*06:31; dbSNP:rs1130368)"
+FT                   /id="VAR_061473"
+FT   VARIANT         55
+FT                   /note="R -> L (in allele DQB1*04:01; dbSNP:rs41540813)"
+FT                   /id="VAR_062692"
+FT   VARIANT         58
+FT                   /note="Y -> G (in allele DQB1*03:05, allele DQB1*03:17,
+FT                   allele DQB1*04:01, allele DQB1*04:02, allele DQB1*05:01,
+FT                   allele DQB1*05:02, allele DQB1*05:03, allele DQB1*05:04,
+FT                   allele DQB1*05:05 and allele DQB1*06:23; requires 2
+FT                   nucleotide substitutions)"
+FT                   /id="VAR_062693"
+FT   VARIANT         58
+FT                   /note="Y -> L (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04, allele DQB1*02:05,
+FT                   allele DQB1*03:02, allele DQB1*03:03, allele DQB1*03:06,
+FT                   allele DQB1*03:07, allele DQB1*03:08, allele DQB1*03:11,
+FT                   allele DQB1*03:12, allele DQB1*03:15, allele DQB1*03:18,
+FT                   allele DQB1*03:20, allele DQB1*03:23, allele DQB1*03:25,
+FT                   allele DQB1*03:26, allele DQB1*04:03, allele DQB1*06:02,
+FT                   allele DQB1*06:03, allele DQB1*06:04, allele DQB1*06:05,
+FT                   allele DQB1*06:06, allele DQB1*06:07, allele DQB1*06:08,
+FT                   allele DQB1*06:09, allele DQB1*06:10, allele DQB1*06:11,
+FT                   allele DQB1*06:12, allele DQB1*06:13, allele DQB1*06:14,
+FT                   allele DQB1*06:15, allele DQB1*06:16, allele DQB1*06:17,
+FT                   allele DQB1*06:18, allele DQB1*06:19, allele DQB1*06:20,
+FT                   allele DQB1*06:21, allele DQB1*06:22, allele DQB1*06:24,
+FT                   allele DQB1*06:25, allele DQB1*06:27, allele DQB1*06:28,
+FT                   allele DQB1*06:29, allele DQB1*06:30, allele DQB1*06:31,
+FT                   allele DQB1*06:32, allele DQB1*06:33, allele DQB1*06:34,
+FT                   allele DQB1*06:36, allele DQB1*06:37, allele DQB1*06:38 and
+FT                   allele DQB1*06:39; requires 2 nucleotide substitutions;
+FT                   dbSNP:rs766817072)"
+FT                   /evidence="ECO:0000269|PubMed:3584986"
+FT                   /id="VAR_062694"
+FT   VARIANT         59
+FT                   /note="V -> L (in allele DQB1*03:18; dbSNP:rs41563539)"
+FT                   /id="VAR_062695"
+FT   VARIANT         60
+FT                   /note="T -> S (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04 and allele DQB1*02:05;
+FT                   dbSNP:rs9274405)"
+FT                   /id="VAR_062696"
+FT   VARIANT         62
+FT                   /note="Y -> H (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*05:05, allele DQB1*06:03,
+FT                   allele DQB1*06:04, allele DQB1*06:07, allele DQB1*06:08,
+FT                   allele DQB1*06:14, allele DQB1*06:17, allele DQB1*06:21,
+FT                   allele DQB1*06:25, allele DQB1*06:27, allele DQB1*06:28,
+FT                   allele DQB1*06:30, allele DQB1*06:31, allele DQB1*06:32,
+FT                   allele DQB1*06:34, allele DQB1*06:36, allele DQB1*06:38 and
+FT                   allele DQB1*06:39; dbSNP:rs281862065)"
+FT                   /id="VAR_062697"
+FT   VARIANT         62
+FT                   /note="Y -> S (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04 and allele
+FT                   DQB1*02:05)"
+FT                   /id="VAR_062698"
+FT   VARIANT         69
+FT                   /note="Y -> D (in allele DQB1*06:01 and allele DQB1*06:35;
+FT                   dbSNP:rs281874782)"
+FT                   /id="VAR_062699"
+FT   VARIANT         69
+FT                   /note="Y -> I (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04 and allele DQB1*02:05;
+FT                   requires 2 nucleotide substitutions)"
+FT                   /id="VAR_062700"
+FT   VARIANT         70
+FT                   /note="A -> T (in allele DQB1*03:20; dbSNP:rs45519640)"
+FT                   /id="VAR_062701"
+FT   VARIANT         70
+FT                   /note="A -> V (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04, allele DQB1*02:05,
+FT                   allele DQB1*05:01, allele DQB1*05:02, allele DQB1*05:03,
+FT                   allele DQB1*05:04, allele DQB1*06:01, allele DQB1*06:28 and
+FT                   allele DQB1*06:35; dbSNP:rs1063318)"
+FT                   /id="VAR_062702"
+FT   VARIANT         77
+FT                   /note="E -> G (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04, allele DQB1*02:05,
+FT                   allele DQB1*03:02, allele DQB1*03:03, allele DQB1*03:05,
+FT                   allele DQB1*03:06, allele DQB1*03:07, allele DQB1*03:08,
+FT                   allele DQB1*03:10, allele DQB1*03:11, allele DQB1*03:12,
+FT                   allele DQB1*03:14, allele DQB1*03:15, allele DQB1*03:17,
+FT                   allele DQB1*03:18, allele DQB1*03:20, allele DQB1*03:23,
+FT                   allele DQB1*03:25, allele DQB1*03:26, allele DQB1*04:01,
+FT                   allele DQB1*04:02, allele DQB1*04:03, allele DQB1*05:01,
+FT                   allele DQB1*05:02, allele DQB1*05:03, allele DQB1*05:04,
+FT                   allele DQB1*05:05, allele DQB1*06:01, allele DQB1*06:02,
+FT                   allele DQB1*06:03, allele DQB1*06:04, allele DQB1*06:05,
+FT                   allele DQB1*06:06, allele DQB1*06:07, allele DQB1*06:08,
+FT                   allele DQB1*06:09, allele DQB1*06:10, allele DQB1*06:11,
+FT                   allele DQB1*06:12, allele DQB1*06:13, allele DQB1*06:14,
+FT                   allele DQB1*06:15, allele DQB1*06:16, allele DQB1*06:17,
+FT                   allele DQB1*06:18, allele DQB1*06:19, allele DQB1*06:20,
+FT                   allele DQB1*06:21, allele DQB1*06:22, allele DQB1*06:23,
+FT                   allele DQB1*06:24, allele DQB1*06:25, allele DQB1*06:27,
+FT                   allele DQB1*06:28, allele DQB1*06:29, allele DQB1*06:30,
+FT                   allele DQB1*06:31, allele DQB1*06:32, allele DQB1*06:33,
+FT                   allele DQB1*06:34, allele DQB1*06:36, allele DQB1*06:37,
+FT                   allele DQB1*06:38 and allele DQB1*06:39; dbSNP:rs1049083)"
+FT                   /evidence="ECO:0000269|PubMed:3584986"
+FT                   /id="VAR_062703"
+FT   VARIANT         78
+FT                   /note="V -> E (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04 and allele DQB1*02:05;
+FT                   dbSNP:rs9274398)"
+FT                   /id="VAR_062704"
+FT   VARIANT         79
+FT                   /note="Y -> F (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04 and allele DQB1*02:05;
+FT                   dbSNP:rs9274397)"
+FT                   /id="VAR_062705"
+FT   VARIANT         81
+FT                   /note="A -> V (in allele DQB1*03:07; dbSNP:rs41558214)"
+FT                   /id="VAR_062706"
+FT   VARIANT         84
+FT                   /note="P -> L (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04 and allele DQB1*02:05;
+FT                   dbSNP:rs9274395)"
+FT                   /id="VAR_062707"
+FT   VARIANT         85
+FT                   /note="L -> Q (in allele DQB1*03:23, allele DQB1*05:01,
+FT                   allele DQB1*05:02, allele DQB1*05:03, allele DQB1*05:04,
+FT                   allele DQB1*05:05, allele DQB1*06:01, allele DQB1*06:02,
+FT                   allele DQB1*06:03, allele DQB1*06:04, allele DQB1*06:05,
+FT                   allele DQB1*06:06, allele DQB1*06:07, allele DQB1*06:08,
+FT                   allele DQB1*06:09, allele DQB1*06:10, allele DQB1*06:11,
+FT                   allele DQB1*06:12, allele DQB1*06:13, allele DQB1*06:14,
+FT                   allele DQB1*06:15, allele DQB1*06:16, allele DQB1*06:17,
+FT                   allele DQB1*06:18, allele DQB1*06:20, allele DQB1*06:22,
+FT                   allele DQB1*06:21, allele DQB1*06:23, allele DQB1*06:24,
+FT                   allele DQB1*06:25, allele DQB1*06:27, allele DQB1*06:28,
+FT                   allele DQB1*06:29, allele DQB1*06:30, allele DQB1*06:31,
+FT                   allele DQB1*06:32, allele DQB1*06:33, allele DQB1*06:34,
+FT                   allele DQB1*06:36, allele DQB1*06:37, allele DQB1*06:38 and
+FT                   allele DQB1*06:39; dbSNP:rs1140313)"
+FT                   /id="VAR_062708"
+FT   VARIANT         87
+FT                   /note="P -> L (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04 and allele DQB1*02:05;
+FT                   dbSNP:rs1130380)"
+FT                   /id="VAR_062709"
+FT   VARIANT         87
+FT                   /note="P -> Q (in allele DQB1*03:16; dbSNP:rs1130380)"
+FT                   /id="VAR_062710"
+FT   VARIANT         87
+FT                   /note="P -> R (in allele DQB1*03:23, allele DQB1*03:25,
+FT                   allele DQB1*04:01, allele DQB1*04:02, allele DQB1*04:03,
+FT                   allele DQB1*05:01, allele DQB1*05:02, allele DQB1*05:03,
+FT                   allele DQB1*05:04, allele DQB1*05:05, allele DQB1*06:01,
+FT                   allele DQB1*06:02, allele DQB1*06:03, allele DQB1*06:04,
+FT                   allele DQB1*06:05, allele DQB1*06:06, allele DQB1*06:07,
+FT                   allele DQB1*06:08, allele DQB1*06:09, allele DQB1*06:10,
+FT                   allele DQB1*06:11, allele DQB1*06:12, allele DQB1*06:13,
+FT                   allele DQB1*06:14, allele DQB1*06:15, allele DQB1*06:16,
+FT                   allele DQB1*06:17, allele DQB1*06:18, allele DQB1*06:19,
+FT                   allele DQB1*06:20, allele DQB1*06:21, allele DQB1*06:22,
+FT                   allele DQB1*06:23, allele DQB1*06:24, allele DQB1*06:25,
+FT                   allele DQB1*06:27, allele DQB1*06:28, allele DQB1*06:30,
+FT                   allele DQB1*06:31, allele DQB1*06:32, allele DQB1*06:33,
+FT                   allele DQB1*06:34, allele DQB1*06:35, allele DQB1*06:36,
+FT                   allele DQB1*06:37, allele DQB1*06:38 and allele DQB1*06:39;
+FT                   dbSNP:rs1130380)"
+FT                   /id="VAR_062711"
+FT   VARIANT         88
+FT                   /note="P -> L (in allele DQB1*03:25, allele DQB1*04:01,
+FT                   allele DQB1*04:02 and allele DQB1*04:03; dbSNP:rs1130381)"
+FT                   /id="VAR_062712"
+FT   VARIANT         89
+FT                   /note="D -> A (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:04, allele DQB1*02:05, allele DQB1*03:02,
+FT                   allele DQB1*03:04, allele DQB1*03:05, allele DQB1*03:07,
+FT                   allele DQB1*03:08, allele DQB1*03:11, allele DQB1*03:14,
+FT                   allele DQB1*03:18 and allele DQB1*06:29; dbSNP:rs1071637)"
+FT                   /id="VAR_062713"
+FT   VARIANT         89
+FT                   /note="D -> S (in allele DQB1*05:02, allele DQB1*05:04,
+FT                   allele DQB1*05:05, allele DQB1*06:10 and allele DQB1*06:25;
+FT                   requires 2 nucleotide substitutions)"
+FT                   /id="VAR_062714"
+FT   VARIANT         89
+FT                   /note="D -> V (in allele DQB1*05:01, allele DQB1*06:04,
+FT                   allele DQB1*06:05, allele DQB1*06:06, allele DQB1*06:08,
+FT                   allele DQB1*06:09, allele DQB1*06:12, allele DQB1*06:13,
+FT                   allele DQB1*06:17, allele DQB1*06:18, allele DQB1*06:21,
+FT                   allele DQB1*06:22, allele DQB1*06:27, allele DQB1*06:34,
+FT                   allele DQB1*06:36, allele DQB1*06:38 and allele DQB1*06:39;
+FT                   dbSNP:rs1071637)"
+FT                   /id="VAR_062715"
+FT   VARIANT         92
+FT                   /note="Y -> N (in allele DQB1*06:16; dbSNP:rs41562414)"
+FT                   /id="VAR_062716"
+FT   VARIANT         94
+FT                   /note="N -> K (in allele DQB1*06:37; dbSNP:rs1130382)"
+FT                   /id="VAR_062717"
+FT   VARIANT         95
+FT                   /note="S -> R (in allele DQB1*03:15; dbSNP:rs41556215)"
+FT                   /id="VAR_062718"
+FT   VARIANT         98
+FT                   /note="E -> D (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04, allele DQB1*02:05,
+FT                   allele DQB1*03:06, allele DQB1*03:25, allele DQB1*04:01,
+FT                   allele DQB1*04:02, allele DQB1*04:03, allele DQB1*05:04,
+FT                   allele DQB1*06:01 and allele DQB1*06:35; dbSNP:rs9274390)"
+FT                   /id="VAR_062719"
+FT   VARIANT         99
+FT                   /note="V -> D (in allele DQB1*03:13; dbSNP:rs41563814)"
+FT                   /id="VAR_062720"
+FT   VARIANT         99
+FT                   /note="V -> I (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04, allele DQB1*02:05,
+FT                   allele DQB1*03:06, allele DQB1*03:25, allele DQB1*04:01,
+FT                   allele DQB1*04:02, allele DQB1*04:03, allele DQB1*05:04,
+FT                   allele DQB1*06:01 and allele DQB1*06:35; dbSNP:rs9274390)"
+FT                   /id="VAR_062721"
+FT   VARIANT         102
+FT                   /note="R -> E (in allele DQB1*03:06, allele DQB1*03:25,
+FT                   allele DQB1*04:01, allele DQB1*04:02, allele DQB1*04:03 and
+FT                   allele DQB1*05:04; requires 2 nucleotide substitutions)"
+FT                   /id="VAR_062722"
+FT   VARIANT         102
+FT                   /note="R -> G (in allele DQB1*03:08, allele DQB1*05:01,
+FT                   allele DQB1*05:02, allele DQB1*05:03, allele DQB1*05:05,
+FT                   allele DQB1*06:02, allele DQB1*06:03, allele DQB1*06:08,
+FT                   allele DQB1*06:10, allele DQB1*06:11, allele DQB1*06:12,
+FT                   allele DQB1*06:13, allele DQB1*06:14, allele DQB1*06:16,
+FT                   allele DQB1*06:17, allele DQB1*06:19, allele DQB1*06:20,
+FT                   allele DQB1*06:21, allele DQB1*06:23, allele DQB1*06:24,
+FT                   allele DQB1*06:28, allele DQB1*06:29, allele DQB1*06:30,
+FT                   allele DQB1*06:31 and allele DQB1*06:33; dbSNP:rs1130386)"
+FT                   /evidence="ECO:0000269|PubMed:3584986"
+FT                   /id="VAR_062723"
+FT   VARIANT         103
+FT                   /note="T -> A (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*05:05, allele DQB1*06:17,
+FT                   allele DQB1*06:24 and allele DQB1*06:30; dbSNP:rs1130390)"
+FT                   /id="VAR_062724"
+FT   VARIANT         103
+FT                   /note="T -> D (in allele DQB1*03:06, allele DQB1*03:25,
+FT                   allele DQB1*04:01, allele DQB1*04:02, allele DQB1*04:03 and
+FT                   allele DQB1*05:04; requires 2 nucleotide substitutions)"
+FT                   /id="VAR_062725"
+FT   VARIANT         103
+FT                   /note="T -> K (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04 and allele
+FT                   DQB1*02:05)"
+FT                   /id="VAR_062726"
+FT   VARIANT         106
+FT                   /note="E -> A (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04, allele DQB1*02:05 and
+FT                   allele DQB1*06:06; dbSNP:rs1130387)"
+FT                   /id="VAR_062727"
+FT   VARIANT         106
+FT                   /note="E -> S (in allele DQB1*03:06, allele DQB1*03:25,
+FT                   allele DQB1*04:01, allele DQB1*04:02, allele DQB1*04:03,
+FT                   allele DQB1*05:01, allele DQB1*05:02, allele DQB1*05:03,
+FT                   allele DQB1*05:04 and allele DQB1*05:05; requires 2
+FT                   nucleotide substitutions)"
+FT                   /id="VAR_062728"
+FT   VARIANT         107
+FT                   /note="L -> V (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04, allele DQB1*02:05,
+FT                   allele DQB1*03:06, allele DQB1*03:25, allele DQB1*04:01,
+FT                   allele DQB1*04:02, allele DQB1*04:03, allele DQB1*05:01,
+FT                   allele DQB1*05:02, allele DQB1*05:03, allele DQB1*05:04,
+FT                   allele DQB1*05:05 and allele DQB1*06:06; dbSNP:rs9274384)"
+FT                   /id="VAR_062729"
+FT   VARIANT         109
+FT                   /note="T -> R (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:03, allele DQB1*02:04, allele DQB1*05:01,
+FT                   allele DQB1*05:02, allele DQB1*05:03, allele DQB1*05:04,
+FT                   allele DQB1*05:05 and allele DQB1*06:06; dbSNP:rs1130392)"
+FT                   /id="VAR_062730"
+FT   VARIANT         116
+FT                   /note="Q -> E (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*05:05, allele DQB1*06:01,
+FT                   allele DQB1*06:02, allele DQB1*06:03, allele DQB1*06:04,
+FT                   allele DQB1*06:05, allele DQB1*06:07, allele DQB1*06:08,
+FT                   allele DQB1*06:09, allele DQB1*06:10, allele DQB1*06:11,
+FT                   allele DQB1*06:12, allele DQB1*06:13, allele DQB1*06:14,
+FT                   allele DQB1*06:15, allele DQB1*06:16, allele DQB1*06:17,
+FT                   allele DQB1*06:18, allele DQB1*06:19, allele DQB1*06:20,
+FT                   allele DQB1*06:21, allele DQB1*06:22, allele DQB1*06:23,
+FT                   allele DQB1*06:24, allele DQB1*06:25, allele DQB1*06:27,
+FT                   allele DQB1*06:28, allele DQB1*06:29, allele DQB1*06:30,
+FT                   allele DQB1*06:31, allele DQB1*06:32, allele DQB1*06:33,
+FT                   allele DQB1*06:34, allele DQB1*06:35, allele DQB1*06:36,
+FT                   allele DQB1*06:37, allele DQB1*06:38, allele DQB1*06:39;
+FT                   dbSNP:rs1140316)"
+FT                   /id="VAR_062731"
+FT   VARIANT         117
+FT                   /note="L -> V (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*05:05, allele DQB1*06:01,
+FT                   allele DQB1*06:02, allele DQB1*06:03, allele DQB1*06:04,
+FT                   allele DQB1*06:05, allele DQB1*06:07, allele DQB1*06:08,
+FT                   allele DQB1*06:09, allele DQB1*06:10, allele DQB1*06:11,
+FT                   allele DQB1*06:12, allele DQB1*06:13, allele DQB1*06:14,
+FT                   allele DQB1*06:15, allele DQB1*06:16, allele DQB1*06:17,
+FT                   allele DQB1*06:18, allele DQB1*06:19, allele DQB1*06:20,
+FT                   allele DQB1*06:21, allele DQB1*06:22, allele DQB1*06:23,
+FT                   allele DQB1*06:24, allele DQB1*06:25, allele DQB1*06:27,
+FT                   allele DQB1*06:28, allele DQB1*06:29, allele DQB1*06:30,
+FT                   allele DQB1*06:31, allele DQB1*06:32, allele DQB1*06:33,
+FT                   allele DQB1*06:34, allele DQB1*06:35, allele DQB1*06:36,
+FT                   allele DQB1*06:37, allele DQB1*06:38 and allele DQB1*06:39;
+FT                   dbSNP:rs1140317)"
+FT                   /id="VAR_062732"
+FT   VARIANT         118
+FT                   /note="E -> A (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*05:05, allele DQB1*06:01,
+FT                   allele DQB1*06:02, allele DQB1*06:03, allele DQB1*06:08,
+FT                   allele DQB1*06:10, allele DQB1*06:11, allele DQB1*06:13,
+FT                   allele DQB1*06:14, allele DQB1*06:16, allele DQB1*06:18,
+FT                   allele DQB1*06:19, allele DQB1*06:20, allele DQB1*06:23,
+FT                   allele DQB1*06:24, allele DQB1*06:27, allele DQB1*06:28,
+FT                   allele DQB1*06:29, allele DQB1*06:30, allele DQB1*06:31,
+FT                   allele DQB1*06:32, allele DQB1*06:33, allele DQB1*06:35 and
+FT                   allele DQB1*06:37; dbSNP:rs9274380)"
+FT                   /id="VAR_062733"
+FT   VARIANT         118
+FT                   /note="E -> G (in allele DQB1*06:04, allele DQB1*06:05,
+FT                   allele DQB1*06:07, allele DQB1*06:09, allele DQB1*06:12,
+FT                   allele DQB1*06:15, allele DQB1*06:17, allele DQB1*06:21,
+FT                   allele DQB1*06:22, allele DQB1*06:25, allele DQB1*06:34,
+FT                   allele DQB1*06:36, allele DQB1*06:38 and allele DQB1*06:39;
+FT                   dbSNP:rs9274380)"
+FT                   /id="VAR_062734"
+FT   VARIANT         119
+FT                   /note="L -> F (in allele DQB1*06:01, allele DQB1*06:02,
+FT                   allele DQB1*06:03, allele DQB1*06:08, allele DQB1*06:10,
+FT                   allele DQB1*06:11, allele DQB1*06:13, allele DQB1*06:14,
+FT                   allele DQB1*06:16, allele DQB1*06:18, allele DQB1*06:19,
+FT                   allele DQB1*06:20, allele DQB1*06:23, allele DQB1*06:24,
+FT                   allele DQB1*06:27, allele DQB1*06:28, allele DQB1*06:29,
+FT                   allele DQB1*06:30, allele DQB1*06:31, allele DQB1*06:32,
+FT                   allele DQB1*06:33, allele DQB1*06:35 and allele DQB1*06:37;
+FT                   dbSNP:rs9274379)"
+FT                   /id="VAR_062735"
+FT   VARIANT         119
+FT                   /note="L -> Y (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*05:05, allele DQB1*06:04,
+FT                   allele DQB1*06:05, allele DQB1*06:07, allele DQB1*06:09,
+FT                   allele DQB1*06:12, allele DQB1*06:15, allele DQB1*06:17,
+FT                   allele DQB1*06:21, allele DQB1*06:22, allele DQB1*06:25,
+FT                   allele DQB1*06:34, allele DQB1*06:36, allele DQB1*06:38 and
+FT                   allele DQB1*06:39; requires 2 nucleotide substitutions)"
+FT                   /id="VAR_062736"
+FT   VARIANT         121
+FT                   /note="T -> G (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*05:05, allele DQB1*06:01,
+FT                   allele DQB1*06:02, allele DQB1*06:03, allele DQB1*06:04,
+FT                   allele DQB1*06:05, allele DQB1*06:07, allele DQB1*06:08,
+FT                   allele DQB1*06:09, allele DQB1*06:10, allele DQB1*06:11,
+FT                   allele DQB1*06:12, allele DQB1*06:13, allele DQB1*06:14,
+FT                   allele DQB1*06:15, allele DQB1*06:16, allele DQB1*06:17,
+FT                   allele DQB1*06:18, allele DQB1*06:19, allele DQB1*06:21,
+FT                   allele DQB1*06:22, allele DQB1*06:23, allele DQB1*06:24,
+FT                   allele DQB1*06:25, allele DQB1*06:27, allele DQB1*06:28,
+FT                   allele DQB1*06:29, allele DQB1*06:30, allele DQB1*06:31,
+FT                   allele DQB1*06:32, allele DQB1*06:33, allele DQB1*06:34,
+FT                   allele DQB1*06:35, allele DQB1*06:36, allele DQB1*06:37,
+FT                   allele DQB1*06:38 and allele DQB1*06:39; requires 2
+FT                   nucleotide substitutions)"
+FT                   /id="VAR_062737"
+FT   VARIANT         122
+FT                   /note="T -> I (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*05:05, allele DQB1*06:01,
+FT                   allele DQB1*06:02, allele DQB1*06:03, allele DQB1*06:04,
+FT                   allele DQB1*06:05, allele DQB1*06:07, allele DQB1*06:08,
+FT                   allele DQB1*06:09, allele DQB1*06:10, allele DQB1*06:11,
+FT                   allele DQB1*06:12, allele DQB1*06:14, allele DQB1*06:15,
+FT                   allele DQB1*06:16, allele DQB1*06:17, allele DQB1*06:18,
+FT                   allele DQB1*06:19, allele DQB1*06:21, allele DQB1*06:22,
+FT                   allele DQB1*06:23, allele DQB1*06:24, allele DQB1*06:25,
+FT                   allele DQB1*06:27, allele DQB1*06:28, allele DQB1*06:29,
+FT                   allele DQB1*06:30, allele DQB1*06:31, allele DQB1*06:32,
+FT                   allele DQB1*06:33, allele DQB1*06:34, allele DQB1*06:35,
+FT                   allele DQB1*06:36, allele DQB1*06:37, allele DQB1*06:38 and
+FT                   allele DQB1*06:39; dbSNP:rs1140320)"
+FT                   /id="VAR_062738"
+FT   VARIANT         148
+FT                   /note="V -> I (in allele DQB1*05:01, allele DQB1*05:02 and
+FT                   allele DQB1*05:03; dbSNP:rs1049100)"
+FT                   /id="VAR_056571"
+FT   VARIANT         157
+FT                   /note="A -> G (in allele DQB1*06:01, allele DQB1*06:02,
+FT                   allele DQB1*06:03, allele DQB1*06:04, allele DQB1*06:09,
+FT                   allele DQB1*06:12, allele DQB1*06:34, allele DQB1*06:36,
+FT                   allele DQB1*06:38 and allele DQB1*06:39; dbSNP:rs1063322)"
+FT                   /id="VAR_062739"
+FT   VARIANT         157
+FT                   /note="A -> S (in allele DQB1*05:01, allele DQB1*05:02 and
+FT                   allele DQB1*05:03)"
+FT                   /id="VAR_062740"
+FT   VARIANT         158
+FT                   /note="Q -> H (in allele DQB1*05:02; dbSNP:rs41542812)"
+FT                   /id="VAR_062741"
+FT   VARIANT         162
+FT                   /note="R -> Q (in allele DQB1*03:22, allele DQB1*06:04,
+FT                   allele DQB1*06:09, allele DQB1*06:12, allele DQB1*06:34,
+FT                   allele DQB1*06:36 and allele DQB1*06:38; dbSNP:rs41544112)"
+FT                   /id="VAR_062742"
+FT   VARIANT         165
+FT                   /note="R -> Q (in allele DQB1*06:38; dbSNP:rs9273989)"
+FT                   /id="VAR_062744"
+FT   VARIANT         165
+FT                   /note="R -> W (in allele DQB1*03:21; dbSNP:rs63626961)"
+FT                   /id="VAR_062743"
+FT   VARIANT         167
+FT                   /note="D -> G (in allele DQB1*02:02; dbSNP:rs2647032)"
+FT                   /id="VAR_062745"
+FT   VARIANT         168
+FT                   /note="Q -> E (in allele DQB1*02:04; dbSNP:rs9273981)"
+FT                   /id="VAR_062746"
+FT   VARIANT         172
+FT                   /note="T -> A (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:04, allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*06:01, allele DQB1*06:02,
+FT                   allele DQB1*06:03, allele DQB1*06:04, allele DQB1*06:09,
+FT                   allele DQB1*06:12, allele DQB1*06:34, allele DQB1*06:36,
+FT                   allele DQB1*06:38 and allele DQB1*06:39; dbSNP:rs1063323)"
+FT                   /evidence="ECO:0007744|PubMed:21269460"
+FT                   /id="VAR_062747"
+FT   VARIANT         194
+FT                   /note="E -> D (in dbSNP:rs9273952)"
+FT                   /id="VAR_056572"
+FT   VARIANT         197
+FT                   /note="P -> L (in dbSNP:rs9273948)"
+FT                   /id="VAR_059522"
+FT   VARIANT         199
+FT                   /note="H -> R (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:04, allele DQB1*03:02, allele DQB1*03:03,
+FT                   allele DQB1*03:05, allele DQB1*03:23, allele DQB1*03:25,
+FT                   allele DQB1*04:01, allele DQB1*04:02, allele DQB1*05:01,
+FT                   allele DQB1*05:02, allele DQB1*05:03, allele DQB1*06:02,
+FT                   allele DQB1*06:03, allele DQB1*06:04, allele DQB1*06:09,
+FT                   allele DQB1*06:12, allele DQB1*06:34, allele DQB1*06:36,
+FT                   allele DQB1*06:38 and allele DQB1*06:39; dbSNP:rs701564)"
+FT                   /evidence="ECO:0000269|PubMed:3584986"
+FT                   /id="VAR_062748"
+FT   VARIANT         200..201
+FT                   /note="GD -> A (in allele DQB1*03:09)"
+FT                   /id="VAR_062749"
+FT   VARIANT         202
+FT                   /note="V -> I (in allele DQB1*03:24; dbSNP:rs80255621)"
+FT                   /id="VAR_062750"
+FT   VARIANT         214
+FT                   /note="N -> S (in allele DQB1*02:01, allele DQB1*02:02,
+FT                   allele DQB1*02:04, allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*06:01, allele DQB1*06:02,
+FT                   allele DQB1*06:03, allele DQB1*06:04, allele DQB1*06:09,
+FT                   allele DQB1*06:12, allele DQB1*06:34, allele DQB1*06:36,
+FT                   allele DQB1*06:38 and allele DQB1*06:39; dbSNP:rs1130398)"
+FT                   /id="VAR_062751"
+FT   VARIANT         217
+FT                   /note="T -> I (in allele DQB1*03:02, allele DQB1*03:03,
+FT                   allele DQB1*03:05, allele DQB1*03:19, allele DQB1*03:25,
+FT                   allele DQB1*04:01 and allele DQB1*04:02; dbSNP:rs1130399)"
+FT                   /id="VAR_062752"
+FT   VARIANT         218
+FT                   /note="V -> A (in allele DQB1*06:36; dbSNP:rs281864132)"
+FT                   /id="VAR_062753"
+FT   VARIANT         229
+FT                   /note="S -> N (in allele DQB1*06:01; dbSNP:rs1130429)"
+FT                   /id="VAR_062754"
+FT   VARIANT         235
+FT                   /note="I -> V (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*06:02, allele DQB1*06:03,
+FT                   allele DQB1*06:04, allele DQB1*06:09, allele DQB1*06:12 and
+FT                   allele DQB1*06:36; dbSNP:rs1049163)"
+FT                   /id="VAR_062755"
+FT   VARIANT         252
+FT                   /note="H -> R (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*06:01, allele DQB1*06:02,
+FT                   allele DQB1*06:03, allele DQB1*06:04, allele DQB1*06:09,
+FT                   allele DQB1*06:12 and allele DQB1*06:36; dbSNP:rs1140342)"
+FT                   /id="VAR_062756"
+FT   VARIANT         253
+FT                   /note="H -> Q (in allele DQB1*05:01, allele DQB1*05:02,
+FT                   allele DQB1*05:03, allele DQB1*06:01, allele DQB1*06:02,
+FT                   allele DQB1*06:03, allele DQB1*06:04, allele DQB1*06:09,
+FT                   allele DQB1*06:12 and allele DQB1*06:36; dbSNP:rs1140343)"
+FT                   /id="VAR_062757"
+FT   VARIANT         256
+FT                   /note="Q -> R (in allele DQB1*05:01, allele DQB1*05:02 and
+FT                   allele DQB1*05:03; dbSNP:rs1130432)"
+FT                   /id="VAR_061474"
+FT   CONFLICT        111
+FT                   /note="C -> S (in Ref. 71; AAD39697)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        113
+FT                   /note="H -> Q (in Ref. 22; AAF28315)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        173
+FT                   /note="G -> A (in Ref. 24; X76553/X76554)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        214
+FT                   /note="N -> T (in Ref. 8; AAA59770)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          40..50
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   TURN            51..54
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          55..64
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          67..73
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   TURN            74..76
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          78..83
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   HELIX           84..86
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   HELIX           87..94
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   HELIX           97..109
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   HELIX           111..117
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   HELIX           119..122
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          130..135
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          141..144
+FT                   /evidence="ECO:0007829|PDB:1JK8"
+FT   STRAND          146..157
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          160..165
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          168..170
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          174..176
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          183..185
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          187..194
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          203..208
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   STRAND          216..220
+FT                   /evidence="ECO:0007829|PDB:1UVQ"
+FT   HELIX           229..256
+FT                   /evidence="ECO:0007829|PDB:8VSP"
+SQ   SEQUENCE   261 AA;  29991 MW;  79B1E571A628CF96 CRC64;
+     MSWKKALRIP GGLRAATVTL MLAMLSTPVA EGRDSPEDFV YQFKAMCYFT NGTERVRYVT
+     RYIYNREEYA RFDSDVEVYR AVTPLGPPDA EYWNSQKEVL ERTRAELDTV CRHNYQLELR
+     TTLQRRVEPT VTISPSRTEA LNHHNLLVCS VTDFYPAQIK VRWFRNDQEE TTGVVSTPLI
+     RNGDWTFQIL VMLEMTPQHG DVYTCHVEHP SLQNPITVEW RAQSESAQSK MLSGIGGFVL
+     GLIFLGLGLI IHHRSQKGLL H
+//

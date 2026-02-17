@@ -1,0 +1,147 @@
+ID   A0A0A8WFP6_HUMAN        Unreviewed;       269 AA.
+AC   A0A0A8WFP6;
+DT   04-MAR-2015, integrated into UniProtKB/TrEMBL.
+DT   04-MAR-2015, sequence version 1.
+DT   28-JAN-2026, entry version 59.
+DE   SubName: Full=MHC class II antigen {ECO:0000313|EMBL:CEK40932.1};
+GN   Name=HLA-DQB1 {ECO:0000313|EMBL:CEK40932.1};
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606 {ECO:0000313|EMBL:CEK40932.1};
+RN   [1] {ECO:0007829|PDB:3PL6}
+RP   X-RAY CRYSTALLOGRAPHY (2.55 ANGSTROMS) OF 31-230, GLYCOSYLATION AT ASN-51,
+RP   AND DISULFIDE BONDS.
+RX   PubMed=21199956; DOI=10.1084/jem.20100725;
+RA   Sethi D.K., Schubert D.A., Anders A.K., Heroux A., Bonsor D.A.,
+RA   Thomas C.P., Sundberg E.J., Pyrdol J., Wucherpfennig K.W.;
+RT   "A highly tilted binding mode by a self-reactive T cell receptor results in
+RT   altered engagement of peptide and MHC.";
+RL   J. Exp. Med. 208:91-102(2011).
+RN   [2] {ECO:0000313|EMBL:CEK40932.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Albrecht V., Boehme I., Schmidt A.H.;
+RT   "Characterisation and Confirmation of new HLA-Alleles found by DKMS Life
+RT   Science Lab.";
+RL   Submitted (DEC-2014) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:SBO45763.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=28547825; DOI=10.1111/tan.13057;
+RA   Albrecht V., Zweiniger C., Surendranath V., Lang K., Schofl G., Dahl A.,
+RA   Winkler S., Lange V., Bohme I., Schmidt A.H.;
+RT   "Dual redundant sequencing strategy: Full-length gene characterisation of
+RT   1056 novel and confirmatory HLA alleles.";
+RL   HLA 90:79-87(2017).
+RN   [4] {ECO:0000313|EMBL:CAD5914815.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Lucas J., Lucas AM J.;
+RL   Submitted (SEP-2020) to the EMBL/GenBank/DDBJ databases.
+RN   [5] {ECO:0000313|EMBL:CAE6990206.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Turner R T.;
+RL   Submitted (JAN-2021) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SUBCELLULAR LOCATION: Endosome membrane
+CC       {ECO:0000256|ARBA:ARBA00004530}; Single-pass type I membrane protein
+CC       {ECO:0000256|ARBA:ARBA00004530}. Lysosome membrane
+CC       {ECO:0000256|ARBA:ARBA00004352}; Single-pass type I membrane protein
+CC       {ECO:0000256|ARBA:ARBA00004352}.
+CC   -!- SIMILARITY: Belongs to the MHC class II family.
+CC       {ECO:0000256|ARBA:ARBA00007394}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; LR881992; CAD5914815.1; -; Genomic_DNA.
+DR   EMBL; LR881993; CAD5914856.1; -; Genomic_DNA.
+DR   EMBL; LR881994; CAD5914907.1; -; Genomic_DNA.
+DR   EMBL; LR881995; CAD5914927.1; -; Genomic_DNA.
+DR   EMBL; LR881996; CAD5914960.1; -; Genomic_DNA.
+DR   EMBL; HG993102; CAE6990206.1; -; Genomic_DNA.
+DR   EMBL; OU241977; CAG7468538.1; -; Genomic_DNA.
+DR   EMBL; OU241991; CAG7468552.1; -; Genomic_DNA.
+DR   EMBL; OU241992; CAG7468553.1; -; Genomic_DNA.
+DR   EMBL; OU241993; CAG7468554.1; -; Genomic_DNA.
+DR   EMBL; OU242010; CAG7468571.1; -; Genomic_DNA.
+DR   EMBL; OU242013; CAG7468574.1; -; Genomic_DNA.
+DR   EMBL; OU242014; CAG7468575.1; -; Genomic_DNA.
+DR   EMBL; OU242024; CAG7468585.1; -; Genomic_DNA.
+DR   EMBL; OU242047; CAG7468608.1; -; Genomic_DNA.
+DR   EMBL; OU385942; CAG7912259.1; -; Genomic_DNA.
+DR   EMBL; LN681578; CEK40932.1; -; Genomic_DNA.
+DR   EMBL; LN871066; CTP93679.1; -; Genomic_DNA.
+DR   EMBL; LT578422; SBO45763.1; -; Genomic_DNA.
+DR   PDB; 3PL6; X-ray; 2.55 A; B=31-230.
+DR   PDBsum; 3PL6; -.
+DR   AlphaFoldDB; A0A0A8WFP6; -.
+DR   SMR; A0A0A8WFP6; -.
+DR   OrthoDB; 10043043at2759; -.
+DR   ChiTaRS; HLA-DQB1; human.
+DR   GO; GO:0010008; C:endosome membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0005765; C:lysosomal membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0042613; C:MHC class II protein complex; IEA:UniProtKB-KW.
+DR   GO; GO:0002250; P:adaptive immune response; IEA:UniProtKB-KW.
+DR   GO; GO:0002504; P:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II; IEA:UniProtKB-KW.
+DR   CDD; cd21001; IgC1_MHC_II_beta_HLA-DQ_I-A; 1.
+DR   FunFam; 2.60.40.10:FF:000116; HLA class II histocompatibility antigen, DRB1-1 beta chain; 1.
+DR   FunFam; 3.10.320.10:FF:000001; HLA class II histocompatibility antigen, DRB1-1 beta chain; 1.
+DR   Gene3D; 3.10.320.10; Class II Histocompatibility Antigen, M Beta Chain, Chain B, domain 1; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 1.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003006; Ig/MHC_CS.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   InterPro; IPR050160; MHC/Immunoglobulin.
+DR   InterPro; IPR011162; MHC_I/II-like_Ag-recog.
+DR   InterPro; IPR014745; MHC_II_a/b_N.
+DR   InterPro; IPR000353; MHC_II_b_N.
+DR   PANTHER; PTHR19944:SF101; HLA CLASS II HISTOCOMPATIBILITY ANTIGEN, DQ BETA 1 CHAIN; 1.
+DR   PANTHER; PTHR19944; MHC CLASS II-RELATED; 1.
+DR   Pfam; PF07654; C1-set; 1.
+DR   Pfam; PF00969; MHC_II_beta; 1.
+DR   SMART; SM00407; IGc1; 1.
+DR   SMART; SM00921; MHC_II_beta; 1.
+DR   SUPFAM; SSF48726; Immunoglobulin; 1.
+DR   SUPFAM; SSF54452; MHC antigen-recognition domain; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+DR   PROSITE; PS00290; IG_MHC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0007829|PDB:3PL6};
+KW   Adaptive immunity {ECO:0000256|ARBA:ARBA00023130};
+KW   Disulfide bond {ECO:0000256|ARBA:ARBA00023157};
+KW   Endosome {ECO:0000256|ARBA:ARBA00022753};
+KW   Glycoprotein {ECO:0000256|ARBA:ARBA00023180};
+KW   Immunity {ECO:0000256|ARBA:ARBA00022859};
+KW   Lysosome {ECO:0000256|ARBA:ARBA00023228};
+KW   Membrane {ECO:0000256|ARBA:ARBA00023136, ECO:0000256|SAM:Phobius};
+KW   MHC II {ECO:0000256|ARBA:ARBA00023182};
+KW   Signal {ECO:0000256|ARBA:ARBA00022729, ECO:0000256|SAM:SignalP};
+KW   Transmembrane {ECO:0000256|ARBA:ARBA00022692, ECO:0000256|SAM:Phobius};
+KW   Transmembrane helix {ECO:0000256|ARBA:ARBA00022989,
+KW   ECO:0000256|SAM:Phobius}.
+FT   SIGNAL          1..30
+FT                   /evidence="ECO:0000256|SAM:SignalP"
+FT   CHAIN           31..269
+FT                   /evidence="ECO:0000256|SAM:SignalP"
+FT                   /id="PRO_5015033025"
+FT   TRANSMEM        231..251
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000256|SAM:Phobius"
+FT   DOMAIN          129..217
+FT                   /note="Ig-like"
+FT                   /evidence="ECO:0000259|PROSITE:PS50835"
+FT   CARBOHYD        51
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0007829|PDB:3PL6"
+FT   DISULFID        47..111
+FT                   /evidence="ECO:0007829|PDB:3PL6"
+FT   DISULFID        149..205
+FT                   /evidence="ECO:0007829|PDB:3PL6"
+SQ   SEQUENCE   269 AA;  30450 MW;  13E33470505093CE CRC64;
+     MSWKKSLRIP GDLRVATVTL MLAILSSSLA EGRDSPEDFV YQFKGLCYFT NGTERVRGVT
+     RHIYNREEYV RFDSDVGVYR AVTPQGRPVA EYWNSQKEVL EGARASVDRV CRHNYEVAYR
+     GILQRRVEPT VTISPSRTEA LNHHNLLICS VTDFYPSQIK VRWFRNDQEE TAGVVSTPLI
+     RNGDWTFQIL VMLEMTPQRG DVYTCHVEHP SLQSPITVEW RAQSESAQSK MLSGVGGFVL
+     GLIFLGLGLI IRQRSRKGPQ GPPPAGLLH
+//

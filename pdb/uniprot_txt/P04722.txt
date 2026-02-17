@@ -1,0 +1,94 @@
+ID   GDA2_WHEAT              Reviewed;         291 AA.
+AC   P04722;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   13-AUG-1987, sequence version 1.
+DT   09-APR-2025, entry version 109.
+DE   RecName: Full=Alpha/beta-gliadin A-II;
+DE   AltName: Full=Prolamin;
+DE   Flags: Precursor;
+OS   Triticum aestivum (Wheat).
+OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+OC   Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP clade;
+OC   Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+OX   NCBI_TaxID=4565;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=2989281; DOI=10.1016/s0021-9258(17)39582-0;
+RA   Okita T.W., Cheesbrough V., Reeves C.D.;
+RT   "Evolution and heterogeneity of the alpha-/beta-type and gamma-type gliadin
+RT   DNA sequences.";
+RL   J. Biol. Chem. 260:8203-8213(1985).
+CC   -!- FUNCTION: Gliadin is the major seed storage protein in wheat.
+CC   -!- PTM: Substrate of transglutaminase. {ECO:0000250}.
+CC   -!- ALLERGEN: Causes an allergic reaction in human. Is the cause of the
+CC       celiac disease, also known as celiac sprue or gluten-sensitive
+CC       enteropathy (By similarity). {ECO:0000250}.
+CC   -!- MISCELLANEOUS: The alpha/beta-gliadins can be divided into 5 homology
+CC       classes. Sequence divergence between the classes is due to single base
+CC       substitutions and to duplications or deletions within or near direct
+CC       repeats. There are more than a 100 copies of the gene for alpha/beta-
+CC       gliadin per haploid genome.
+CC   -!- SIMILARITY: Belongs to the gliadin/glutenin family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; M10092; AAA34276.1; -; mRNA.
+DR   PIR; C22364; C22364.
+DR   PIR; T06498; T06498.
+DR   AlphaFoldDB; P04722; -.
+DR   SMR; P04722; -.
+DR   STRING; 4565.P04722; -.
+DR   EvolutionaryTrace; P04722; -.
+DR   Proteomes; UP000019116; Unplaced.
+DR   ExpressionAtlas; P04722; baseline and differential.
+DR   GO; GO:0045735; F:nutrient reservoir activity; IEA:UniProtKB-KW.
+DR   Gene3D; 1.10.110.10; Plant lipid-transfer and hydrophobic proteins; 1.
+DR   InterPro; IPR036312; Bifun_inhib/LTP/seed_sf.
+DR   InterPro; IPR016140; Bifunc_inhib/LTP/seed_store.
+DR   InterPro; IPR001954; Glia_glutenin.
+DR   PANTHER; PTHR33454:SF7; ALPHA_BETA-GLIADIN MM1; 1.
+DR   PANTHER; PTHR33454; PROLAMIN PPROL 14P; 1.
+DR   Pfam; PF13016; Gliadin; 1.
+DR   PRINTS; PR00208; GLIADGLUTEN.
+DR   PRINTS; PR00209; GLIADIN.
+DR   SMART; SM00499; AAI; 1.
+DR   SUPFAM; SSF47699; Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin; 1.
+PE   2: Evidence at transcript level;
+KW   Allergen; Reference proteome; Repeat; Seed storage protein; Signal;
+KW   Storage protein.
+FT   SIGNAL          1..20
+FT   CHAIN           21..291
+FT                   /note="Alpha/beta-gliadin A-II"
+FT                   /id="PRO_0000032269"
+FT   REGION          32..120
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          227..250
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        32..55
+FT                   /note="Low complexity"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        56..71
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        81..104
+FT                   /note="Pro residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        105..120
+FT                   /note="Low complexity"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        227..237
+FT                   /note="Low complexity"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   COMPBIAS        238..250
+FT                   /note="Polar residues"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+SQ   SEQUENCE   291 AA;  33661 MW;  9B39F93B0825A2E0 CRC64;
+     MKTFPILALL AIVATTATTA VRVPVPQLQL QNPSQQQPQE QVPLVQEQQF QGQQQPFPPQ
+     QPYPQPQPFP SQQPYLQLQP FPQPQLPYPQ PQPFRPQQPY PQPQPQYSQP QQPISQQQQQ
+     QQQQQQQQQQ ILQQILQQQL IPCRDVVLQQ HNIAHGSSQV LQESTYQLVQ QLCCQQLWQI
+     PEQSRCQAIH NVVHAIILHQ QHHHHQQQQQ QQQQQPLSQV SFQQPQQQYP SGQGFFQPSQ
+     QNPQAQGSFQ PQQLPQFEEI RNLALQTLPA MCNVYIPPYC TIAPFGIFGT N
+//

@@ -1,0 +1,439 @@
+ID   TACY_STRP2              Reviewed;         471 AA.
+AC   Q04IN8; P11990;
+DT   06-MAR-2007, integrated into UniProtKB/Swiss-Prot.
+DT   14-NOV-2006, sequence version 1.
+DT   28-JAN-2026, entry version 107.
+DE   RecName: Full=Pneumolysin;
+DE            Short=PLY;
+DE   AltName: Full=Thiol-activated cytolysin;
+GN   Name=ply; OrderedLocusNames=SPD_1726;
+OS   Streptococcus pneumoniae serotype 2 (strain D39 / NCTC 7466).
+OC   Bacteria; Bacillati; Bacillota; Bacilli; Lactobacillales; Streptococcaceae;
+OC   Streptococcus.
+OX   NCBI_TaxID=373153;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 2-17.
+RC   STRAIN=D39 / NCTC 7466;
+RX   PubMed=3552992; DOI=10.1128/iai.55.5.1184-1189.1987;
+RA   Walker J.A., Allen R.L., Falmagne P., Johnson M.K., Boulnois G.J.;
+RT   "Molecular cloning, characterization, and complete nucleotide sequence of
+RT   the gene for pneumolysin, the sulfhydryl-activated toxin of Streptococcus
+RT   pneumoniae.";
+RL   Infect. Immun. 55:1184-1189(1987).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=D39 / NCTC 7466;
+RX   PubMed=17041037; DOI=10.1128/jb.01148-06;
+RA   Lanie J.A., Ng W.-L., Kazmierczak K.M., Andrzejewski T.M., Davidsen T.M.,
+RA   Wayne K.J., Tettelin H., Glass J.I., Winkler M.E.;
+RT   "Genome sequence of Avery's virulent serotype 2 strain D39 of Streptococcus
+RT   pneumoniae and comparison with that of unencapsulated laboratory strain
+RT   R6.";
+RL   J. Bacteriol. 189:38-51(2007).
+RN   [3]
+RP   FUNCTION, DOMAIN, AND MUTAGENESIS OF CYS-428; TRP-433; GLU-434; TRP-435 AND
+RP   TRP-436.
+RC   STRAIN=D39 / NCTC 7466;
+RX   PubMed=9445384; DOI=10.1042/bj3290571;
+RA   Korchev Y.E., Bashford C.L., Pederzolli C., Pasternak C.A., Morgan P.J.,
+RA   Andrew P.W., Mitchell T.J.;
+RT   "A conserved tryptophan in pneumolysin is a determinant of the
+RT   characteristics of channels formed by pneumolysin in cells and planar lipid
+RT   bilayers.";
+RL   Biochem. J. 329:571-577(1998).
+RN   [4]
+RP   FUNCTION, SUBUNIT, SUBCELLULAR LOCATION, AND DOMAIN.
+RX   PubMed=15851031; DOI=10.1016/j.cell.2005.02.033;
+RA   Tilley S.J., Orlova E.V., Gilbert R.J., Andrew P.W., Saibil H.R.;
+RT   "Structural basis of pore formation by the bacterial toxin pneumolysin.";
+RL   Cell 121:247-256(2005).
+RN   [5]
+RP   FUNCTION, CHOLESTEROL-BINDING, AND MUTAGENESIS OF 459-THR-LEU-460.
+RX   PubMed=20145114; DOI=10.1073/pnas.0911581107;
+RA   Farrand A.J., LaChapelle S., Hotze E.M., Johnson A.E., Tweten R.K.;
+RT   "Only two amino acids are essential for cytolytic toxin recognition of
+RT   cholesterol at the membrane surface.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 107:4341-4346(2010).
+RN   [6] {ECO:0007744|PDB:5CR6, ECO:0007744|PDB:5CR8}
+RP   X-RAY CRYSTALLOGRAPHY (1.98 ANGSTROMS), FUNCTION, ACTIVITY REGULATION,
+RP   DOMAIN, AND MUTAGENESIS OF THR-88; ARG-147; ASP-205; ARG-226; THR-304;
+RP   ASN-339 AND 434-GLU--ARG-437.
+RC   STRAIN=D39 / NCTC 7466;
+RX   PubMed=26333773; DOI=10.1038/srep13293;
+RA   Marshall J.E., Faraj B.H., Gingras A.R., Lonnen R., Sheikh M.A.,
+RA   El-Mezgueldi M., Moody P.C., Andrew P.W., Wallis R.;
+RT   "The Crystal Structure of Pneumolysin at 2.0 A Resolution Reveals the
+RT   Molecular Packing of the Pre-pore Complex.";
+RL   Sci. Rep. 5:13293-13293(2015).
+RN   [7] {ECO:0007744|PDB:4ZGH}
+RP   X-RAY CRYSTALLOGRAPHY (2.90 ANGSTROMS) OF 2-470, DOMAIN, AND MUTAGENESIS OF
+RP   LYS-18; 66-ASN--SER-68; ASN-66; SER-68 AND LYS-208.
+RC   STRAIN=D39 / NCTC 7466;
+RX   PubMed=26403197; DOI=10.1038/srep14352;
+RA   Lawrence S.L., Feil S.C., Morton C.J., Farrand A.J., Mulhern T.D.,
+RA   Gorman M.A., Wade K.R., Tweten R.K., Parker M.W.;
+RT   "Crystal structure of Streptococcus pneumoniae pneumolysin provides key
+RT   insights into early steps of pore formation.";
+RL   Sci. Rep. 5:14352-14352(2015).
+RN   [8] {ECO:0007744|PDB:5AOD}
+RP   X-RAY CRYSTALLOGRAPHY (2.40 ANGSTROMS), DOMAIN, AND MUTAGENESIS OF THR-63;
+RP   ASN-85; ASP-102; LYS-152; GLN-191; ASP-205; GLU-260; GLU-264 AND THR-405.
+RX   PubMed=27796097; DOI=10.1021/acs.nanolett.6b04219;
+RA   van Pee K., Mulvihill E., Mueller D.J., Yildiz O.;
+RT   "Unraveling the Pore-Forming Steps of Pneumolysin from Streptococcus
+RT   pneumoniae.";
+RL   Nano Lett. 16:7915-7924(2016).
+RN   [9] {ECO:0007744|PDB:5AOE, ECO:0007744|PDB:5AOF, ECO:0007744|PDB:5LY6}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (4.50 ANGSTROMS) OF WHOLE PORE, X-RAY
+RP   CRYSTALLOGRAPHY (2.45 ANGSTROMS) OF NON-HEMOLYTIC MUTANTS, PORE FORMATION,
+RP   SUBUNIT, DOMAIN, AND MUTAGENESIS OF 146-ALA-ARG-147 AND ASP-168.
+RC   STRAIN=D39 / NCTC 7466;
+RX   PubMed=28323617; DOI=10.7554/elife.23644;
+RA   van Pee K., Neuhaus A., D'Imprima E., Mills D.J., Kuhlbrandt W., Yildiz O.;
+RT   "CryoEM structures of membrane pore and prepore complex reveal cytolytic
+RT   mechanism of Pneumolysin.";
+RL   Elife 6:0-0(2017).
+CC   -!- FUNCTION: A cholesterol-dependent toxin that causes cytolysis by
+CC       forming pores in cholesterol-containing host membranes. After binding
+CC       to target membranes, the protein undergoes a major conformation change,
+CC       leading to its insertion in the host membrane and formation of an
+CC       oligomeric pore complex. Cholesterol is required for binding to host
+CC       membranes, membrane insertion and pore formation; cholesterol binding
+CC       is mediated by a Thr-Leu pair in the C-terminus. Can be reversibly
+CC       inactivated by oxidation. {ECO:0000269|PubMed:15851031,
+CC       ECO:0000269|PubMed:20145114, ECO:0000269|PubMed:26333773,
+CC       ECO:0000269|PubMed:28323617, ECO:0000269|PubMed:9445384}.
+CC   -!- ACTIVITY REGULATION: Erythrocytes hemolysis is inhibited by
+CC       cholesterol. {ECO:0000269|PubMed:26333773}.
+CC   -!- SUBUNIT: Elongated monomers align along their lengths, indicating
+CC       intersubunit contacts and suggesting the prepore structure
+CC       (PubMed:15851031, PubMed:26333773, PubMed:26403197, PubMed:27796097,
+CC       PubMed:28323617). Modeling based on cryo-EM shows a homooligomeric pore
+CC       complex containing 38-44 subunits; when inserted in the host membrane
+CC       (Probable). The size of isolated pores is detergent-dependent; in
+CC       amphipol A8-35 homogenous rings form with 42 subunits
+CC       (PubMed:28323617). {ECO:0000269|PubMed:15851031,
+CC       ECO:0000269|PubMed:26333773, ECO:0000269|PubMed:26403197,
+CC       ECO:0000269|PubMed:27796097, ECO:0000269|PubMed:28323617,
+CC       ECO:0000305|PubMed:15851031}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250|UniProtKB:P0C2J9}. Host
+CC       cell membrane {ECO:0000269|PubMed:28323617,
+CC       ECO:0000305|PubMed:15851031}; Multi-pass membrane protein
+CC       {ECO:0000269|PubMed:28323617}. Note=Secreted as soluble protein by the
+CC       accessory Sec system (By similarity). It then inserts into the host
+CC       cell membrane and forms pores formed by transmembrane beta-strands
+CC       (PubMed:15851031, PubMed:28323617). {ECO:0000250|UniProtKB:P0C2J9,
+CC       ECO:0000269|PubMed:15851031, ECO:0000269|PubMed:28323617}.
+CC   -!- DOMAIN: A highly conserved undecapeptide in the C-terminus has residues
+CC       important for membrane binding and cell lysis (PubMed:9445384). Mature
+CC       protein has 3 discontinuous domains; D1, D2, D3 followed by C-terminal
+CC       D4 (PubMed:15851031, PubMed:26333773, PubMed:26403197, PubMed:27796097,
+CC       PubMed:28323617). The domains rearrange substantially upon membrane
+CC       insertion, in particular alpha-helices in D3 refold to form the
+CC       transmembrane beta-strands (PubMed:15851031, PubMed:28323617). The
+CC       relative position of domain D4 changes, allowing it to interact with
+CC       host membranes (PubMed:26333773, PubMed:27796097, PubMed:28323617).
+CC       {ECO:0000269|PubMed:15851031, ECO:0000269|PubMed:26333773,
+CC       ECO:0000269|PubMed:26403197, ECO:0000269|PubMed:27796097,
+CC       ECO:0000269|PubMed:28323617, ECO:0000269|PubMed:9445384}.
+CC   -!- SIMILARITY: Belongs to the cholesterol-dependent cytolysin family.
+CC       {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X52474; CAA36714.1; -; Genomic_DNA.
+DR   EMBL; M17717; AAA26915.1; -; Genomic_DNA.
+DR   EMBL; CP000410; ABJ53672.1; -; Genomic_DNA.
+DR   RefSeq; WP_001284359.1; NC_008533.2.
+DR   PDB; 4ZGH; X-ray; 2.90 A; A=2-470.
+DR   PDB; 5AOD; X-ray; 2.40 A; A=1-471.
+DR   PDB; 5AOE; X-ray; 2.50 A; A/B=1-471.
+DR   PDB; 5AOF; X-ray; 2.45 A; A=1-470.
+DR   PDB; 5CR6; X-ray; 1.98 A; D=1-471.
+DR   PDB; 5CR8; X-ray; 2.05 A; A/D=359-471.
+DR   PDB; 5LY6; EM; 4.50 A; B=1-471.
+DR   PDB; 7T2A; X-ray; 3.04 A; C/F=429-441.
+DR   PDB; 7T2B; X-ray; 2.80 A; C/H/M/R=429-441.
+DR   PDB; 7T2C; X-ray; 3.10 A; C=429-441.
+DR   PDB; 7T2D; X-ray; 3.40 A; C/H/M/R=429-441.
+DR   PDBsum; 4ZGH; -.
+DR   PDBsum; 5AOD; -.
+DR   PDBsum; 5AOE; -.
+DR   PDBsum; 5AOF; -.
+DR   PDBsum; 5CR6; -.
+DR   PDBsum; 5CR8; -.
+DR   PDBsum; 5LY6; -.
+DR   PDBsum; 7T2A; -.
+DR   PDBsum; 7T2B; -.
+DR   PDBsum; 7T2C; -.
+DR   PDBsum; 7T2D; -.
+DR   AlphaFoldDB; Q04IN8; -.
+DR   EMDB; EMD-2611; -.
+DR   EMDB; EMD-2612; -.
+DR   EMDB; EMD-2613; -.
+DR   EMDB; EMD-2614; -.
+DR   EMDB; EMD-2615; -.
+DR   EMDB; EMD-2616; -.
+DR   EMDB; EMD-2617; -.
+DR   EMDB; EMD-2618; -.
+DR   EMDB; EMD-2619; -.
+DR   EMDB; EMD-4118; -.
+DR   SMR; Q04IN8; -.
+DR   PaxDb; 373153-SPD_1726; -.
+DR   KEGG; spd:SPD_1726; -.
+DR   eggNOG; ENOG502Z7ST; Bacteria.
+DR   HOGENOM; CLU_026912_1_0_9; -.
+DR   BioCyc; SPNE373153:G1G6V-1864-MONOMER; -.
+DR   EvolutionaryTrace; Q04IN8; -.
+DR   PHI-base; PHI:6282; -.
+DR   PHI-base; PHI:7994; -.
+DR   PHI-base; PHI:9909; -.
+DR   Proteomes; UP000001452; Chromosome.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0020002; C:host cell plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0015485; F:cholesterol binding; IEA:InterPro.
+DR   GO; GO:0090729; F:toxin activity; IEA:UniProtKB-KW.
+DR   GO; GO:0031640; P:killing of cells of another organism; IEA:UniProtKB-KW.
+DR   FunFam; 2.60.40.1430:FF:000001; Thiol-activated cytolysin; 1.
+DR   Gene3D; 3.30.1040.20; -; 1.
+DR   Gene3D; 3.40.30.40; Perfringolysin; 1.
+DR   Gene3D; 2.60.40.1430; Perfringolysin, domain 4; 1.
+DR   Gene3D; 3.90.840.10; Thiol-activated cytolysin superfamily/Thiol-activated cytolysin, alpha-beta domain; 1.
+DR   InterPro; IPR035390; Thiol_cytolys_C.
+DR   InterPro; IPR038700; Thiol_cytolys_C_sf.
+DR   InterPro; IPR001869; Thiol_cytolysin.
+DR   InterPro; IPR036363; Thiol_cytolysin_ab_sf.
+DR   InterPro; IPR036359; Thiol_cytolysin_sf.
+DR   Pfam; PF17440; Thiol_cytolys_C; 1.
+DR   Pfam; PF01289; Thiol_cytolysin; 1.
+DR   PRINTS; PR01400; TACYTOLYSIN.
+DR   SUPFAM; SSF56978; Perfringolysin; 1.
+DR   PROSITE; PS00481; THIOL_CYTOLYSINS; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Cytolysis; Direct protein sequencing; Hemolysis;
+KW   Host cell membrane; Host membrane; Lipid-binding; Membrane;
+KW   Reference proteome; Secreted; Toxin; Transmembrane;
+KW   Transmembrane beta strand; Virulence.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000269|PubMed:3552992"
+FT   CHAIN           2..471
+FT                   /note="Pneumolysin"
+FT                   /id="PRO_0000279546"
+FT   TRANSMEM        158..171
+FT                   /note="Beta stranded"
+FT                   /evidence="ECO:0000269|PubMed:28323617,
+FT                   ECO:0007744|PDB:5LY6"
+FT   TRANSMEM        178..187
+FT                   /note="Beta stranded"
+FT                   /evidence="ECO:0000269|PubMed:28323617,
+FT                   ECO:0007744|PDB:5LY6"
+FT   TRANSMEM        256..265
+FT                   /note="Beta stranded"
+FT                   /evidence="ECO:0000269|PubMed:28323617,
+FT                   ECO:0007744|PDB:5LY6"
+FT   TRANSMEM        273..285
+FT                   /note="Beta stranded"
+FT                   /evidence="ECO:0000269|PubMed:28323617,
+FT                   ECO:0007744|PDB:5LY6"
+FT   MOTIF           427..437
+FT                   /note="Conserved undecapeptide"
+FT                   /evidence="ECO:0000305"
+FT   MOTIF           459..460
+FT                   /note="Cholesterol binding"
+FT                   /evidence="ECO:0000269|PubMed:20145114"
+FT   MUTAGEN         18
+FT                   /note="K->A: Loss of hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26403197"
+FT   MUTAGEN         63
+FT                   /note="T->A: 15% hemolytic activity, forms incomplete rings
+FT                   on liposomes."
+FT                   /evidence="ECO:0000269|PubMed:27796097"
+FT   MUTAGEN         66..68
+FT                   /note="NDS->WDW: Loss of hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26403197"
+FT   MUTAGEN         66
+FT                   /note="N->W: 50% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26403197"
+FT   MUTAGEN         68
+FT                   /note="S->W: Wild-type hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26403197"
+FT   MUTAGEN         85
+FT                   /note="N->A: 44% hemolytic activity, forms incomplete rings
+FT                   on liposomes."
+FT                   /evidence="ECO:0000269|PubMed:27796097"
+FT   MUTAGEN         88
+FT                   /note="T->E: 4% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26333773"
+FT   MUTAGEN         102
+FT                   /note="D->A: 1% hemolytic activity, forms linear oligomers
+FT                   on liposomes rather than pores."
+FT                   /evidence="ECO:0000269|PubMed:27796097"
+FT   MUTAGEN         146..147
+FT                   /note="Missing: Loss of hemolytic activity, does not bind
+FT                   membrane, does not form pores."
+FT                   /evidence="ECO:0000269|PubMed:28323617"
+FT   MUTAGEN         147
+FT                   /note="R->E: 2% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26333773"
+FT   MUTAGEN         152
+FT                   /note="K->D: 12% hemolytic activity; when associated with
+FT                   K-260."
+FT                   /evidence="ECO:0000269|PubMed:27796097"
+FT   MUTAGEN         168
+FT                   /note="D->A: 20% hemolytic activity, inhibits membrane
+FT                   insertion, forms prepores on liposomes which detach easily
+FT                   and rarely convert to pores."
+FT                   /evidence="ECO:0000269|PubMed:28323617"
+FT   MUTAGEN         191
+FT                   /note="Q->E: 42% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:27796097"
+FT   MUTAGEN         205
+FT                   /note="D->A: 17% hemolytic activity, forms linear oligomers
+FT                   on liposomes rather than pores."
+FT                   /evidence="ECO:0000269|PubMed:27796097"
+FT   MUTAGEN         205
+FT                   /note="D->R: Loss of hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26333773"
+FT   MUTAGEN         208
+FT                   /note="K->A: 4% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26403197"
+FT   MUTAGEN         226
+FT                   /note="R->A: 6% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26333773"
+FT   MUTAGEN         260
+FT                   /note="E->K: 22% hemolytic activity. 12% hemolytic
+FT                   activity; when associated with D-152."
+FT                   /evidence="ECO:0000269|PubMed:27796097"
+FT   MUTAGEN         264
+FT                   /note="E->D: 76% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:27796097"
+FT   MUTAGEN         304
+FT                   /note="T->R: 320-fold decrease in hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26333773"
+FT   MUTAGEN         339
+FT                   /note="N->R: Loss of hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26333773"
+FT   MUTAGEN         405
+FT                   /note="T->L: 15% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:27796097"
+FT   MUTAGEN         428
+FT                   /note="C->A: Wild-type hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:9445384"
+FT   MUTAGEN         428
+FT                   /note="C->G: 3% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:9445384"
+FT   MUTAGEN         428
+FT                   /note="C->S: 25% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:9445384"
+FT   MUTAGEN         433
+FT                   /note="W->F: 1% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:9445384"
+FT   MUTAGEN         434..437
+FT                   /note="EWWR->AWWA: 5% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:26333773"
+FT   MUTAGEN         434
+FT                   /note="E->D: 50% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:9445384"
+FT   MUTAGEN         434
+FT                   /note="E->Q: 20% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:9445384"
+FT   MUTAGEN         435
+FT                   /note="W->F: 20% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:9445384"
+FT   MUTAGEN         436
+FT                   /note="W->F: 50% hemolytic activity."
+FT                   /evidence="ECO:0000269|PubMed:9445384"
+FT   MUTAGEN         459..460
+FT                   /note="TL->GG: Loss of hemolytic activity, loss of host
+FT                   membrane binding, loss of cholesterol binding."
+FT                   /evidence="ECO:0000269|PubMed:20145114"
+FT   HELIX           2..12
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   TURN            17..21
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          22..24
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          33..39
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          42..61
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          75..79
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   HELIX           80..83
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          97..101
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   HELIX           108..111
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          112..117
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   HELIX           120..137
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   TURN            138..141
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          147..154
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   HELIX           158..165
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   HELIX           170..176
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   HELIX           180..184
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          189..203
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   TURN            210..213
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   HELIX           222..226
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          229..232
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          234..252
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   HELIX           259..267
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   HELIX           277..283
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          285..292
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          301..305
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   HELIX           307..309
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   HELIX           310..315
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          322..324
+FT                   /evidence="ECO:0007829|PDB:4ZGH"
+FT   STRAND          327..339
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          344..359
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          361..367
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          369..371
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          373..384
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          390..396
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   TURN            398..401
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          406..414
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          418..431
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          434..444
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+FT   STRAND          449..469
+FT                   /evidence="ECO:0007829|PDB:5CR6"
+SQ   SEQUENCE   471 AA;  52899 MW;  966AF46FE2EA5792 CRC64;
+     MANKAVNDFI LAMNYDKKKL LTHQGESIEN RFIKEGNQLP DEFVVIERKK RSLSTNTSDI
+     SVTATNDSRL YPGALLVVDE TLLENNPTLL AVDRAPMTYS IDLPGLASSD SFLQVEDPSN
+     SSVRGAVNDL LAKWHQDYGQ VNNVPARMQY EKITAHSMEQ LKVKFGSDFE KTGNSLDIDF
+     NSVHSGEKQI QIVNFKQIYY TVSVDAVKNP GDVFQDTVTV EDLKQRGISA ERPLVYISSV
+     AYGRQVYLKL ETTSKSDEVE AAFEALIKGV KVAPQTEWKQ ILDNTEVKAV ILGGDPSSGA
+     RVVTGKVDMV EDLIQEGSRF TADHPGLPIS YTTSFLRDNV VATFQNSTDY VETKVTAYRN
+     GDLLLDHSGA YVAQYYITWD ELSYDHQGKE VLTPKAWDRN GQDLTAHFTT SIPLKGNVRN
+     LSVKIRECTG LAWEWWRTVY EKTDLPLVRK RTISIWGTTL YPQVEDKVEN D
+//

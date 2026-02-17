@@ -1,0 +1,1344 @@
+ID   DRA_HUMAN               Reviewed;         254 AA.
+AC   P01903; A2BET4; Q30160; Q6IAZ1; Q861I2; Q9TP70;
+DT   21-JUL-1986, integrated into UniProtKB/Swiss-Prot.
+DT   10-FEB-2021, sequence version 2.
+DT   28-JAN-2026, entry version 236.
+DE   RecName: Full=HLA class II histocompatibility antigen, DR alpha chain;
+DE   AltName: Full=MHC class II antigen DRA;
+DE   Flags: Precursor;
+GN   Name=HLA-DRA; Synonyms=HLA-DRA1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE DRA*01:01).
+RX   PubMed=6811954; DOI=10.1038/299750a0;
+RA   Lee J.S., Trowsdale J., Travers P.J., Carey J., Grosveld F., Jenkins J.,
+RA   Bodmer W.F.;
+RT   "Sequence of an HLA-DR alpha-chain cDNA clone and intron-exon organization
+RT   of the corresponding gene.";
+RL   Nature 299:750-752(1982).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE DRA*01:01).
+RX   PubMed=6416803; DOI=10.1089/dna.1983.2.175;
+RA   Kajimura Y., Toyoda H., Sato M., Miyakoshi S., Kaplan S.A., Ike Y.,
+RA   Goyert S.M., Silver J., Hawke D., Shively J.E., Suggs S.V., Wallace R.B.,
+RA   Itakura K.;
+RT   "Cloning the heavy chain of human HLA-DR antigen using synthetic
+RT   oligodeoxyribonucleotides as hybridization probes.";
+RL   DNA 2:175-182(1983).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ALLELE DRA*01:02).
+RX   PubMed=2212658;
+RA   Koppelman B., Cresswell P.;
+RT   "Rapid nonlysosomal degradation of assembled HLA class II glycoproteins
+RT   incorporating a mutant DR alpha-chain.";
+RL   J. Immunol. 145:2730-2736(1990).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELE DRA*01:02).
+RX   PubMed=6324094; DOI=10.1093/nar/11.24.8663;
+RA   Schamboeck A., Korman A.J., Kamb A., Strominger J.L.;
+RT   "Organization of the transcriptional unit of a human class II
+RT   histocompatibility antigen: HLA-DR heavy chain.";
+RL   Nucleic Acids Res. 11:8663-8675(1983).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ALLELE DRA*01:01).
+RX   PubMed=6304715; DOI=10.1073/pnas.80.12.3543;
+RA   Das H.K., Lawrance S.K., Weissman S.M.;
+RT   "Structure and nucleotide sequence of the heavy chain gene of HLA-DR.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 80:3543-3547(1983).
+RN   [6]
+RP   ERRATUM OF PUBMED:6304715, AND SEQUENCE REVISION.
+RA   Das H.K., Lawrance S.K., Weissman S.M.;
+RL   Proc. Natl. Acad. Sci. U.S.A. 80:7024-7024(1983).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ALLELE DRA*01:01).
+RA   Ebert L., Schick M., Neubert P., Schatten R., Henze S., Korn B.;
+RT   "Cloning of human full open reading frames in Gateway(TM) system entry
+RT   vector (pDONR201).";
+RL   Submitted (JUN-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (ALLELES DRA*01:01 AND
+RP   DRA*01:02).
+RX   PubMed=14574404; DOI=10.1038/nature02055;
+RA   Mungall A.J., Palmer S.A., Sims S.K., Edwards C.A., Ashurst J.L.,
+RA   Wilming L., Jones M.C., Horton R., Hunt S.E., Scott C.E., Gilbert J.G.R.,
+RA   Clamp M.E., Bethel G., Milne S., Ainscough R., Almeida J.P., Ambrose K.D.,
+RA   Andrews T.D., Ashwell R.I.S., Babbage A.K., Bagguley C.L., Bailey J.,
+RA   Banerjee R., Barker D.J., Barlow K.F., Bates K., Beare D.M., Beasley H.,
+RA   Beasley O., Bird C.P., Blakey S.E., Bray-Allen S., Brook J., Brown A.J.,
+RA   Brown J.Y., Burford D.C., Burrill W., Burton J., Carder C., Carter N.P.,
+RA   Chapman J.C., Clark S.Y., Clark G., Clee C.M., Clegg S., Cobley V.,
+RA   Collier R.E., Collins J.E., Colman L.K., Corby N.R., Coville G.J.,
+RA   Culley K.M., Dhami P., Davies J., Dunn M., Earthrowl M.E., Ellington A.E.,
+RA   Evans K.A., Faulkner L., Francis M.D., Frankish A., Frankland J.,
+RA   French L., Garner P., Garnett J., Ghori M.J., Gilby L.M., Gillson C.J.,
+RA   Glithero R.J., Grafham D.V., Grant M., Gribble S., Griffiths C.,
+RA   Griffiths M.N.D., Hall R., Halls K.S., Hammond S., Harley J.L., Hart E.A.,
+RA   Heath P.D., Heathcott R., Holmes S.J., Howden P.J., Howe K.L., Howell G.R.,
+RA   Huckle E., Humphray S.J., Humphries M.D., Hunt A.R., Johnson C.M.,
+RA   Joy A.A., Kay M., Keenan S.J., Kimberley A.M., King A., Laird G.K.,
+RA   Langford C., Lawlor S., Leongamornlert D.A., Leversha M., Lloyd C.R.,
+RA   Lloyd D.M., Loveland J.E., Lovell J., Martin S., Mashreghi-Mohammadi M.,
+RA   Maslen G.L., Matthews L., McCann O.T., McLaren S.J., McLay K., McMurray A.,
+RA   Moore M.J.F., Mullikin J.C., Niblett D., Nickerson T., Novik K.L.,
+RA   Oliver K., Overton-Larty E.K., Parker A., Patel R., Pearce A.V., Peck A.I.,
+RA   Phillimore B.J.C.T., Phillips S., Plumb R.W., Porter K.M., Ramsey Y.,
+RA   Ranby S.A., Rice C.M., Ross M.T., Searle S.M., Sehra H.K., Sheridan E.,
+RA   Skuce C.D., Smith S., Smith M., Spraggon L., Squares S.L., Steward C.A.,
+RA   Sycamore N., Tamlyn-Hall G., Tester J., Theaker A.J., Thomas D.W.,
+RA   Thorpe A., Tracey A., Tromans A., Tubby B., Wall M., Wallis J.M.,
+RA   West A.P., White S.S., Whitehead S.L., Whittaker H., Wild A., Willey D.J.,
+RA   Wilmer T.E., Wood J.M., Wray P.W., Wyatt J.C., Young L., Younger R.M.,
+RA   Bentley D.R., Coulson A., Durbin R.M., Hubbard T., Sulston J.E., Dunham I.,
+RA   Rogers J., Beck S.;
+RT   "The DNA sequence and analysis of human chromosome 6.";
+RL   Nature 425:805-811(2003).
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA] (ALLELE DRA*01:01).
+RA   Mural R.J., Istrail S., Sutton G.G., Florea L., Halpern A.L., Mobarry C.M.,
+RA   Lippert R., Walenz B., Shatkay H., Dew I., Miller J.R., Flanigan M.J.,
+RA   Edwards N.J., Bolanos R., Fasulo D., Halldorsson B.V., Hannenhalli S.,
+RA   Turner R., Yooseph S., Lu F., Nusskern D.R., Shue B.C., Zheng X.H.,
+RA   Zhong F., Delcher A.L., Huson D.H., Kravitz S.A., Mouchard L., Reinert K.,
+RA   Remington K.A., Clark A.G., Waterman M.S., Eichler E.E., Adams M.D.,
+RA   Hunkapiller M.W., Myers E.W., Venter J.C.;
+RL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+RN   [10]
+RP   NUCLEOTIDE SEQUENCE [MRNA] OF 32-202 AND 204-254, AND PROTEIN SEQUENCE OF
+RP   26-60.
+RX   PubMed=6812963; DOI=10.1016/0092-8674(82)90021-6;
+RA   Larhammar D., Gustafsson K., Claesson L., Bill P., Wiman K., Schenning L.,
+RA   Sundelin J., Widmark E., Peterson P.A., Rask L.;
+RT   "Alpha chain of HLA-DR transplantation antigens is a member of the same
+RT   protein superfamily as the immunoglobulins.";
+RL   Cell 30:153-161(1982).
+RN   [11]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 29-254 (ALLELE DRA*01:02).
+RX   PubMed=6821129; DOI=10.1073/pnas.79.19.6013;
+RA   Korman A.J., Auffray C., Schamboeck A., Strominger J.L.;
+RT   "The amino acid sequence and gene organization of the heavy chain of the
+RT   HLA-DR antigen: homology to immunoglobulins.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 79:6013-6017(1982).
+RN   [12]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 205-254 (ALLELE DRA*01:02).
+RC   TISSUE=Blood;
+RX   PubMed=12445311; DOI=10.1034/j.1399-0039.2002.600310.x;
+RA   Kralovicova J., Marsh S.G., Waller M.J., Hammarstrom L., Vorechovsky I.;
+RT   "The HLA-DRA*0102 allele: correct nucleotide sequence and associated HLA
+RT   haplotypes.";
+RL   Tissue Antigens 60:266-267(2002).
+RN   [13]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ALLELES DRA*01:01 AND DRA*01:02).
+RC   TISSUE=Blood, and Colon;
+RX   PubMed=15489334; DOI=10.1101/gr.2596504;
+RG   The MGC Project Team;
+RT   "The status, quality, and expansion of the NIH full-length cDNA project:
+RT   the Mammalian Gene Collection (MGC).";
+RL   Genome Res. 14:2121-2127(2004).
+RN   [14]
+RP   PROTEIN SEQUENCE OF 26-204.
+RX   PubMed=6955253;
+RA   Yang C.-Y., Kratzin H., Gotz H., Thinnes F.P., Kruse T., Egert G.,
+RA   Pauly E., Kolbel S., Wernet P., Hilschmann N.;
+RT   "Primary structure of class II human histocompatibility antigens. 2nd
+RT   Communication. Amino acid sequence of the N-terminal 179 residues of the
+RT   alpha-chain of an HLA-Dw2/DR2 alloantigen.";
+RL   Hoppe-Seyler's Z. Physiol. Chem. 363:671-676(1982).
+RN   [15]
+RP   PROTEIN SEQUENCE OF 26-94.
+RC   TISSUE=B-cell;
+RX   PubMed=6600932; DOI=10.1021/bi00270a027;
+RA   Walker L.E., Hewick R., Hunkapiller M.W., Hood L.E., Dreyer W.J.,
+RA   Reisfeld R.A.;
+RT   "N-terminal amino acid sequences of the alpha and beta chains of HLA-DR1
+RT   and HLA-DR2 antigens.";
+RL   Biochemistry 22:185-188(1983).
+RN   [16]
+RP   FUNCTION, AND INTERACTION WITH STAPHYLOCOCCUS ENTEROTOXIN A/ (MICROBIAL
+RP   INFECTION).
+RX   PubMed=2658055; DOI=10.1126/science.2658055;
+RA   Mollick J.A., Cook R.G., Rich R.R.;
+RT   "Class II MHC molecules are specific receptors for staphylococcus
+RT   enterotoxin A.";
+RL   Science 244:817-820(1989).
+RN   [17]
+RP   INTERACTION WITH STAPHYLOCOCCUS AUREUS ENTEROTOXIN A/ENTA; B/ENTB; C1/ENTC1
+RP   AND D/ENTD (MICROBIAL INFECTION).
+RX   PubMed=2210803;
+RA   Dohlsten M., Lando P.A., Hedlund G., Trowsdale J., Kalland T.;
+RT   "Targeting of human cytotoxic T lymphocytes to MHC class II-expressing
+RT   cells by staphylococcal enterotoxins.";
+RL   Immunology 71:96-100(1990).
+RN   [18]
+RP   INTERACTION WITH CD74 HOMOTRIMER.
+RX   PubMed=7479981; DOI=10.1073/pnas.92.24.11289;
+RA   Park S.J., Sadegh-Nasseri S., Wiley D.C.;
+RT   "Invariant chain made in Escherichia coli has an exposed N-terminal segment
+RT   that blocks antigen binding to HLA-DR1 and a trimeric C-terminal segment
+RT   that binds empty HLA-DR1.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 92:11289-11293(1995).
+RN   [19]
+RP   FUNCTION, SUBCELLULAR LOCATION, AND INTERACTION WITH CLIP AND HLA-DM
+RP   COMPLEX.
+RX   PubMed=9075930; DOI=10.1016/s1074-7613(00)80332-5;
+RA   Kropshofer H., Arndt S.O., Moldenhauer G., Haemmerling G.J., Vogt A.B.;
+RT   "HLA-DM acts as a molecular chaperone and rescues empty HLA-DR molecules at
+RT   lysosomal pH.";
+RL   Immunity 6:293-302(1997).
+RN   [20]
+RP   INTERACTION WITH HLA-DM COMPLEX AND CLIP, AND MUTAGENESIS OF GLU-65 AND
+RP   PHE-76.
+RX   PubMed=11070170; DOI=10.1016/s1074-7613(00)00051-0;
+RA   Doebele R.C., Busch R., Scott H.M., Pashine A., Mellins E.D.;
+RT   "Determination of the HLA-DM interaction site on HLA-DR molecules.";
+RL   Immunity 13:517-527(2000).
+RN   [21]
+RP   FUNCTION.
+RX   PubMed=15265931; DOI=10.4049/jimmunol.173.3.1966;
+RA   Shams H., Klucar P., Weis S.E., Lalvani A., Moonan P.K., Safi H., Wizel B.,
+RA   Ewer K., Nepom G.T., Lewinsohn D.M., Andersen P., Barnes P.F.;
+RT   "Characterization of a Mycobacterium tuberculosis peptide that is
+RT   recognized by human CD4+ and CD8+ T cells in the context of multiple HLA
+RT   alleles.";
+RL   J. Immunol. 173:1966-1977(2004).
+RN   [22]
+RP   FUNCTION, SUBCELLULAR LOCATION, TISSUE SPECIFICITY, AND INDUCTION.
+RX   PubMed=15322540; DOI=10.1038/ni1108;
+RA   Roehn T.A., Boes M., Wolters D., Spindeldreher S., Mueller B., Langen H.,
+RA   Ploegh H., Vogt A.B., Kropshofer H.;
+RT   "Upregulation of the CLIP self peptide on mature dendritic cells
+RT   antagonizes T helper type 1 polarization.";
+RL   Nat. Immunol. 5:909-918(2004).
+RN   [23]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=17182262; DOI=10.1016/j.immuni.2006.10.018;
+RA   Schmid D., Pypaert M., Muenz C.;
+RT   "Antigen-loading compartments for major histocompatibility complex class II
+RT   molecules continuously receive input from autophagosomes.";
+RL   Immunity 26:79-92(2007).
+RN   [24]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=18305173; DOI=10.1073/pnas.0708874105;
+RA   De Gassart A., Camosseto V., Thibodeau J., Ceppi M., Catalan N., Pierre P.,
+RA   Gatti E.;
+RT   "MHC class II stabilization at the surface of human dendritic cells is the
+RT   result of maturation-dependent MARCH I down-regulation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:3491-3496(2008).
+RN   [25]
+RP   UBIQUITINATION AT LYS-244 BY MARCHF1 AND MARCHF8, MUTAGENESIS OF LYS-244,
+RP   AND SUBCELLULAR LOCATION.
+RX   PubMed=19117940; DOI=10.1074/jbc.m805736200;
+RA   Lapaque N., Jahnke M., Trowsdale J., Kelly A.P.;
+RT   "The HLA-DRalpha chain is modified by polyubiquitination.";
+RL   J. Biol. Chem. 284:7007-7016(2009).
+RN   [26]
+RP   GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-103 AND ASN-143.
+RC   TISSUE=Liver;
+RX   PubMed=19159218; DOI=10.1021/pr8008012;
+RA   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.;
+RT   "Glycoproteomics analysis of human liver tissue by combination of multiple
+RT   enzyme digestion and hydrazide chemistry.";
+RL   J. Proteome Res. 8:651-661(2009).
+RN   [27]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=21269460; DOI=10.1186/1752-0509-5-17;
+RA   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P., Buerckstuemmer T.,
+RA   Bennett K.L., Superti-Furga G., Colinge J.;
+RT   "Initial characterization of the human central proteome.";
+RL   BMC Syst. Biol. 5:17-17(2011).
+RN   [28]
+RP   FUNCTION.
+RX   PubMed=22327072; DOI=10.4049/jimmunol.1102190;
+RA   Kwok W.W., Tan V., Gillette L., Littell C.T., Soltis M.A., LaFond R.B.,
+RA   Yang J., James E.A., DeLong J.H.;
+RT   "Frequency of epitope-specific naive CD4(+) T cells correlates with
+RT   immunodominance in the human memory repertoire.";
+RL   J. Immunol. 188:2537-2544(2012).
+RN   [29]
+RP   FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=23783831; DOI=10.1038/ncomms3039;
+RA   Adamopoulou E., Tenzer S., Hillen N., Klug P., Rota I.A., Tietz S.,
+RA   Gebhardt M., Stevanovic S., Schild H., Tolosa E., Melms A., Stoeckle C.;
+RT   "Exploring the MHC-peptide matrix of central tolerance in the human
+RT   thymus.";
+RL   Nat. Commun. 4:2039-2039(2013).
+RN   [30]
+RP   IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RC   TISSUE=Liver;
+RX   PubMed=24275569; DOI=10.1016/j.jprot.2013.11.014;
+RA   Bian Y., Song C., Cheng K., Dong M., Wang F., Huang J., Sun D., Wang L.,
+RA   Ye M., Zou H.;
+RT   "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver
+RT   phosphoproteome.";
+RL   J. Proteomics 96:253-262(2014).
+RN   [31]
+RP   FUNCTION, AND INTERACTION WITH HLA-DM AND PEPTIDE.
+RX   PubMed=25413013; DOI=10.1038/ncomms6369;
+RA   Kim A., Hartman I.Z., Poore B., Boronina T., Cole R.N., Song N.,
+RA   Ciudad M.T., Caspi R.R., Jaraquemada D., Sadegh-Nasseri S.;
+RT   "Divergent paths for the selection of immunodominant epitopes from distinct
+RT   antigenic sources.";
+RL   Nat. Commun. 5:5369-5369(2014).
+RN   [32]
+RP   FUNCTION.
+RX   PubMed=27591323; DOI=10.4049/jimmunol.1600663;
+RA   Muehling L.M., Mai D.T., Kwok W.W., Heymann P.W., Pomes A., Woodfolk J.A.;
+RT   "Circulating Memory CD4+ T Cells Target Conserved Epitopes of Rhinovirus
+RT   Capsid Proteins and Respond Rapidly to Experimental Infection in Humans.";
+RL   J. Immunol. 197:3214-3224(2016).
+RN   [33]
+RP   INTERACTION WITH CD4, DOMAIN, AND MUTAGENESIS OF THR-115 AND LEU-117.
+RX   PubMed=27114505; DOI=10.1073/pnas.1513918113;
+RA   Joensson P., Southcombe J.H., Santos A.M., Huo J., Fernandes R.A.,
+RA   McColl J., Lever M., Evans E.J., Hudson A., Chang V.T., Hanke T.,
+RA   Godkin A., Dunne P.D., Horrocks M.H., Palayret M., Screaton G.R.,
+RA   Petersen J., Rossjohn J., Fugger L., Dushek O., Xu X.N., Davis S.J.,
+RA   Klenerman D.;
+RT   "Remarkably low affinity of CD4/peptide-major histocompatibility complex
+RT   class II protein interactions.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 113:5682-5687(2016).
+RN   [34]
+RP   FUNCTION, AND TISSUE SPECIFICITY.
+RX   PubMed=31495665; DOI=10.1016/j.immuni.2019.08.012;
+RA   Abelin J.G., Harjanto D., Malloy M., Suri P., Colson T., Goulding S.P.,
+RA   Creech A.L., Serrano L.R., Nasir G., Nasrullah Y., McGann C.D., Velez D.,
+RA   Ting Y.S., Poran A., Rothenberg D.A., Chhangawala S., Rubinsteyn A.,
+RA   Hammerbacher J., Gaynor R.B., Fritsch E.F., Greshock J., Oslund R.C.,
+RA   Barthelme D., Addona T.A., Arieta C.M., Rooney M.S.;
+RT   "Defining HLA-II Ligand Processing and Binding Rules with Mass Spectrometry
+RT   Enhances Cancer Epitope Prediction.";
+RL   Immunity 0:0-0(2019).
+RN   [35]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 28-207.
+RX   PubMed=8316295; DOI=10.1038/364033a0;
+RA   Brown J.H., Jardetzky T.S., Gorga J.C., Stern L.J., Urban R.G.,
+RA   Strominger J.L., Wiley D.C.;
+RT   "Three-dimensional structure of the human class II histocompatibility
+RT   antigen HLA-DR1.";
+RL   Nature 364:33-39(1993).
+RN   [36] {ECO:0007744|PDB:1DLH}
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 28-207 IN COMPLEX WITH
+RP   HLA-DRB1*01:01 AND IAV PEPTIDE, FUNCTION, AND DOMAIN.
+RX   PubMed=8145819; DOI=10.1038/368215a0;
+RA   Stern L.J., Brown J.H., Jardetzky T.J., Gorga J.C., Urban R.G.,
+RA   Strominger J.L., Wiley D.C.;
+RT   "Crystal structure of the human class II MHC protein HLA-DR1 complexed with
+RT   an influenza virus peptide.";
+RL   Nature 368:215-221(1994).
+RN   [37] {ECO:0007744|PDB:1SEB}
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 26-206 IN COMPLEX WITH
+RP   STAPHYLOCOCCUS ENTEROTOXIN B/ENTB (MICROBIAL INFECTION).
+RX   PubMed=8152483; DOI=10.1038/368711a0;
+RA   Jardetzky T.S., Brown J.H., Gorga J.C., Stern L.J., Urban R.G., Chi Y.I.,
+RA   Stauffacher C., Strominger J.L., Wiley D.C.;
+RT   "Three-dimensional structure of a human class II histocompatibility
+RT   molecule complexed with superantigen.";
+RL   Nature 368:711-718(1994).
+RN   [38]
+RP   X-RAY CRYSTALLOGRAPHY (2.75 ANGSTROMS) OF 30-205 IN COMPLEX WITH
+RP   HLA-DRB1*03:01 AND CD74 PEPTIDE (CLIP), SUBUNIT, GLYCOSYLATION AT ASN-103
+RP   AND ASN-143, AND DISULFIDE BOND.
+RX   PubMed=7477400; DOI=10.1038/378457a0;
+RA   Ghosh P., Amaya M., Mellins E., Wiley D.C.;
+RT   "The structure of an intermediate in class II MHC maturation: CLIP bound to
+RT   HLA-DR3.";
+RL   Nature 378:457-462(1995).
+RN   [39] {ECO:0007744|PDB:2SEB}
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 26-206 IN COMPLEX WITH
+RP   HLA-DRB1*04:01 AND COL2A1 PEPTIDE, SUBUNIT, AND DOMAIN.
+RX   PubMed=9354468; DOI=10.1016/s1074-7613(00)80369-6;
+RA   Dessen A., Lawrence C.M., Cupo S., Zaller D.M., Wiley D.C.;
+RT   "X-ray crystal structure of HLA-DR4 (DRA*0101, DRB1*0401) complexed with a
+RT   peptide from human collagen II.";
+RL   Immunity 7:473-481(1997).
+RN   [40] {ECO:0007744|PDB:1BX2}
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) OF 27-206 IN COMPLEX WITH
+RP   HLA-DRB1*15:01 AND MBP PEPTIDE, SUBUNIT, AND DOMAIN.
+RX   PubMed=9782128; DOI=10.1084/jem.188.8.1511;
+RA   Smith K.J., Pyrdol J., Gauthier L., Wiley D.C., Wucherpfennig K.W.;
+RT   "Crystal structure of HLA-DR2 (DRA*0101, DRB1*1501) complexed with a
+RT   peptide from human myelin basic protein.";
+RL   J. Exp. Med. 188:1511-1520(1998).
+RN   [41] {ECO:0007744|PDB:1FV1}
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 26-206 IN COMPLEX WITH
+RP   HLA-DRB5*01:01 AND MBP PEPTIDE, AND SUBUNIT.
+RX   PubMed=11080454; DOI=10.1006/jmbi.2000.4198;
+RA   Li Y., Li H., Martin R., Mariuzza R.A.;
+RT   "Structural basis for the binding of an immunodominant peptide from myelin
+RT   basic protein in different registers by two HLA-DR2 proteins.";
+RL   J. Mol. Biol. 304:177-188(2000).
+RN   [42] {ECO:0007744|PDB:1HXY}
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 26-207, AND INTERACTION WITH
+RP   STAPHYLOCOCCUS ENTEROTOXIN H/ENTH (MICROBIAL INFECTION).
+RX   PubMed=11432818; DOI=10.1093/emboj/20.13.3306;
+RA   Petersson K., Haakansson M., Nilsson H., Forsberg G., Svensson L.A.,
+RA   Liljas A., Walse B.;
+RT   "Crystal structure of a superantigen bound to MHC class II displays zinc
+RT   and peptide dependence.";
+RL   EMBO J. 20:3306-3312(2001).
+RN   [43] {ECO:0007744|PDB:1HQR}
+RP   X-RAY CRYSTALLOGRAPHY (3.2 ANGSTROMS) OF 26-206 IN COMPLEX WITH
+RP   HLA-DRB5*01:01; MBP PEPTIDE AND STREPTOCOCCUS PYOGENES SPEC PEPTIDE,
+RP   SUBUNIT, AND DISULFIDE BOND.
+RX   PubMed=11163233; DOI=10.1016/s1074-7613(01)00092-9;
+RA   Li Y., Li H., Dimasi N., McCormick J.K., Martin R., Schuck P.,
+RA   Schlievert P.M., Mariuzza R.A.;
+RT   "Crystal structure of a superantigen bound to the high-affinity, zinc-
+RT   dependent site on MHC class II.";
+RL   Immunity 14:93-104(2001).
+RN   [44]
+RP   X-RAY CRYSTALLOGRAPHY (2.65 ANGSTROMS) OF 28-207 IN COMPLEX WITH
+RP   HLA-DRB1*01:01 EPSTEIN-BARR VIRUS BZLF2/GP42 (MICROBIAL INFECTION).
+RX   PubMed=11864610; DOI=10.1016/s1097-2765(02)00465-3;
+RA   Mullen M.M., Haan K.M., Longnecker R., Jardetzky T.S.;
+RT   "Structure of the Epstein-Barr virus gp42 protein bound to the MHC class II
+RT   receptor HLA-DR1.";
+RL   Mol. Cell 9:375-385(2002).
+RN   [45]
+RP   X-RAY CRYSTALLOGRAPHY (3.1 ANGSTROMS) OF 26-207 IN COMPLEX WITH
+RP   HLA-DRB5*01:01 AND EPSTEIN-BARR VIRUS BALF5 PEPTIDE, SUBUNIT, AND DISULFIDE
+RP   BOND.
+RX   PubMed=12244309; DOI=10.1038/ni835;
+RA   Lang H.L.E., Jacobsen H., Ikemizu S., Andersson C., Harlos K., Madsen L.,
+RA   Hjorth P., Sondergaard L., Svejgaard A., Wucherpfennig K., Stuart D.I.,
+RA   Bell J.I., Jones E.Y., Fugger L.;
+RT   "A functional and structural basis for TCR cross-reactivity in multiple
+RT   sclerosis.";
+RL   Nat. Immunol. 3:940-943(2002).
+RN   [46]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 26-206 IN COMPLEX WITH
+RP   HLA-DRB5*01:01; MBP PEPTIDE AND TRAC, SUBUNIT, AND DISULFIDE BOND.
+RX   PubMed=16079912; DOI=10.1038/sj.emboj.7600771;
+RA   Li Y., Huang Y., Lue J., Quandt J.A., Martin R., Mariuzza R.A.;
+RT   "Structure of a human autoimmune TCR bound to a myelin basic protein self-
+RT   peptide and a multiple sclerosis-associated MHC class II molecule.";
+RL   EMBO J. 24:2968-2979(2005).
+RN   [47]
+RP   X-RAY CRYSTALLOGRAPHY (2.25 ANGSTROMS) OF 26-207 IN COMPLEX WITH
+RP   HLA-DRB3*01:01 AND ITGB3 PEPTIDE (ALLOANTIGEN HPA-1A), SUBUNIT, DOMAIN, AND
+RP   DISULFIDE BOND.
+RX   PubMed=17583734; DOI=10.1016/j.jmb.2007.05.025;
+RA   Parry C.S., Gorski J., Stern L.J.;
+RT   "Crystallographic structure of the human leukocyte antigen DRA, DRB3*0101:
+RT   models of a directional alloimmune response and autoimmunity.";
+RL   J. Mol. Biol. 371:435-446(2007).
+RN   [48]
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 26-207 IN COMPLEX WITH
+RP   HLA-DRB1*01:01 AND NEOANTIGEN, INTERACTION WITH TCR, AND FUNCTION.
+RX   PubMed=17334368; DOI=10.1038/ni1447;
+RA   Deng L., Langley R.J., Brown P.H., Xu G., Teng L., Wang Q., Gonzales M.I.,
+RA   Callender G.G., Nishimura M.I., Topalian S.L., Mariuzza R.A.;
+RT   "Structural basis for the recognition of mutant self by a tumor-specific,
+RT   MHC class II-restricted T cell receptor.";
+RL   Nat. Immunol. 8:398-408(2007).
+RN   [49]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 26-206 IN COMPLEX WITH
+RP   HLA-DRB3*03:01 AND EEF1A2 PEPTIDE, AND SUBUNIT.
+RX   PubMed=18697946; DOI=10.1073/pnas.0805810105;
+RA   Dai S., Crawford F., Marrack P., Kappler J.W.;
+RT   "The structure of HLA-DR52c: comparison to other HLA-DRB3 alleles.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 105:11893-11897(2008).
+RN   [50]
+RP   X-RAY CRYSTALLOGRAPHY (2.30 ANGSTROMS) OF 26-207, AND INTERACTION WITH
+RP   STAPHYLOCOCCUS ENTEROTOXIN H/ENTH (MICROBIAL INFECTION).
+RX   PubMed=21081917; DOI=10.1038/ncomms1117;
+RA   Saline M., Roedstroem K.E., Fischer G., Orekhov V.Y., Karlsson B.G.,
+RA   Lindkvist-Petersson K.;
+RT   "The structure of superantigen complexed with TCR and MHC reveals novel
+RT   insights into superantigenic T cell activation.";
+RL   Nat. Commun. 1:119-119(2010).
+RN   [51]
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 26-217 IN COMPLEX WITH
+RP   HLA-DRB1*01:01 AND CLIP PEPTIDE, AND SUBUNIT.
+RX   PubMed=21115828; DOI=10.1073/pnas.1014708107;
+RA   Gunther S., Schlundt A., Sticht J., Roske Y., Heinemann U.,
+RA   Wiesmuller K.H., Jung G., Falk K., Rotzschke O., Freund C.;
+RT   "Bidirectional binding of invariant chain peptides to an MHC class II
+RT   molecule.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 107:22219-22224(2010).
+RN   [52]
+RP   X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 26-216 IN COMPLEX WITH
+RP   HLA-DRB1*15:01; HLA-DM HETERODIMER AND IAV HA PEPTIDE, AND MUTAGENESIS OF
+RP   GLU-65; TRP-68; GLY-74; PHE-76; SER-78; PHE-79; GLU-80; GLN-82; PRO-121 AND
+RP   ARG-125.
+RX   PubMed=23260142; DOI=10.1016/j.cell.2012.11.025;
+RA   Pos W., Sethi D.K., Call M.J., Schulze M.S., Anders A.K., Pyrdol J.,
+RA   Wucherpfennig K.W.;
+RT   "Crystal structure of the HLA-DM-HLA-DR1 complex defines mechanisms for
+RT   rapid peptide selection.";
+RL   Cell 151:1557-1568(2012).
+RN   [53]
+RP   X-RAY CRYSTALLOGRAPHY (1.65 ANGSTROMS) OF 26-206 IN COMPLEX WITH HLA-DRB1
+RP   AND PEPTIDE, AND FUNCTION.
+RX   PubMed=24190431; DOI=10.1084/jem.20131241;
+RA   Scally S.W., Petersen J., Law S.C., Dudek N.L., Nel H.J., Loh K.L.,
+RA   Wijeyewickrema L.C., Eckle S.B., van Heemst J., Pike R.N., McCluskey J.,
+RA   Toes R.E., La Gruta N.L., Purcell A.W., Reid H.H., Thomas R., Rossjohn J.;
+RT   "A molecular basis for the association of the HLA-DRB1 locus,
+RT   citrullination, and rheumatoid arthritis.";
+RL   J. Exp. Med. 210:2569-2582(2013).
+RN   [54] {ECO:0007744|PDB:6BIV, ECO:0007744|PDB:6BIX}
+RP   X-RAY CRYSTALLOGRAPHY (2.20 ANGSTROMS) OF 26-206 IN COMPLEX WITH HLA-DRB1
+RP   AND CITRULLINATED CAMP.
+RX   PubMed=29317506; DOI=10.1074/jbc.ra117.001013;
+RA   Ting Y.T., Petersen J., Ramarathinam S.H., Scally S.W., Loh K.L.,
+RA   Thomas R., Suri A., Baker D.G., Purcell A.W., Reid H.H., Rossjohn J.;
+RT   "The interplay between citrullination and HLA-DRB1 polymorphism in shaping
+RT   peptide binding hierarchies in rheumatoid arthritis.";
+RL   J. Biol. Chem. 293:3236-3251(2018).
+RN   [55]
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS) OF 26-206 IN COMPLEX WITH HLA-DRB
+RP   AND HIV-1 GAG-POL PEPTIDE, FUNCTION, INTERACTION WITH TCR, SUBCELLULAR
+RP   LOCATION, MUTAGENESIS OF GLU-80 AND ALA-93, AND DOMAIN.
+RX   PubMed=29884618; DOI=10.1126/sciimmunol.aat0687;
+RA   Galperin M., Farenc C., Mukhopadhyay M., Jayasinghe D., Decroos A.,
+RA   Benati D., Tan L.L., Ciacchi L., Reid H.H., Rossjohn J., Chakrabarti L.A.,
+RA   Gras S.;
+RT   "CD4+ T cell-mediated HLA class II cross-restriction in HIV controllers.";
+RL   Sci. Immunol. 3:0-0(2018).
+RN   [56]
+RP   X-RAY CRYSTALLOGRAPHY (1.95 ANGSTROMS) OF 27-206 IN COMPLEX WITH
+RP   HLA-DRB1*01:01 AND TPBG 5T4 PEPTIDE, SUBUNIT, AND DISULFIDE BOND.
+RX   PubMed=31619516; DOI=10.1074/jbc.ra119.009437;
+RA   MacLachlan B.J., Dolton G., Papakyriakou A., Greenshields-Watson A.,
+RA   Mason G.H., Schauenburg A., Besneux M., Szomolay B., Elliott T.,
+RA   Sewell A.K., Gallimore A., Rizkallah P., Cole D.K., Godkin A.;
+RT   "Human leukocyte antigen (HLA) class II peptide flanking residues tune the
+RT   immunogenicity of a human tumor-derived epitope.";
+RL   J. Biol. Chem. 294:20246-20258(2019).
+RN   [57]
+RP   X-RAY CRYSTALLOGRAPHY (1.64 ANGSTROMS) OF 28-207 IN COMPLEX WITH
+RP   HLA-DRB1*01:01 AND IAV PEPTIDE, AND SUBUNIT.
+RX   PubMed=32668259; DOI=10.1016/j.celrep.2020.107885;
+RA   Greenshields-Watson A., Attaf M., MacLachlan B.J., Whalley T., Rius C.,
+RA   Wall A., Lloyd A., Hughes H., Strange K.E., Mason G.H., Schauenburg A.J.,
+RA   Hulin-Curtis S.L., Geary J., Chen Y., Lauder S.N., Smart K.,
+RA   Vijaykrishna D., Grau M.L., Shugay M., Andrews R., Dolton G.,
+RA   Rizkallah P.J., Gallimore A.M., Sewell A.K., Godkin A.J., Cole D.K.;
+RT   "CD4+ T Cells Recognize Conserved Influenza A Epitopes through Shared
+RT   Patterns of V-Gene Usage and Complementary Biochemical Features.";
+RL   Cell Rep. 32:107885-107885(2020).
+CC   -!- FUNCTION: An alpha chain of antigen-presenting major histocompatibility
+CC       complex class II (MHCII) molecule. In complex with the beta chain HLA-
+CC       DRB, displays antigenic peptides on professional antigen presenting
+CC       cells (APCs) for recognition by alpha-beta T cell receptor (TCR) on
+CC       HLA-DR-restricted CD4-positive T cells. This guides antigen-specific T-
+CC       helper effector functions, both antibody-mediated immune response and
+CC       macrophage activation, to ultimately eliminate the infectious agents
+CC       and transformed cells (PubMed:15265931, PubMed:15322540,
+CC       PubMed:17334368, PubMed:22327072, PubMed:24190431, PubMed:27591323,
+CC       PubMed:29884618, PubMed:31495665, PubMed:8145819, PubMed:9075930).
+CC       Typically presents extracellular peptide antigens of 10 to 30 amino
+CC       acids that arise from proteolysis of endocytosed antigens in lysosomes
+CC       (PubMed:8145819). In the tumor microenvironment, presents antigenic
+CC       peptides that are primarily generated in tumor-resident APCs likely via
+CC       phagocytosis of apoptotic tumor cells or macropinocytosis of secreted
+CC       tumor proteins (PubMed:31495665). Presents peptides derived from
+CC       intracellular proteins that are trapped in autolysosomes after
+CC       macroautophagy, a mechanism especially relevant for T cell selection in
+CC       the thymus and central immune tolerance (PubMed:17182262,
+CC       PubMed:23783831). The selection of the immunodominant epitopes follows
+CC       two processing modes: 'bind first, cut/trim later' for pathogen-derived
+CC       antigenic peptides and 'cut first, bind later' for autoantigens/self-
+CC       peptides (PubMed:25413013). The anchor residue at position 1 of the
+CC       peptide N-terminus, usually a large hydrophobic residue, is essential
+CC       for high affinity interaction with MHCII molecules (PubMed:8145819).
+CC       {ECO:0000269|PubMed:15265931, ECO:0000269|PubMed:15322540,
+CC       ECO:0000269|PubMed:17182262, ECO:0000269|PubMed:17334368,
+CC       ECO:0000269|PubMed:22327072, ECO:0000269|PubMed:23783831,
+CC       ECO:0000269|PubMed:24190431, ECO:0000269|PubMed:25413013,
+CC       ECO:0000269|PubMed:27591323, ECO:0000269|PubMed:29884618,
+CC       ECO:0000269|PubMed:31495665, ECO:0000269|PubMed:8145819,
+CC       ECO:0000269|PubMed:9075930}.
+CC   -!- SUBUNIT: Heterotrimer that consists of an alpha chain HLA-DRA, a beta
+CC       chain HLA-DRB and a peptide (peptide-MHCII) (PubMed:11080454,
+CC       PubMed:11163233, PubMed:12244309, PubMed:16079912, PubMed:17583734,
+CC       PubMed:18697946, PubMed:31619516, PubMed:32668259, PubMed:7477400,
+CC       PubMed:9354468, PubMed:9782128). Newly synthesized alpha and beta
+CC       chains forms a heterodimer (MHCII) that associates with the
+CC       CD74/invariant chain (Ii) in the endoplasmic reticulum (ER). Ii is a
+CC       trimer composed of three subunits and each subunit interacts with one
+CC       MHCII dimer, blocking the peptide-binding cleft (PubMed:7479981). As a
+CC       result, MHCII molecules cannot bind peptides present in the ER
+CC       (PubMed:7479981). The complex of MHCII and CD74/Ii is transported in
+CC       vesicles from ER to Golgi to lysosomes, where it encounters antigenic
+CC       peptides generated via proteolysis of endocytosed antigens. MHCII
+CC       dimers are dissociated from CD74/Ii by the combined action of
+CC       proteolysis and HLA-DM (PubMed:21115828, PubMed:23260142,
+CC       PubMed:25413013). Lysosomal enzymes such as cathepsin, degrade CD74/Ii
+CC       leaving a 24 amino acid remnant called class II-associated Ii or CLIP.
+CC       Interacts (via the peptide binding cleft) with CLIP; this interaction
+CC       inhibits antigen peptide binding before entry in the endosomal
+CC       compartment (PubMed:7477400, PubMed:9075930). The displacement of CLIP
+CC       and replacement by a high affinity peptide in lysosomes is performed by
+CC       HLA-DM heterodimer. HLA-DM catalyzes CLIP dissociation from MHCII,
+CC       stabilizes empty MHCII and mediates the selection of high affinity
+CC       peptides (PubMed:11070170, PubMed:23260142, PubMed:9075930). Interacts
+CC       with HLA-DM heterodimer; this interaction is direct (PubMed:25413013).
+CC       Interacts (via alpha-1 domain) with TCR (via CDRs) (PubMed:17334368,
+CC       PubMed:29884618). Interacts (via alpha-2 domain) with CD4 (via Ig-like
+CC       V-type domain); this interaction increases the affinity of TCR for
+CC       peptide-MHCII (PubMed:27114505). {ECO:0000269|PubMed:11070170,
+CC       ECO:0000269|PubMed:11080454, ECO:0000269|PubMed:11163233,
+CC       ECO:0000269|PubMed:12244309, ECO:0000269|PubMed:16079912,
+CC       ECO:0000269|PubMed:17334368, ECO:0000269|PubMed:17583734,
+CC       ECO:0000269|PubMed:18697946, ECO:0000269|PubMed:21115828,
+CC       ECO:0000269|PubMed:23260142, ECO:0000269|PubMed:25413013,
+CC       ECO:0000269|PubMed:27114505, ECO:0000269|PubMed:29884618,
+CC       ECO:0000269|PubMed:31619516, ECO:0000269|PubMed:32668259,
+CC       ECO:0000269|PubMed:7477400, ECO:0000269|PubMed:7479981,
+CC       ECO:0000269|PubMed:9075930, ECO:0000269|PubMed:9354468,
+CC       ECO:0000269|PubMed:9782128}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with Epstein-Barr virus
+CC       BZLF2/gp42. {ECO:0000269|PubMed:11864610}.
+CC   -!- SUBUNIT: (Microbial infection) Interacts with Staphylococcus aureus
+CC       enterotoxin A/entA, enterotoxin B/entB, enterotoxin C1/entC1,
+CC       enterotoxin D/entD, and enterotoxin H/entH.
+CC       {ECO:0000269|PubMed:11432818, ECO:0000269|PubMed:21081917,
+CC       ECO:0000269|PubMed:2210803, ECO:0000269|PubMed:2658055,
+CC       ECO:0000269|PubMed:8152483}.
+CC   -!- INTERACTION:
+CC       P01903; P04233: CD74; NbExp=2; IntAct=EBI-1030473, EBI-2622890;
+CC       P01903; P01911: HLA-DRB1; NbExp=6; IntAct=EBI-1030473, EBI-1033104;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane {ECO:0000269|PubMed:15322540,
+CC       ECO:0000269|PubMed:18305173, ECO:0000269|PubMed:29884618}; Single-pass
+CC       type I membrane protein {ECO:0000255}. Endoplasmic reticulum membrane
+CC       {ECO:0000269|PubMed:18305173}; Single-pass type I membrane protein
+CC       {ECO:0000255}. Early endosome membrane {ECO:0000269|PubMed:19117940};
+CC       Single-pass type I membrane protein {ECO:0000255}. Late endosome
+CC       membrane {ECO:0000269|PubMed:18305173, ECO:0000269|PubMed:19117940,
+CC       ECO:0000269|PubMed:9075930}; Single-pass type I membrane protein
+CC       {ECO:0000255}. Lysosome membrane {ECO:0000269|PubMed:18305173,
+CC       ECO:0000269|PubMed:9075930}; Single-pass type I membrane protein
+CC       {ECO:0000255}. Autolysosome membrane {ECO:0000269|PubMed:17182262};
+CC       Single-pass type I membrane protein. Note=The MHCII complex transits
+CC       through a number of intracellular compartments in the endocytic pathway
+CC       until it reaches the cell membrane for antigen presentation
+CC       (PubMed:18305173, PubMed:9075930). Component of immunological synapses
+CC       at the interface between T cell and APC (PubMed:15322540,
+CC       PubMed:29884618). {ECO:0000269|PubMed:15322540,
+CC       ECO:0000269|PubMed:18305173, ECO:0000269|PubMed:29884618,
+CC       ECO:0000269|PubMed:9075930}.
+CC   -!- TISSUE SPECIFICITY: Expressed in professional APCs: macrophages,
+CC       dendritic cells and B cells (at protein level) (PubMed:15322540,
+CC       PubMed:23783831, PubMed:31495665). Expressed in thymic epithelial cells
+CC       (at protein level) (PubMed:23783831). {ECO:0000269|PubMed:15322540,
+CC       ECO:0000269|PubMed:23783831, ECO:0000269|PubMed:31495665}.
+CC   -!- INDUCTION: Up-regulated in dendritic cells upon maturation.
+CC       {ECO:0000269|PubMed:15322540}.
+CC   -!- DOMAIN: The alpha-1 domain is a structural part of the peptide-binding
+CC       cleft. It contains one alpha helix and 4 beta sheets, respectively
+CC       forming part of the wall and the floor of the peptide-binding cleft.
+CC       The other 4 beta sheets of the floor and the second alpha helix wall is
+CC       formed by the beta-1 domain of HLA-DRB. Forms hydrogen bonds with the
+CC       peptide main chain via conserved amino acids (PubMed:17583734,
+CC       PubMed:29884618, PubMed:8145819, PubMed:9354468, PubMed:9782128). The
+CC       peptide-bound alpha-1 domain forms hydrogen bonds with CDR2 and CDR3
+CC       alpha-domain of TCR (PubMed:29884618). {ECO:0000269|PubMed:17583734,
+CC       ECO:0000269|PubMed:29884618, ECO:0000269|PubMed:8145819,
+CC       ECO:0000269|PubMed:9354468, ECO:0000269|PubMed:9782128}.
+CC   -!- DOMAIN: The alpha-2 Ig-like domain mediates the interaction with CD4
+CC       coreceptor. {ECO:0000269|PubMed:27114505}.
+CC   -!- PTM: Ubiquitinated by MARCHF1 or MARCHF8 at Lys-244 leading to down-
+CC       regulation of MHCII. When associated with ubiquitination of the beta
+CC       chain at 'Lys-254', the down-regulation of MHCII may be highly
+CC       effective. {ECO:0000269|PubMed:19117940}.
+CC   -!- POLYMORPHISM: The following alleles of DRA are known: DRA*01:01 and
+CC       DRA*01:02. The sequence shown is that of DRA*01:02.
+CC   -!- SIMILARITY: Belongs to the MHC class II family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CAA25076.1; Type=Erroneous initiation; Note=Truncated N-terminus.; Evidence={ECO:0000305};
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; J00194; AAA36275.1; -; mRNA.
+DR   EMBL; K01171; AAA59785.1; -; mRNA.
+DR   EMBL; M60334; AAA59783.1; -; mRNA.
+DR   EMBL; X00274; CAA25076.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; J00204; AAA36302.1; -; Genomic_DNA.
+DR   EMBL; J00203; AAA36302.1; JOINED; Genomic_DNA.
+DR   EMBL; CR457013; CAG33294.1; -; mRNA.
+DR   EMBL; AL662796; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL670296; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AL935032; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; BX120007; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; Z84814; CAB06609.1; -; Genomic_DNA.
+DR   EMBL; CH471081; EAX03630.1; -; Genomic_DNA.
+DR   EMBL; V00523; CAA23782.1; -; mRNA.
+DR   EMBL; J00201; AAA36301.1; -; Genomic_DNA.
+DR   EMBL; AF481359; AAO23887.1; -; Genomic_DNA.
+DR   EMBL; BC032350; AAH32350.1; -; mRNA.
+DR   EMBL; BC071659; AAH71659.1; -; mRNA.
+DR   CCDS; CCDS4750.1; -.
+DR   PIR; A93952; HLHUDA.
+DR   RefSeq; NP_061984.2; NM_019111.4.
+DR   PDB; 1A6A; X-ray; 2.75 A; A=30-205.
+DR   PDB; 1AQD; X-ray; 2.45 A; A/D/G/J=26-217.
+DR   PDB; 1BX2; X-ray; 2.60 A; A/D=27-206.
+DR   PDB; 1D5M; X-ray; 2.00 A; A=26-206.
+DR   PDB; 1D5X; X-ray; 2.45 A; A=26-206.
+DR   PDB; 1D5Z; X-ray; 2.00 A; A=26-206.
+DR   PDB; 1D6E; X-ray; 2.45 A; A=26-206.
+DR   PDB; 1DLH; X-ray; 2.80 A; A/D=28-207.
+DR   PDB; 1FV1; X-ray; 1.90 A; A/D=26-206.
+DR   PDB; 1FYT; X-ray; 2.60 A; A=26-206.
+DR   PDB; 1H15; X-ray; 3.10 A; A/D=26-207.
+DR   PDB; 1HQR; X-ray; 3.20 A; A=26-206.
+DR   PDB; 1HXY; X-ray; 2.60 A; A=26-207.
+DR   PDB; 1J8H; X-ray; 2.40 A; A=26-206.
+DR   PDB; 1JWM; X-ray; 2.70 A; A=26-207.
+DR   PDB; 1JWS; X-ray; 2.60 A; A=26-207.
+DR   PDB; 1JWU; X-ray; 2.30 A; A=26-207.
+DR   PDB; 1KG0; X-ray; 2.65 A; A=28-207.
+DR   PDB; 1KLG; X-ray; 2.40 A; A=29-205.
+DR   PDB; 1KLU; X-ray; 1.93 A; A=29-207.
+DR   PDB; 1LO5; X-ray; 3.20 A; A=26-207.
+DR   PDB; 1PYW; X-ray; 2.10 A; A=26-207.
+DR   PDB; 1R5I; X-ray; 2.60 A; A/E=26-206.
+DR   PDB; 1SEB; X-ray; 2.70 A; A/E=26-206.
+DR   PDB; 1SJE; X-ray; 2.45 A; A=28-207.
+DR   PDB; 1SJH; X-ray; 2.25 A; A=28-207.
+DR   PDB; 1T5W; X-ray; 2.40 A; A/D=27-206.
+DR   PDB; 1T5X; X-ray; 2.50 A; A=27-207.
+DR   PDB; 1YMM; X-ray; 3.50 A; A=26-216.
+DR   PDB; 1ZGL; X-ray; 2.80 A; A/D/G/J=26-206.
+DR   PDB; 2FSE; X-ray; 3.10 A; A/C=29-205.
+DR   PDB; 2G9H; X-ray; 2.00 A; A=26-207.
+DR   PDB; 2IAM; X-ray; 2.80 A; A=26-207.
+DR   PDB; 2IAN; X-ray; 2.80 A; A/F/K/P=26-207.
+DR   PDB; 2ICW; X-ray; 2.41 A; A/D=28-206.
+DR   PDB; 2IPK; X-ray; 2.30 A; A=26-207.
+DR   PDB; 2OJE; X-ray; 3.00 A; A/E=27-206.
+DR   PDB; 2Q6W; X-ray; 2.25 A; A/D=26-207.
+DR   PDB; 2SEB; X-ray; 2.50 A; A=26-206.
+DR   PDB; 2WBJ; X-ray; 3.00 A; A/E=26-218.
+DR   PDB; 2XN9; X-ray; 2.30 A; D=26-207.
+DR   PDB; 3C5J; X-ray; 1.80 A; A=26-206.
+DR   PDB; 3L6F; X-ray; 2.10 A; A=26-207.
+DR   PDB; 3O6F; X-ray; 2.80 A; A/E=26-207.
+DR   PDB; 3PDO; X-ray; 1.95 A; A=26-217.
+DR   PDB; 3PGC; X-ray; 2.66 A; A/D=26-217.
+DR   PDB; 3PGD; X-ray; 2.72 A; A/D=26-217.
+DR   PDB; 3QXA; X-ray; 2.71 A; A/D=26-207.
+DR   PDB; 3QXD; X-ray; 2.30 A; A/D=26-207.
+DR   PDB; 3S4S; X-ray; 2.40 A; A/D=26-207.
+DR   PDB; 3S5L; X-ray; 2.10 A; A/D=26-207.
+DR   PDB; 3T0E; X-ray; 4.00 A; A=26-207.
+DR   PDB; 4AEN; X-ray; 2.20 A; A=26-217.
+DR   PDB; 4AH2; X-ray; 2.36 A; A=26-217.
+DR   PDB; 4C56; X-ray; 2.90 A; D/J=26-207.
+DR   PDB; 4E41; X-ray; 2.60 A; A/F=26-207.
+DR   PDB; 4FQX; X-ray; 2.60 A; A=26-216.
+DR   PDB; 4GBX; X-ray; 3.00 A; A=26-216.
+DR   PDB; 4H1L; X-ray; 3.30 A; A/D=28-205.
+DR   PDB; 4H25; X-ray; 2.20 A; A/D=28-207.
+DR   PDB; 4H26; X-ray; 2.50 A; A/D=28-206.
+DR   PDB; 4I5B; X-ray; 2.12 A; A/D=27-213.
+DR   PDB; 4IS6; X-ray; 2.50 A; A=26-207.
+DR   PDB; 4MCY; X-ray; 2.30 A; A=26-206.
+DR   PDB; 4MCZ; X-ray; 2.41 A; A=26-206.
+DR   PDB; 4MD0; X-ray; 2.19 A; A=26-206.
+DR   PDB; 4MD4; X-ray; 1.95 A; A=26-206.
+DR   PDB; 4MD5; X-ray; 1.65 A; A=26-206.
+DR   PDB; 4MDI; X-ray; 2.00 A; A=26-206.
+DR   PDB; 4MDJ; X-ray; 1.70 A; A=26-206.
+DR   PDB; 4OV5; X-ray; 2.20 A; A/D/G/J/M/P=26-207.
+DR   PDB; 4X5W; X-ray; 1.34 A; A=26-217.
+DR   PDB; 4X5X; X-ray; 3.20 A; A/C=26-217.
+DR   PDB; 4Y19; X-ray; 2.50 A; A=26-206.
+DR   PDB; 4Y1A; X-ray; 4.00 A; A=26-206.
+DR   PDB; 5JLZ; X-ray; 1.99 A; A/C=26-206.
+DR   PDB; 5LAX; X-ray; 2.60 A; A/C=26-206.
+DR   PDB; 5NI9; X-ray; 1.33 A; A=26-206.
+DR   PDB; 5NIG; X-ray; 1.35 A; A=26-206.
+DR   PDB; 5V4M; X-ray; 2.10 A; A/D/G/J=26-206.
+DR   PDB; 5V4N; X-ray; 3.40 A; A/D=26-206.
+DR   PDB; 6ATF; X-ray; 1.90 A; A/D=26-206.
+DR   PDB; 6ATI; X-ray; 1.98 A; A/D=26-206.
+DR   PDB; 6ATZ; X-ray; 2.70 A; A/C=29-205.
+DR   PDB; 6BIJ; X-ray; 2.10 A; A=29-205.
+DR   PDB; 6BIL; X-ray; 2.40 A; A=26-206.
+DR   PDB; 6BIN; X-ray; 2.50 A; A=30-206.
+DR   PDB; 6BIR; X-ray; 2.30 A; A=26-206.
+DR   PDB; 6BIV; X-ray; 2.90 A; B=26-206.
+DR   PDB; 6BIX; X-ray; 2.20 A; A=26-206.
+DR   PDB; 6BIY; X-ray; 2.05 A; A=26-206.
+DR   PDB; 6BIZ; X-ray; 2.10 A; A=26-206.
+DR   PDB; 6CPL; X-ray; 2.45 A; A=26-254.
+DR   PDB; 6CPN; X-ray; 2.00 A; A=26-206.
+DR   PDB; 6CPO; X-ray; 2.40 A; A/D=26-207.
+DR   PDB; 6CQJ; X-ray; 2.75 A; A/D/G=26-207.
+DR   PDB; 6CQL; X-ray; 2.40 A; A=26-206.
+DR   PDB; 6CQN; X-ray; 2.50 A; A=26-206.
+DR   PDB; 6CQQ; X-ray; 2.80 A; A/F=26-207.
+DR   PDB; 6CQR; X-ray; 3.04 A; A/F=26-207.
+DR   PDB; 6NIX; X-ray; 2.10 A; A=30-206.
+DR   PDB; 6QZA; X-ray; 3.09 A; AAA/DDD=26-207.
+DR   PDB; 6QZC; X-ray; 1.64 A; AAA=28-207.
+DR   PDB; 6QZD; X-ray; 2.66 A; AAA/DDD=28-207.
+DR   PDB; 6R0E; X-ray; 1.91 A; AAA=26-207.
+DR   PDB; 6V0Y; X-ray; 2.70 A; A=26-206.
+DR   PDB; 6V13; X-ray; 2.75 A; A=30-206.
+DR   PDB; 6V15; X-ray; 2.80 A; A=30-206.
+DR   PDB; 6V18; X-ray; 2.35 A; A=26-206.
+DR   PDB; 6V19; X-ray; 2.60 A; A=26-206.
+DR   PDB; 6V1A; X-ray; 2.29 A; A=26-206.
+DR   PDB; 7N19; X-ray; 2.38 A; A/D/G/J=26-206.
+DR   PDB; 7NZE; X-ray; 2.05 A; AAA/CCC=27-208.
+DR   PDB; 7O00; X-ray; 2.24 A; AAA=29-205.
+DR   PDB; 7YX9; X-ray; 1.76 A; A/C=26-216.
+DR   PDB; 7YXB; X-ray; 2.10 A; A/C=26-216.
+DR   PDB; 7Z0Q; X-ray; 2.10 A; C=26-217.
+DR   PDB; 8CMB; X-ray; 1.84 A; A=26-207.
+DR   PDB; 8CMC; X-ray; 1.42 A; A=26-207.
+DR   PDB; 8CMD; X-ray; 2.54 A; A/D/G=26-207.
+DR   PDB; 8CME; X-ray; 2.26 A; A/D/G=26-207.
+DR   PDB; 8CMF; X-ray; 2.20 A; A/D=26-207.
+DR   PDB; 8CMG; X-ray; 1.64 A; A=26-207.
+DR   PDB; 8CMH; X-ray; 1.64 A; A=26-207.
+DR   PDB; 8CMI; X-ray; 2.60 A; A/D/G=26-207.
+DR   PDB; 8EUQ; X-ray; 3.09 A; A/F=28-206.
+DR   PDB; 8PJE; X-ray; 1.70 A; A/D=26-207.
+DR   PDB; 8PJF; X-ray; 1.48 A; A=26-207.
+DR   PDB; 8PJG; X-ray; 1.83 A; A=26-207.
+DR   PDB; 8TBP; X-ray; 3.13 A; A/C=26-207.
+DR   PDB; 8TRL; X-ray; 2.40 A; A/D=26-206.
+DR   PDB; 8TRQ; X-ray; 2.75 A; A=30-206.
+DR   PDB; 8TRR; X-ray; 2.65 A; A/F=26-206.
+DR   PDB; 8VRW; EM; 3.03 A; A/D/G=1-254.
+DR   PDB; 8VSJ; EM; 2.28 A; A=26-207.
+DR   PDB; 9B7B; X-ray; 3.08 A; A/E=26-206.
+DR   PDB; 9BF9; X-ray; 3.40 A; A=30-206.
+DR   PDB; 9NIG; X-ray; 3.20 A; A/C/H=30-206.
+DR   PDB; 9NIH; X-ray; 2.40 A; A=30-206.
+DR   PDBsum; 1A6A; -.
+DR   PDBsum; 1AQD; -.
+DR   PDBsum; 1BX2; -.
+DR   PDBsum; 1D5M; -.
+DR   PDBsum; 1D5X; -.
+DR   PDBsum; 1D5Z; -.
+DR   PDBsum; 1D6E; -.
+DR   PDBsum; 1DLH; -.
+DR   PDBsum; 1FV1; -.
+DR   PDBsum; 1FYT; -.
+DR   PDBsum; 1H15; -.
+DR   PDBsum; 1HQR; -.
+DR   PDBsum; 1HXY; -.
+DR   PDBsum; 1J8H; -.
+DR   PDBsum; 1JWM; -.
+DR   PDBsum; 1JWS; -.
+DR   PDBsum; 1JWU; -.
+DR   PDBsum; 1KG0; -.
+DR   PDBsum; 1KLG; -.
+DR   PDBsum; 1KLU; -.
+DR   PDBsum; 1LO5; -.
+DR   PDBsum; 1PYW; -.
+DR   PDBsum; 1R5I; -.
+DR   PDBsum; 1SEB; -.
+DR   PDBsum; 1SJE; -.
+DR   PDBsum; 1SJH; -.
+DR   PDBsum; 1T5W; -.
+DR   PDBsum; 1T5X; -.
+DR   PDBsum; 1YMM; -.
+DR   PDBsum; 1ZGL; -.
+DR   PDBsum; 2FSE; -.
+DR   PDBsum; 2G9H; -.
+DR   PDBsum; 2IAM; -.
+DR   PDBsum; 2IAN; -.
+DR   PDBsum; 2ICW; -.
+DR   PDBsum; 2IPK; -.
+DR   PDBsum; 2OJE; -.
+DR   PDBsum; 2Q6W; -.
+DR   PDBsum; 2SEB; -.
+DR   PDBsum; 2WBJ; -.
+DR   PDBsum; 2XN9; -.
+DR   PDBsum; 3C5J; -.
+DR   PDBsum; 3L6F; -.
+DR   PDBsum; 3O6F; -.
+DR   PDBsum; 3PDO; -.
+DR   PDBsum; 3PGC; -.
+DR   PDBsum; 3PGD; -.
+DR   PDBsum; 3QXA; -.
+DR   PDBsum; 3QXD; -.
+DR   PDBsum; 3S4S; -.
+DR   PDBsum; 3S5L; -.
+DR   PDBsum; 3T0E; -.
+DR   PDBsum; 4AEN; -.
+DR   PDBsum; 4AH2; -.
+DR   PDBsum; 4C56; -.
+DR   PDBsum; 4E41; -.
+DR   PDBsum; 4FQX; -.
+DR   PDBsum; 4GBX; -.
+DR   PDBsum; 4H1L; -.
+DR   PDBsum; 4H25; -.
+DR   PDBsum; 4H26; -.
+DR   PDBsum; 4I5B; -.
+DR   PDBsum; 4IS6; -.
+DR   PDBsum; 4MCY; -.
+DR   PDBsum; 4MCZ; -.
+DR   PDBsum; 4MD0; -.
+DR   PDBsum; 4MD4; -.
+DR   PDBsum; 4MD5; -.
+DR   PDBsum; 4MDI; -.
+DR   PDBsum; 4MDJ; -.
+DR   PDBsum; 4OV5; -.
+DR   PDBsum; 4X5W; -.
+DR   PDBsum; 4X5X; -.
+DR   PDBsum; 4Y19; -.
+DR   PDBsum; 4Y1A; -.
+DR   PDBsum; 5JLZ; -.
+DR   PDBsum; 5LAX; -.
+DR   PDBsum; 5NI9; -.
+DR   PDBsum; 5NIG; -.
+DR   PDBsum; 5V4M; -.
+DR   PDBsum; 5V4N; -.
+DR   PDBsum; 6ATF; -.
+DR   PDBsum; 6ATI; -.
+DR   PDBsum; 6ATZ; -.
+DR   PDBsum; 6BIJ; -.
+DR   PDBsum; 6BIL; -.
+DR   PDBsum; 6BIN; -.
+DR   PDBsum; 6BIR; -.
+DR   PDBsum; 6BIV; -.
+DR   PDBsum; 6BIX; -.
+DR   PDBsum; 6BIY; -.
+DR   PDBsum; 6BIZ; -.
+DR   PDBsum; 6CPL; -.
+DR   PDBsum; 6CPN; -.
+DR   PDBsum; 6CPO; -.
+DR   PDBsum; 6CQJ; -.
+DR   PDBsum; 6CQL; -.
+DR   PDBsum; 6CQN; -.
+DR   PDBsum; 6CQQ; -.
+DR   PDBsum; 6CQR; -.
+DR   PDBsum; 6NIX; -.
+DR   PDBsum; 6QZA; -.
+DR   PDBsum; 6QZC; -.
+DR   PDBsum; 6QZD; -.
+DR   PDBsum; 6R0E; -.
+DR   PDBsum; 6V0Y; -.
+DR   PDBsum; 6V13; -.
+DR   PDBsum; 6V15; -.
+DR   PDBsum; 6V18; -.
+DR   PDBsum; 6V19; -.
+DR   PDBsum; 6V1A; -.
+DR   PDBsum; 7N19; -.
+DR   PDBsum; 7NZE; -.
+DR   PDBsum; 7O00; -.
+DR   PDBsum; 7YX9; -.
+DR   PDBsum; 7YXB; -.
+DR   PDBsum; 7Z0Q; -.
+DR   PDBsum; 8CMB; -.
+DR   PDBsum; 8CMC; -.
+DR   PDBsum; 8CMD; -.
+DR   PDBsum; 8CME; -.
+DR   PDBsum; 8CMF; -.
+DR   PDBsum; 8CMG; -.
+DR   PDBsum; 8CMH; -.
+DR   PDBsum; 8CMI; -.
+DR   PDBsum; 8EUQ; -.
+DR   PDBsum; 8PJE; -.
+DR   PDBsum; 8PJF; -.
+DR   PDBsum; 8PJG; -.
+DR   PDBsum; 8TBP; -.
+DR   PDBsum; 8TRL; -.
+DR   PDBsum; 8TRQ; -.
+DR   PDBsum; 8TRR; -.
+DR   PDBsum; 8VRW; -.
+DR   PDBsum; 8VSJ; -.
+DR   PDBsum; 9B7B; -.
+DR   PDBsum; 9BF9; -.
+DR   PDBsum; 9NIG; -.
+DR   PDBsum; 9NIH; -.
+DR   AlphaFoldDB; P01903; -.
+DR   EMDB; EMD-43488; -.
+DR   EMDB; EMD-43499; -.
+DR   SMR; P01903; -.
+DR   BioGRID; 109367; 234.
+DR   CORUM; P01903; -.
+DR   DIP; DIP-6063N; -.
+DR   FunCoup; P01903; 578.
+DR   IntAct; P01903; 163.
+DR   MINT; P01903; -.
+DR   STRING; 9606.ENSP00000378786; -.
+DR   DrugBank; DB05121; 1D09C3.
+DR   DrugBank; DB11294; Coccidioides immitis spherule.
+DR   Allergome; 8362; Hom s HLA-DR-alpha.
+DR   GlyConnect; 1368; 16 N-Linked glycans (2 sites).
+DR   GlyCosmos; P01903; 2 sites, 14 glycans.
+DR   GlyGen; P01903; 4 sites, 88 N-linked glycans (2 sites).
+DR   iPTMnet; P01903; -.
+DR   PhosphoSitePlus; P01903; -.
+DR   SwissPalm; P01903; -.
+DR   BioMuta; HLA-DRA; -.
+DR   DMDM; 122206; -.
+DR   jPOST; P01903; -.
+DR   MassIVE; P01903; -.
+DR   PaxDb; 9606-ENSP00000378786; -.
+DR   PeptideAtlas; P01903; -.
+DR   ProteomicsDB; 51508; -.
+DR   Pumba; P01903; -.
+DR   ABCD; P01903; 22 sequenced antibodies.
+DR   Antibodypedia; 28584; 1862 antibodies from 48 providers.
+DR   CPTC; P01903; 1 antibody.
+DR   DNASU; 3122; -.
+DR   Ensembl; ENST00000383127.6; ENSP00000372608.2; ENSG00000227993.9.
+DR   Ensembl; ENST00000383259.6; ENSP00000372746.2; ENSG00000206308.11.
+DR   Ensembl; ENST00000395388.7; ENSP00000378786.2; ENSG00000204287.15.
+DR   Ensembl; ENST00000411524.6; ENSP00000405295.2; ENSG00000234794.9.
+DR   Ensembl; ENST00000414698.6; ENSP00000402951.2; ENSG00000230726.9.
+DR   Ensembl; ENST00000416883.6; ENSP00000410443.2; ENSG00000228987.9.
+DR   Ensembl; ENST00000442960.6; ENSP00000404533.2; ENSG00000226260.9.
+DR   Ensembl; ENST00000613328.1; ENSP00000479287.1; ENSG00000277263.1.
+DR   GeneID; 3122; -.
+DR   KEGG; hsa:3122; -.
+DR   MANE-Select; ENST00000395388.7; ENSP00000378786.2; NM_019111.5; NP_061984.2.
+DR   UCSC; uc003obh.5; human.
+DR   AGR; HGNC:4947; -.
+DR   CIViC; 3122; 1 evidence item across 1 molecular profile.
+DR   ClinPGx; PA35071; -.
+DR   CTD; 3122; -.
+DR   DisGeNET; 3122; -.
+DR   GeneCards; HLA-DRA; -.
+DR   HGNC; HGNC:4947; HLA-DRA.
+DR   HPA; ENSG00000204287; Tissue enhanced (lung, lymphoid tissue).
+DR   MalaCards; HLA-DRA; -.
+DR   MIM; 142860; gene.
+DR   MIM; 610424; phenotype.
+DR   OpenTargets; ENSG00000204287; -.
+DR   Orphanet; 505; Graham Little-Piccardi-Lassueur syndrome.
+DR   VEuPathDB; HostDB:ENSG00000204287; -.
+DR   eggNOG; ENOG502RXYJ; Eukaryota.
+DR   GeneTree; ENSGT00940000160997; -.
+DR   HOGENOM; CLU_069380_0_0_1; -.
+DR   InParanoid; P01903; -.
+DR   OMA; QAEFYMT; -.
+DR   PAN-GO; P01903; 6 GO annotations based on evolutionary models.
+DR   PhylomeDB; P01903; -.
+DR   PathwayCommons; P01903; -.
+DR   Reactome; R-HSA-202424; Downstream TCR signaling.
+DR   Reactome; R-HSA-202427; Phosphorylation of CD3 and TCR zeta chains.
+DR   Reactome; R-HSA-202430; Translocation of ZAP-70 to Immunological synapse.
+DR   Reactome; R-HSA-202433; Generation of second messenger molecules.
+DR   Reactome; R-HSA-2132295; MHC class II antigen presentation.
+DR   Reactome; R-HSA-389948; Co-inhibition by PD-1.
+DR   Reactome; R-HSA-877300; Interferon gamma signaling.
+DR   SignaLink; P01903; -.
+DR   SIGNOR; P01903; -.
+DR   Agora; ENSG00000204287; Agora Nominated Target for Alzheimer's Disease.
+DR   BioGRID-ORCS; 3122; 13 hits in 1142 CRISPR screens.
+DR   ChiTaRS; HLA-DRA; human.
+DR   EvolutionaryTrace; P01903; -.
+DR   GeneWiki; HLA-DRA; -.
+DR   GenomeRNAi; 3122; -.
+DR   Pharos; P01903; Tbio.
+DR   PRO; PR:P01903; -.
+DR   Proteomes; UP000005640; Chromosome 6.
+DR   RNAct; P01903; protein.
+DR   Bgee; ENSG00000204287; Expressed in monocyte and 99 other cell types or tissues.
+DR   ExpressionAtlas; P01903; baseline and differential.
+DR   GO; GO:0120281; C:autolysosome membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0009986; C:cell surface; IDA:UniProtKB.
+DR   GO; GO:0030669; C:clathrin-coated endocytic vesicle membrane; TAS:Reactome.
+DR   GO; GO:0031901; C:early endosome membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030666; C:endocytic vesicle membrane; TAS:Reactome.
+DR   GO; GO:0012507; C:ER to Golgi transport vesicle membrane; TAS:Reactome.
+DR   GO; GO:0070062; C:extracellular exosome; HDA:UniProtKB.
+DR   GO; GO:0000139; C:Golgi membrane; TAS:Reactome.
+DR   GO; GO:0001772; C:immunological synapse; IDA:UniProtKB.
+DR   GO; GO:0031902; C:late endosome membrane; IDA:UniProtKB.
+DR   GO; GO:0098553; C:lumenal side of endoplasmic reticulum membrane; TAS:Reactome.
+DR   GO; GO:0005765; C:lysosomal membrane; IDA:UniProtKB.
+DR   GO; GO:0005764; C:lysosome; IDA:MGI.
+DR   GO; GO:0042613; C:MHC class II protein complex; IDA:UniProtKB.
+DR   GO; GO:0005886; C:plasma membrane; IDA:MGI.
+DR   GO; GO:0032588; C:trans-Golgi network membrane; TAS:Reactome.
+DR   GO; GO:0030658; C:transport vesicle membrane; TAS:Reactome.
+DR   GO; GO:0023026; F:MHC class II protein complex binding; HDA:UniProtKB.
+DR   GO; GO:0042605; F:peptide antigen binding; IDA:UniProtKB.
+DR   GO; GO:0030247; F:polysaccharide binding; IDA:UniProtKB.
+DR   GO; GO:0042608; F:T cell receptor binding; IDA:UniProtKB.
+DR   GO; GO:0002250; P:adaptive immune response; IEA:UniProtKB-KW.
+DR   GO; GO:0002491; P:antigen processing and presentation of endogenous peptide antigen via MHC class II; IDA:UniProtKB.
+DR   GO; GO:0019886; P:antigen processing and presentation of exogenous peptide antigen via MHC class II; IDA:UniProtKB.
+DR   GO; GO:0002504; P:antigen processing and presentation of peptide or polysaccharide antigen via MHC class II; IDA:UniProtKB.
+DR   GO; GO:0050890; P:cognition; IMP:UniProtKB.
+DR   GO; GO:0006955; P:immune response; NAS:UniProtKB.
+DR   GO; GO:0002469; P:myeloid dendritic cell antigen processing and presentation; IDA:UniProtKB.
+DR   GO; GO:0002503; P:peptide antigen assembly with MHC class II protein complex; IDA:UniProtKB.
+DR   GO; GO:2000516; P:positive regulation of CD4-positive, alpha-beta T cell activation; IDA:UniProtKB.
+DR   GO; GO:0032831; P:positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation; IDA:UniProtKB.
+DR   GO; GO:0050778; P:positive regulation of immune response; IBA:GO_Central.
+DR   GO; GO:0043382; P:positive regulation of memory T cell differentiation; IDA:UniProtKB.
+DR   GO; GO:0050870; P:positive regulation of T cell activation; IBA:GO_Central.
+DR   GO; GO:0001916; P:positive regulation of T cell mediated cytotoxicity; IDA:UniProtKB.
+DR   GO; GO:0045622; P:regulation of T-helper cell differentiation; IDA:UniProtKB.
+DR   CDD; cd21007; IgC1_MHC_II_alpha_HLA-DR; 1.
+DR   FunFam; 2.60.40.10:FF:000280; HLA class II histocompatibility antigen, DR alpha chain; 1.
+DR   FunFam; 3.10.320.10:FF:000002; HLA class II histocompatibility antigen, DR alpha chain; 1.
+DR   Gene3D; 3.10.320.10; Class II Histocompatibility Antigen, M Beta Chain, Chain B, domain 1; 1.
+DR   Gene3D; 2.60.40.10; Immunoglobulins; 1.
+DR   InterPro; IPR007110; Ig-like_dom.
+DR   InterPro; IPR036179; Ig-like_dom_sf.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003006; Ig/MHC_CS.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   InterPro; IPR050160; MHC/Immunoglobulin.
+DR   InterPro; IPR011162; MHC_I/II-like_Ag-recog.
+DR   InterPro; IPR014745; MHC_II_a/b_N.
+DR   InterPro; IPR001003; MHC_II_a_N.
+DR   PANTHER; PTHR19944:SF86; HLA CLASS II HISTOCOMPATIBILITY ANTIGEN, DR ALPHA CHAIN; 1.
+DR   PANTHER; PTHR19944; MHC CLASS II-RELATED; 1.
+DR   Pfam; PF07654; C1-set; 1.
+DR   Pfam; PF00993; MHC_II_alpha; 1.
+DR   SMART; SM00407; IGc1; 1.
+DR   SMART; SM00920; MHC_II_alpha; 1.
+DR   SUPFAM; SSF48726; Immunoglobulin; 1.
+DR   SUPFAM; SSF54452; MHC antigen-recognition domain; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+DR   PROSITE; PS00290; IG_MHC; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Adaptive immunity; Cell membrane; Cytoplasmic vesicle;
+KW   Direct protein sequencing; Disulfide bond; Endoplasmic reticulum; Endosome;
+KW   Glycoprotein; Host-virus interaction; Immunity; Isopeptide bond; Lysosome;
+KW   Membrane; MHC II; Proteomics identification; Reference proteome; Signal;
+KW   Transmembrane; Transmembrane helix; Ubl conjugation.
+FT   SIGNAL          1..25
+FT                   /evidence="ECO:0000269|PubMed:6600932,
+FT                   ECO:0000269|PubMed:6812963, ECO:0000269|PubMed:6955253"
+FT   CHAIN           26..254
+FT                   /note="HLA class II histocompatibility antigen, DR alpha
+FT                   chain"
+FT                   /id="PRO_0000018947"
+FT   TOPO_DOM        26..216
+FT                   /note="Extracellular"
+FT                   /evidence="ECO:0000255"
+FT   TRANSMEM        217..239
+FT                   /note="Helical"
+FT                   /evidence="ECO:0000255"
+FT   TOPO_DOM        240..254
+FT                   /note="Cytoplasmic"
+FT                   /evidence="ECO:0000255"
+FT   DOMAIN          112..204
+FT                   /note="Ig-like C1-type"
+FT   REGION          26..109
+FT                   /note="Alpha-1"
+FT   REGION          110..203
+FT                   /note="Alpha-2"
+FT   REGION          204..216
+FT                   /note="Connecting peptide"
+FT   SITE            34
+FT                   /note="Self- and pathogen-derived peptide antigen"
+FT                   /evidence="ECO:0000269|PubMed:17583734,
+FT                   ECO:0000269|PubMed:21115828, ECO:0000269|PubMed:23260142,
+FT                   ECO:0000269|PubMed:8145819, ECO:0007744|PDB:4GBX"
+FT   SITE            74
+FT                   /note="Self-peptide antigen"
+FT                   /evidence="ECO:0000269|PubMed:31619516"
+FT   SITE            76
+FT                   /note="Self- and pathogen-derived peptide antigen"
+FT                   /evidence="ECO:0000269|PubMed:21115828,
+FT                   ECO:0000269|PubMed:8145819"
+FT   SITE            77
+FT                   /note="Self-peptide antigen"
+FT                   /evidence="ECO:0000269|PubMed:31619516"
+FT   SITE            78
+FT                   /note="Self- and pathogen-derived peptide antigen"
+FT                   /evidence="ECO:0000269|PubMed:17583734,
+FT                   ECO:0000269|PubMed:21115828, ECO:0000269|PubMed:31619516,
+FT                   ECO:0000269|PubMed:8145819"
+FT   SITE            80
+FT                   /note="Pathogen-derived peptide antigen"
+FT                   /evidence="ECO:0000269|PubMed:23260142,
+FT                   ECO:0007744|PDB:4GBX"
+FT   SITE            87
+FT                   /note="Self- and pathogen-derived peptide antigen"
+FT                   /evidence="ECO:0000269|PubMed:17583734,
+FT                   ECO:0000269|PubMed:21115828, ECO:0000269|PubMed:23260142,
+FT                   ECO:0000269|PubMed:31619516, ECO:0000269|PubMed:8145819,
+FT                   ECO:0007744|PDB:4GBX"
+FT   SITE            94
+FT                   /note="Pathogen-derived peptide antigen"
+FT                   /evidence="ECO:0000269|PubMed:17583734,
+FT                   ECO:0000269|PubMed:21115828, ECO:0000269|PubMed:23260142,
+FT                   ECO:0000269|PubMed:8145819, ECO:0007744|PDB:4FQX,
+FT                   ECO:0007744|PDB:4GBX"
+FT   SITE            101
+FT                   /note="Self- and pathogen-derived peptide antigen"
+FT                   /evidence="ECO:0000269|PubMed:17583734,
+FT                   ECO:0000269|PubMed:23260142, ECO:0000269|PubMed:31619516,
+FT                   ECO:0000269|PubMed:8145819, ECO:0007744|PDB:4FQX,
+FT                   ECO:0007744|PDB:4GBX"
+FT   CARBOHYD        103
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218,
+FT                   ECO:0000269|PubMed:7477400"
+FT   CARBOHYD        143
+FT                   /note="N-linked (GlcNAc...) asparagine"
+FT                   /evidence="ECO:0000269|PubMed:19159218,
+FT                   ECO:0000269|PubMed:7477400"
+FT   DISULFID        132..188
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00114,
+FT                   ECO:0000269|PubMed:11163233, ECO:0000269|PubMed:12244309,
+FT                   ECO:0000269|PubMed:16079912, ECO:0000269|PubMed:17583734,
+FT                   ECO:0000269|PubMed:31619516, ECO:0000269|PubMed:7477400"
+FT   CROSSLNK        244
+FT                   /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+FT                   G-Cter in ubiquitin)"
+FT                   /evidence="ECO:0000269|PubMed:19117940"
+FT   VARIANT         16
+FT                   /note="V -> L (in dbSNP:rs16822586)"
+FT                   /id="VAR_035241"
+FT   VARIANT         242
+FT                   /note="L -> V (in allele DRA*01:01; dbSNP:rs7192)"
+FT                   /id="VAR_004399"
+FT   MUTAGEN         65
+FT                   /note="E->K: Impairs the interaction with HLA-DM complex,
+FT                   CLIP dissociation and peptide exchange."
+FT                   /evidence="ECO:0000269|PubMed:11070170,
+FT                   ECO:0000269|PubMed:23260142"
+FT   MUTAGEN         68
+FT                   /note="W->F: Decreases the interaction with HLA-DM complex
+FT                   and peptide exchange."
+FT                   /evidence="ECO:0000269|PubMed:23260142"
+FT   MUTAGEN         74
+FT                   /note="G->S: Increases the interaction with HLA-DM complex
+FT                   and peptide exchange."
+FT                   /evidence="ECO:0000269|PubMed:23260142"
+FT   MUTAGEN         76
+FT                   /note="F->A,S,V,L: Impairs the interaction with HLA-DM
+FT                   complex, CLIP dissociation and peptide exchange."
+FT                   /evidence="ECO:0000269|PubMed:11070170,
+FT                   ECO:0000269|PubMed:23260142"
+FT   MUTAGEN         76
+FT                   /note="F->W: Increases the interaction with HLA-DM complex
+FT                   and peptide exchange."
+FT                   /evidence="ECO:0000269|PubMed:23260142"
+FT   MUTAGEN         78
+FT                   /note="S->D,H: Decreases the interaction with HLA-DM
+FT                   complex and peptide exchange."
+FT                   /evidence="ECO:0000269|PubMed:23260142"
+FT   MUTAGEN         79
+FT                   /note="F->A,C: Increases the interaction with HLA-DM
+FT                   complex and peptide exchange."
+FT                   /evidence="ECO:0000269|PubMed:23260142"
+FT   MUTAGEN         80
+FT                   /note="E->A: Increases the interaction with HLA-DM complex
+FT                   and peptide exchange. Decreases the affinity of the
+FT                   interaction with TCR by more than five-fold."
+FT                   /evidence="ECO:0000269|PubMed:23260142,
+FT                   ECO:0000269|PubMed:29884618"
+FT   MUTAGEN         82
+FT                   /note="Q->A: Decreases the interaction with HLA-DM complex
+FT                   and peptide exchange."
+FT                   /evidence="ECO:0000269|PubMed:23260142"
+FT   MUTAGEN         93
+FT                   /note="A->L: Decreases the affinity of the interaction with
+FT                   TCR by more than five-fold."
+FT                   /evidence="ECO:0000269|PubMed:29884618"
+FT   MUTAGEN         115
+FT                   /note="T->R: Decreases the interaction with CD4."
+FT                   /evidence="ECO:0000269|PubMed:27114505"
+FT   MUTAGEN         117
+FT                   /note="L->R: Decreases the interaction with CD4."
+FT                   /evidence="ECO:0000269|PubMed:27114505"
+FT   MUTAGEN         121
+FT                   /note="P->S: Decreases the interaction with HLA-DM complex
+FT                   and peptide exchange."
+FT                   /evidence="ECO:0000269|PubMed:23260142"
+FT   MUTAGEN         125
+FT                   /note="R->A: Impairs the interaction with HLA-DM complex
+FT                   and peptide exchange."
+FT                   /evidence="ECO:0000269|PubMed:23260142"
+FT   MUTAGEN         244
+FT                   /note="K->R: Almost no change in down-regulation of MHCII.
+FT                   No ubiquitination and complete loss of down-regulation of
+FT                   MHCII; when associated with 'R-254' of HLA-DRB."
+FT                   /evidence="ECO:0000269|PubMed:19117940"
+FT   CONFLICT        28..29
+FT                   /note="EE -> AD (in Ref. 10; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        33
+FT                   /note="I -> T (in Ref. 10; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        34..35
+FT                   /note="QA -> YP (in Ref. 10; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        48
+FT                   /note="M -> Q (in Ref. 10; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        54
+FT                   /note="D -> T (in Ref. 10; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        59
+FT                   /note="V -> Y (in Ref. 15; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        64
+FT                   /note="K -> L (in Ref. 15; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        67
+FT                   /note="V -> A (in Ref. 14; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        69
+FT                   /note="R -> L (in Ref. 15; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        75
+FT                   /note="R -> P (in Ref. 15; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        78
+FT                   /note="S -> D (in Ref. 15; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   CONFLICT        149
+FT                   /note="N -> E (in Ref. 14; AA sequence)"
+FT                   /evidence="ECO:0000305"
+FT   STRAND          29..40
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   TURN            41..43
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   STRAND          44..51
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   STRAND          54..60
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   TURN            61..64
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   STRAND          65..70
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   HELIX           71..74
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   HELIX           82..101
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   TURN            102..104
+FT                   /evidence="ECO:0007829|PDB:3C5J"
+FT   STRAND          113..120
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   STRAND          124..126
+FT                   /evidence="ECO:0007829|PDB:3S4S"
+FT   STRAND          128..140
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   STRAND          143..148
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   STRAND          151..153
+FT                   /evidence="ECO:0007829|PDB:4X5W"
+FT   STRAND          155..159
+FT                   /evidence="ECO:0007829|PDB:2FSE"
+FT   STRAND          166..168
+FT                   /evidence="ECO:0007829|PDB:6CPN"
+FT   STRAND          170..178
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   STRAND          186..191
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+FT   STRAND          195..197
+FT                   /evidence="ECO:0007829|PDB:7YX9"
+FT   STRAND          199..203
+FT                   /evidence="ECO:0007829|PDB:5NI9"
+SQ   SEQUENCE   254 AA;  28621 MW;  3CD1CDBA89D92350 CRC64;
+     MAISGVPVLG FFIIAVLMSA QESWAIKEEH VIIQAEFYLN PDQSGEFMFD FDGDEIFHVD
+     MAKKETVWRL EEFGRFASFE AQGALANIAV DKANLEIMTK RSNYTPITNV PPEVTVLTNS
+     PVELREPNVL ICFIDKFTPP VVNVTWLRNG KPVTTGVSET VFLPREDHLF RKFHYLPFLP
+     STEDVYDCRV EHWGLDEPLL KHWEFDAPSP LPETTENVVC ALGLTVGLVG IIIGTIFIIK
+     GLRKSNAAER RGPL
+//

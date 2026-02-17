@@ -1,0 +1,2974 @@
+ID   POL_HV1H2               Reviewed;        1435 AA.
+AC   P04585; O09777; Q9WJC5;
+DT   13-AUG-1987, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 4.
+DT   28-JAN-2026, entry version 266.
+DE   RecName: Full=Gag-Pol polyprotein;
+DE   AltName: Full=Pr160Gag-Pol;
+DE   Contains:
+DE     RecName: Full=Matrix protein p17;
+DE              Short=MA;
+DE   Contains:
+DE     RecName: Full=Capsid protein p24;
+DE              Short=CA;
+DE   Contains:
+DE     RecName: Full=Spacer peptide 1 {ECO:0000250|UniProtKB:P12497};
+DE              Short=SP1;
+DE     AltName: Full=p2;
+DE   Contains:
+DE     RecName: Full=Nucleocapsid protein p7;
+DE              Short=NC;
+DE   Contains:
+DE     RecName: Full=Transframe peptide;
+DE              Short=TF;
+DE   Contains:
+DE     RecName: Full=p6-pol;
+DE              Short=p6*;
+DE   Contains:
+DE     RecName: Full=Protease;
+DE              EC=3.4.23.16 {ECO:0000269|PubMed:32053707, ECO:0000269|PubMed:33542150};
+DE     AltName: Full=PR;
+DE     AltName: Full=Retropepsin;
+DE   Contains:
+DE     RecName: Full=Reverse transcriptase/ribonuclease H;
+DE              EC=2.7.7.49 {ECO:0000250|UniProtKB:P03366};
+DE              EC=2.7.7.7 {ECO:0000250|UniProtKB:P03366};
+DE              EC=3.1.26.13 {ECO:0000250|UniProtKB:P03366};
+DE     AltName: Full=Exoribonuclease H;
+DE              EC=3.1.13.2;
+DE     AltName: Full=p66 RT;
+DE   Contains:
+DE     RecName: Full=p51 RT;
+DE   Contains:
+DE     RecName: Full=p15;
+DE   Contains:
+DE     RecName: Full=Integrase;
+DE              Short=IN;
+DE              EC=2.7.7.- {ECO:0000305|PubMed:2349226};
+DE              EC=3.1.-.- {ECO:0000305|PubMed:2349226};
+GN   Name=gag-pol;
+OS   Human immunodeficiency virus type 1 group M subtype B (isolate HXB2)
+OS   (HIV-1).
+OC   Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+OC   Ortervirales; Retroviridae; Orthoretrovirinae; Lentivirus;
+OC   Lentivirus humimdef1; Human immunodeficiency virus type 1.
+OX   NCBI_TaxID=11706;
+OH   NCBI_TaxID=9606; Homo sapiens (Human).
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RX   PubMed=3040055; DOI=10.1089/aid.1987.3.57;
+RA   Ratner L., Fisher A., Jagodzinski L.L., Mitsuya H., Liou R.-S., Gallo R.C.,
+RA   Wong-Staal F.;
+RT   "Complete nucleotide sequences of functional clones of the AIDS virus.";
+RL   AIDS Res. Hum. Retroviruses 3:57-69(1987).
+RN   [2]
+RP   SEQUENCE REVISION.
+RA   Ogata N., Alter H.J., Miller R.H., Purcell R.H.;
+RL   Submitted (JUN-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC RNA].
+RA   Chappey C.;
+RL   Submitted (MAR-1999) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   FUNCTION (INTEGRASE).
+RX   PubMed=2349226; DOI=10.1073/pnas.87.11.4164;
+RA   Farnet C.M., Haseltine W.A.;
+RT   "Integration of human immunodeficiency virus type 1 DNA in vitro.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 87:4164-4168(1990).
+RN   [5]
+RP   DIMERIZATION (PROTEASE).
+RX   PubMed=2162350; DOI=10.1016/s0021-9258(18)86974-5;
+RA   Weber I.T.;
+RT   "Comparison of the crystal structures and intersubunit interactions of
+RT   human immunodeficiency and Rous sarcoma virus proteases.";
+RL   J. Biol. Chem. 265:10492-10496(1990).
+RN   [6]
+RP   MUTAGENESIS OF HIS-1159; HIS-1163; GLN-1200; ASP-1211; SER-1228; ASP-1263;
+RP   GLU-1299; ARG-1346 AND TRP-1382.
+RX   PubMed=8420982; DOI=10.1016/s0021-9258(18)53969-7;
+RA   Leavitt A.D., Shiue L., Varmus H.E.;
+RT   "Site-directed mutagenesis of HIV-1 integrase demonstrates differential
+RT   effects on integrase functions in vitro.";
+RL   J. Biol. Chem. 268:2113-2119(1993).
+RN   [7]
+RP   MUTAGENESIS OF CYS-1187; CYS-1190; TRP-1208; ASP-1211; THR-1213; VAL-1222;
+RP   SER-1228; THR-1262; ASP-1263; GLY-1270; ILE-1282; VAL-1298; GLU-1299;
+RP   LYS-1306; ALA-1326 AND TRP-1382.
+RC   STRAIN=Isolate WI3;
+RX   PubMed=8035478; DOI=10.1128/jvi.68.8.4768-4775.1994;
+RA   Cannon P.M., Wilson W., Byles E., Kingsman S.M., Kingsman A.J.;
+RT   "Human immunodeficiency virus type 1 integrase: effect on viral replication
+RT   of mutations at highly conserved residues.";
+RL   J. Virol. 68:4768-4775(1994).
+RN   [8]
+RP   INTERACTION OF CAPSID WITH HUMAN PPIA/CYPA.
+RX   PubMed=8513493; DOI=10.1016/0092-8674(93)90637-6;
+RA   Luban J., Bossolt K.L., Franke E.K., Kalpana G.V., Goff S.P.;
+RT   "Human immunodeficiency virus type 1 Gag protein binds to cyclophilins A
+RT   and B.";
+RL   Cell 73:1067-1078(1993).
+RN   [9]
+RP   INTERACTION WITH HUMAN SMARCB1/INI1 (INTEGRASE).
+RX   PubMed=7801128; DOI=10.1126/science.7801128;
+RA   Kalpana G.V., Marmon S., Wang W., Crabtree G.R., Goff S.P.;
+RT   "Binding and stimulation of HIV-1 integrase by a human homolog of yeast
+RT   transcription factor SNF5.";
+RL   Science 266:2002-2006(1994).
+RN   [10]
+RP   FUNCTION (PROTEASE).
+RX   PubMed=7835426; DOI=10.1016/0014-5793(94)01370-g;
+RA   Gaedigk-Nitschko K., Schoen A., Wachinger G., Erfle V., Kohleisen B.;
+RT   "Cleavage of recombinant and cell derived human immunodeficiency virus 1
+RT   (HIV-1) Nef protein by HIV-1 protease.";
+RL   FEBS Lett. 357:275-278(1995).
+RN   [11]
+RP   FUNCTION (CAPSID PROTEIN P24).
+RX   PubMed=8648689; DOI=10.1128/jvi.70.6.3551-3560.1996;
+RA   Braaten D., Franke E.K., Luban J.;
+RT   "Cyclophilin A is required for an early step in the life cycle of human
+RT   immunodeficiency virus type 1 before the initiation of reverse
+RT   transcription.";
+RL   J. Virol. 70:3551-3560(1996).
+RN   [12]
+RP   MUTAGENESIS OF PRO-217; VAL-218; HIS-219; ALA-220; GLY-221; PRO-222;
+RP   ILE-223; ALA-224 AND PRO-225, AND INTERACTION WITH HUMAN CYPA.
+RX   PubMed=9223641; DOI=10.1006/jmbi.1997.1051;
+RA   Yoo S., Myszka D.G., Yeh C., McMurray M., Hill C.P., Sundquist W.I.;
+RT   "Molecular recognition in the HIV-1 capsid/cyclophilin A complex.";
+RL   J. Mol. Biol. 269:780-795(1997).
+RN   [13]
+RP   MUTAGENESIS OF ASP-1211; ASP-1263 AND GLU-1299.
+RX   PubMed=9573231; DOI=10.1128/jvi.72.6.4678-4685.1998;
+RA   Gaur M., Leavitt A.D.;
+RT   "Mutations in the human immunodeficiency virus type 1 integrase D,D(35)E
+RT   motif do not eliminate provirus formation.";
+RL   J. Virol. 72:4678-4685(1998).
+RN   [14]
+RP   MUTAGENESIS OF LYS-18; ARG-22 AND LYS-27.
+RX   PubMed=10604476; DOI=10.1038/45272;
+RA   Dupont S., Sharova N., DeHoratius C., Virbasius C.M., Zhu X.,
+RA   Bukrinskaya A.G., Stevenson M., Green M.R.;
+RT   "A novel nuclear export activity in HIV-1 matrix protein required for viral
+RT   replication.";
+RL   Nature 402:681-685(1999).
+RN   [15]
+RP   PROTEOLYTIC PROCESSING OF POLYPROTEIN.
+RX   PubMed=10494040; DOI=10.1007/bf02253522;
+RA   Chang Y.Y., Yu S.L., Syu W.J.;
+RT   "Organization of HIV-1 pol is critical for Pol polyprotein processing.";
+RL   J. Biomed. Sci. 6:333-341(1999).
+RN   [16]
+RP   FUNCTION (NUCLEOCAPSID PROTEIN P7).
+RX   PubMed=9931246; DOI=10.1006/jmbi.1998.2460;
+RA   Negroni M., Buc H.;
+RT   "Recombination during reverse transcription: an evaluation of the role of
+RT   the nucleocapsid protein.";
+RL   J. Mol. Biol. 286:15-31(1999).
+RN   [17]
+RP   FUNCTION (NUCLEOCAPSID PROTEIN P7).
+RX   PubMed=11044125; DOI=10.1128/jvi.74.22.10796-10800.2000;
+RA   Cen S., Khorchid A., Gabor J., Rong L., Wainberg M.A., Kleiman L.;
+RT   "Roles of Pr55(gag) and NCp7 in tRNA(3)(Lys) genomic placement and the
+RT   initiation step of reverse transcription in human immunodeficiency virus
+RT   type 1.";
+RL   J. Virol. 74:10796-10800(2000).
+RN   [18]
+RP   GAG/GAG-POL RATIO.
+RX   PubMed=11160682; DOI=10.1128/jvi.75.4.1834-1841.2001;
+RA   Shehu-Xhilaga M., Crowe S.M., Mak J.;
+RT   "Maintenance of the Gag/Gag-Pol ratio is important for human
+RT   immunodeficiency virus type 1 RNA dimerization and viral infectivity.";
+RL   J. Virol. 75:1834-1841(2001).
+RN   [19]
+RP   ACTIVE SITES (REVERSE TRANSCRIPTASE/RIBONUCLEASE H), AND MUTAGENESIS OF
+RP   GLU-1065 AND ASP-1136.
+RX   PubMed=12206668; DOI=10.1021/bi025871v;
+RA   Cristofaro J.V., Rausch J.W., Le Grice S.F., DeStefano J.J.;
+RT   "Mutations in the ribonuclease H active site of HIV-RT reveal a role for
+RT   this site in stabilizing enzyme-primer-template binding.";
+RL   Biochemistry 41:10968-10975(2002).
+RN   [20]
+RP   CIS/TRANS ISOMERIZATION (CAPSID PROTEIN P24).
+RX   PubMed=11929983; DOI=10.1073/pnas.082100499;
+RA   Bosco D.A., Eisenmesser E.Z., Pochapsky S., Sundquist W.I., Kern D.;
+RT   "Catalysis of cis/trans isomerization in native HIV-1 capsid by human
+RT   cyclophilin A.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 99:5247-5252(2002).
+RN   [21]
+RP   MUTAGENESIS OF HIS-400; CYS-405; HIS-421 AND CYS-426.
+RX   PubMed=11932404; DOI=10.1128/jvi.76.9.4370-4378.2002;
+RA   Guo J., Wu T., Kane B.F., Johnson D.G., Henderson L.E., Gorelick R.J.,
+RA   Levin J.G.;
+RT   "Subtle alterations of the native zinc finger structures have dramatic
+RT   effects on the nucleic acid chaperone activity of human immunodeficiency
+RT   virus type 1 nucleocapsid protein.";
+RL   J. Virol. 76:4370-4378(2002).
+RN   [22]
+RP   PROTEOLYTIC PROCESSING (GAG-POL POLYPROTEIN).
+RX   PubMed=12477841; DOI=10.1128/jvi.77.1.366-374.2003;
+RA   Pettit S.C., Gulnik S., Everitt L., Kaplan A.H.;
+RT   "The dimer interfaces of protease and extra-protease domains influence the
+RT   activation of protease and the specificity of GagPol cleavage.";
+RL   J. Virol. 77:366-374(2003).
+RN   [23]
+RP   QUATERNARY STRUCTURE (CAPSID PROTEIN P24).
+RX   PubMed=12660176; DOI=10.1093/emboj/cdg143;
+RA   Briggs J.A., Wilk T., Welker R., Krausslich H.G., Fuller S.D.;
+RT   "Structural organization of authentic, mature HIV-1 virions and cores.";
+RL   EMBO J. 22:1707-1715(2003).
+RN   [24]
+RP   FUNCTION (PROTEASE).
+RX   PubMed=12505164; DOI=10.1016/s0014-5793(02)03764-x;
+RA   Perales C., Carrasco L., Ventoso I.;
+RT   "Cleavage of eIF4G by HIV-1 protease: effects on translation.";
+RL   FEBS Lett. 533:89-94(2003).
+RN   [25]
+RP   CLEAVAGE (NUCLEOCAPSID PROTEIN P7).
+RX   PubMed=15065874; DOI=10.1021/bi035625z;
+RA   Tozser J., Shulenin S., Louis J.M., Copeland T.D., Oroszlan S.;
+RT   "In vitro processing of HIV-1 nucleocapsid protein by the viral proteinase:
+RT   effects of amino acid substitutions at the scissile bond in the proximal
+RT   zinc finger sequence.";
+RL   Biochemistry 43:4304-4312(2004).
+RN   [26]
+RP   SUBUNIT (REVERSE TRANSCRIPTASE/RIBONUCLEASE H), MUTAGENESIS OF
+RP   488-PHE--GLN-490 AND LEU-821, AND PROTEOLYTIC CLEAVAGE (GAG-POL
+RP   POLYPROTEIN).
+RX   PubMed=15183348; DOI=10.1016/j.biocel.2004.02.020;
+RA   Sluis-Cremer N., Arion D., Abram M.E., Parniak M.A.;
+RT   "Proteolytic processing of an HIV-1 pol polyprotein precursor: insights
+RT   into the mechanism of reverse transcriptase p66/p51 heterodimer
+RT   formation.";
+RL   Int. J. Biochem. Cell Biol. 36:1836-1847(2004).
+RN   [27]
+RP   FUNCTION (REVERSE TRANSCRIPTASE/RIBONUCLEASE H).
+RX   PubMed=16221683; DOI=10.1074/jbc.m507839200;
+RA   Purohit V., Balakrishnan M., Kim B., Bambara R.A.;
+RT   "Evidence that HIV-1 reverse transcriptase employs the DNA 3' end directed
+RT   primary/secondary RNase H cleavage mechanism during synthesis and strand
+RT   transfer.";
+RL   J. Biol. Chem. 280:40534-40543(2005).
+RN   [28]
+RP   MUTAGENESIS OF ASN-394.
+RX   PubMed=16904152; DOI=10.1016/j.virol.2006.07.011;
+RA   Thomas J.A., Shulenin S., Coren L.V., Bosche W.J., Gagliardi T.D.,
+RA   Gorelick R.J., Oroszlan S.;
+RT   "Characterization of human immunodeficiency virus type 1 (HIV-1) containing
+RT   mutations in the nucleocapsid protein at a putative HIV-1 protease cleavage
+RT   site.";
+RL   Virology 354:261-270(2006).
+RN   [29]
+RP   FUNCTION (NUCLEOCAPSID PROTEIN P7).
+RX   PubMed=17070549; DOI=10.1016/j.jmb.2006.09.081;
+RA   Hagan N.A., Fabris D.;
+RT   "Dissecting the protein-RNA and RNA-RNA interactions in the nucleocapsid-
+RT   mediated dimerization and isomerization of HIV-1 stemloop 1.";
+RL   J. Mol. Biol. 365:396-410(2007).
+RN   [30]
+RP   SUBUNIT (MATRIX PROTEIN P17).
+RX   PubMed=17108052; DOI=10.1128/jvi.02122-06;
+RA   Alfadhli A., Huseby D., Kapit E., Colman D., Barklis E.;
+RT   "Human immunodeficiency virus type 1 matrix protein assembles on membranes
+RT   as a hexamer.";
+RL   J. Virol. 81:1472-1478(2007).
+RN   [31]
+RP   MUTAGENESIS OF SER-6; SER-9; SER-67 AND SER-72, AND POST-TRANSCRIPTIONAL
+RP   MODIFICATION.
+RX   PubMed=17656588; DOI=10.1110/ps.072987607;
+RA   Saad J.S., Kim A., Ghanam R.H., Dalton A.K., Vogt V.M., Wu Z., Lu W.,
+RA   Summers M.F.;
+RT   "Mutations that mimic phosphorylation of the HIV-1 matrix protein do not
+RT   perturb the myristyl switch.";
+RL   Protein Sci. 16:1793-1797(2007).
+RN   [32]
+RP   SUBCELLULAR LOCATION (INTEGRASE).
+RX   PubMed=18722123; DOI=10.1016/j.cub.2008.07.079;
+RA   Christ F., Thys W., De Rijck J., Gijsbers R., Albanese A., Arosio D.,
+RA   Emiliani S., Rain J.C., Benarous R., Cereseto A., Debyser Z.;
+RT   "Transportin-SR2 imports HIV into the nucleus.";
+RL   Curr. Biol. 18:1192-1202(2008).
+RN   [33]
+RP   FUNCTION (NUCLEOCAPSID PROTEIN P7).
+RX   PubMed=18343475; DOI=10.1016/j.virol.2008.02.001;
+RA   Kafaie J., Song R., Abrahamyan L., Mouland A.J., Laughrea M.;
+RT   "Mapping of nucleocapsid residues important for HIV-1 genomic RNA
+RT   dimerization and packaging.";
+RL   Virology 375:592-610(2008).
+RN   [34]
+RP   SUBUNIT (CAPSID PROTEIN P24), AND FUNCTION (CAPSID PROTEIN P24).
+RX   PubMed=19914170; DOI=10.1016/j.cell.2009.10.010;
+RA   Byeon I.J., Meng X., Jung J., Zhao G., Yang R., Ahn J., Shi J., Concel J.,
+RA   Aiken C., Zhang P., Gronenborn A.M.;
+RT   "Structural convergence between Cryo-EM and NMR reveals intersubunit
+RT   interactions critical for HIV-1 capsid function.";
+RL   Cell 139:780-790(2009).
+RN   [35]
+RP   FUNCTION (PROTEASE).
+RX   PubMed=19956697; DOI=10.1371/journal.pone.0007997;
+RA   Castello A., Franco D., Moral-Lopez P., Berlanga J.J., Alvarez E.,
+RA   Wimmer E., Carrasco L.;
+RT   "HIV- 1 protease inhibits Cap- and poly(A)-dependent translation upon
+RT   eIF4GI and PABP cleavage.";
+RL   PLoS ONE 4:E7997-E7997(2009).
+RN   [36]
+RP   SUBUNIT (MATRIX PROTEIN P17).
+RX   PubMed=19327811; DOI=10.1016/j.virol.2009.02.048;
+RA   Alfadhli A., Barklis R.L., Barklis E.;
+RT   "HIV-1 matrix organizes as a hexamer of trimers on membranes containing
+RT   phosphatidylinositol-(4,5)-bisphosphate.";
+RL   Virology 387:466-472(2009).
+RN   [37]
+RP   INTERACTION OF GAG POLYPROTEIN WITH PDZD8.
+RX   PubMed=20573829; DOI=10.1128/jvi.00843-10;
+RA   Henning M.S., Morham S.G., Goff S.P., Naghavi M.H.;
+RT   "PDZD8 is a novel Gag-interacting factor that promotes retroviral
+RT   infection.";
+RL   J. Virol. 84:8990-8995(2010).
+RN   [38]
+RP   FUNCTION (INTEGRASE), AND INTERACTION OF INTEGRASE WITH HUMAN KPNA3.
+RX   PubMed=20554775; DOI=10.1128/jvi.00508-10;
+RA   Ao Z., Danappa Jayappa K., Wang B., Zheng Y., Kung S., Rassart E.,
+RA   Depping R., Kohler M., Cohen E.A., Yao X.;
+RT   "Importin alpha3 interacts with HIV-1 integrase and contributes to HIV-1
+RT   nuclear import and replication.";
+RL   J. Virol. 84:8650-8663(2010).
+RN   [39]
+RP   FUNCTION (NUCLEOCAPSID PROTEIN P7).
+RX   PubMed=20828778; DOI=10.1016/j.virol.2010.08.013;
+RA   Jalalirad M., Laughrea M.;
+RT   "Formation of immature and mature genomic RNA dimers in wild-type and
+RT   protease-inactive HIV-1: differential roles of the Gag polyprotein,
+RT   nucleocapsid proteins NCp15, NCp9, NCp7, and the dimerization initiation
+RT   site.";
+RL   Virology 407:225-236(2010).
+RN   [40]
+RP   INTERACTION WITH MONKEY TRIM5.
+RX   PubMed=23785198; DOI=10.1128/jvi.00713-13;
+RA   Shi J., Friedman D.B., Aiken C.;
+RT   "Retrovirus restriction by TRIM5 proteins requires recognition of only a
+RT   small fraction of viral capsid subunits.";
+RL   J. Virol. 87:9271-9278(2013).
+RN   [41]
+RP   DIMERIZATION (PROTEASE).
+RX   PubMed=24132393; DOI=10.1007/s10930-013-9517-y;
+RA   Naicker P., Seele P., Dirr H.W., Sayed Y.;
+RT   "F99 is critical for dimerization and activation of South African HIV-1
+RT   subtype C protease.";
+RL   Protein J. 32:560-567(2013).
+RN   [42]
+RP   INTERACTION OF CAPSID-NUCLEOCAPSID COMPLEX WITH HUMAN PDZD8.
+RX   PubMed=24554657; DOI=10.1128/jvi.02945-13;
+RA   Guth C.A., Sodroski J.;
+RT   "Contribution of PDZD8 to stabilization of the human immunodeficiency virus
+RT   type 1 capsid.";
+RL   J. Virol. 88:4612-4623(2014).
+RN   [43]
+RP   INTERACTION OF MATRIX PROTEIN P17 WITH RAT CALM1.
+RX   PubMed=24500712; DOI=10.1074/jbc.m113.543694;
+RA   Vlach J., Samal A.B., Saad J.S.;
+RT   "Solution structure of calmodulin bound to the binding domain of the HIV-1
+RT   matrix protein.";
+RL   J. Biol. Chem. 289:8697-8705(2014).
+RN   [44]
+RP   FUNCTION (PROTEASE), AND CATALYTIC ACTIVITY (PROTEASE).
+RX   PubMed=32053707; DOI=10.1371/journal.ppat.1008305;
+RA   Jurczyszak D., Zhang W., Terry S.N., Kehrer T., Bermudez Gonzalez M.C.,
+RA   McGregor E., Mulder L.C.F., Eckwahl M.J., Pan T., Simon V.;
+RT   "HIV protease cleaves the antiviral m6A reader protein YTHDF3 in the viral
+RT   particle.";
+RL   PLoS Pathog. 16:e1008305-e1008305(2020).
+RN   [45]
+RP   FUNCTION (PROTEASE), CATALYTIC ACTIVITY (PROTEASE), ACTIVE SITE (PROTEASE),
+RP   AND MUTAGENESIS OF ASP-513.
+RX   PubMed=33542150; DOI=10.1126/science.abe1707;
+RA   Wang Q., Gao H., Clark K.M., Mugisha C.S., Davis K., Tang J.P.,
+RA   Harlan G.H., DeSelm C.J., Presti R.M., Kutluay S.B., Shan L.;
+RT   "CARD8 is an inflammasome sensor for HIV-1 protease activity.";
+RL   Science 0:0-0(2021).
+RN   [46]
+RP   REVIEW.
+RX   PubMed=8791726; DOI=10.1007/978-3-642-80145-7_4;
+RA   Vogt V.M.;
+RT   "Proteolytic processing and particle maturation.";
+RL   Curr. Top. Microbiol. Immunol. 214:95-131(1996).
+RN   [47]
+RP   REVIEW.
+RX   PubMed=9878383; DOI=10.1006/jmbi.1998.2354;
+RA   Turner B.G., Summers M.F.;
+RT   "Structural biology of HIV.";
+RL   J. Mol. Biol. 285:1-32(1999).
+RN   [48]
+RP   REVIEW.
+RX   PubMed=11700285; DOI=10.1146/annurev.genet.35.102401.090551;
+RA   Negroni M., Buc H.;
+RT   "Mechanisms of retroviral recombination.";
+RL   Annu. Rev. Genet. 35:275-302(2001).
+RN   [49]
+RP   REVIEW.
+RX   PubMed=11983066; DOI=10.1186/gb-2002-3-4-reviews3006;
+RA   Dunn B.M., Goodenow M.M., Gustchina A., Wlodawer A.;
+RT   "Retroviral proteases.";
+RL   Genome Biol. 3:REVIEWS3006.1-REVIEWS3006.7(2002).
+RN   [50]
+RP   REVIEW.
+RX   PubMed=12873766; DOI=10.1016/s0005-2736(03)00163-9;
+RA   Scarlata S., Carter C.;
+RT   "Role of HIV-1 Gag domains in viral assembly.";
+RL   Biochim. Biophys. Acta 1614:62-72(2003).
+RN   [51]
+RP   REVIEW.
+RX   PubMed=15353349; DOI=10.2741/1472;
+RA   Turlure F., Devroe E., Silver P.A., Engelman A.;
+RT   "Human cell proteins and human immunodeficiency virus DNA integration.";
+RL   Front. Biosci. 9:3187-3208(2004).
+RN   [52]
+RP   REVIEW.
+RX   PubMed=16815734; DOI=10.1016/j.mib.2006.06.011;
+RA   Sokolskaja E., Luban J.;
+RT   "Cyclophilin, TRIM5, and innate immunity to HIV-1.";
+RL   Curr. Opin. Microbiol. 9:404-408(2006).
+RN   [53]
+RP   REVIEW.
+RX   PubMed=21762797; DOI=10.1016/j.jmb.2011.04.015;
+RA   Chukkapalli V., Ono A.;
+RT   "Molecular determinants that regulate plasma membrane association of HIV-1
+RT   Gag.";
+RL   J. Mol. Biol. 410:512-524(2011).
+RN   [54]
+RP   REVIEW.
+RX   PubMed=24907482; DOI=10.1016/j.virusres.2014.05.011;
+RA   Darlix J.L., de Rocquigny H., Mauffret O., Mely Y.;
+RT   "Retrospective on the all-in-one retroviral nucleocapsid protein.";
+RL   Virus Res. 193:2-15(2014).
+RN   [55]
+RP   REVIEW.
+RX   PubMed=24933691; DOI=10.1016/j.tim.2014.04.012;
+RA   Tedbury P.R., Freed E.O.;
+RT   "The role of matrix in HIV-1 envelope glycoprotein incorporation.";
+RL   Trends Microbiol. 22:372-378(2014).
+RN   [56]
+RP   X-RAY CRYSTALLOGRAPHY (2.7 ANGSTROMS) OF 489-587.
+RX   PubMed=2682266; DOI=10.1038/342299a0;
+RA   Lapatto R., Blundell T., Hemmings A., Overington J., Wilderspin A.,
+RA   Wood S., Merson J.R., Whittle P.J., Danley D.E., Geoghegan K.F.,
+RA   Hawrylik S.J., Lee S.E., Scheld K.G., Hobart P.M.;
+RT   "X-ray analysis of HIV-1 proteinase at 2.7-A resolution confirms structural
+RT   homology among retroviral enzymes.";
+RL   Nature 342:299-302(1989).
+RN   [57]
+RP   X-RAY CRYSTALLOGRAPHY (2.3 ANGSTROMS) OF 489-587 IN COMPLEX WITH THE
+RP   INHIBITOR RO 32-8959.
+RX   PubMed=1956054; DOI=10.1021/jm00115a028;
+RA   Krohn A., Redshaw S., Ritchie J.C., Graves B.J., Hatada M.H.;
+RT   "Novel binding mode of highly potent HIV-proteinase inhibitors
+RT   incorporating the (R)-hydroxyethylamine isostere.";
+RL   J. Med. Chem. 34:3340-3342(1991).
+RN   [58]
+RP   STRUCTURE BY NMR OF 390-406.
+RX   PubMed=1959614; DOI=10.1016/0014-5793(91)80825-n;
+RA   Omichinski J.G., Clore G.M., Sakaguchi K., Appella E., Gronenborn A.M.;
+RT   "Structural characterization of a 39-residue synthetic peptide containing
+RT   the two zinc binding domains from the HIV-1 p7 nucleocapsid protein by CD
+RT   and NMR spectroscopy.";
+RL   FEBS Lett. 292:25-30(1991).
+RN   [59]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 489-587 IN COMPLEX WITH A
+RP   DIHYDROXYETHYLENE-CONTAINING INHIBITOR.
+RX   PubMed=1304383; DOI=10.1002/pro.5560010811;
+RA   Thanki N., Rao J.K., Foundling S.I., Howe W.J., Moon J.B., Hui J.O.,
+RA   Tomasselli A.G., Heinrikson R.L., Thaisrivongs S., Wlodawer A.;
+RT   "Crystal structure of a complex of HIV-1 protease with a dihydroxyethylene-
+RT   containing inhibitor: comparisons with molecular modeling.";
+RL   Protein Sci. 1:1061-1072(1992).
+RN   [60]
+RP   STRUCTURE BY NMR OF 390-430.
+RX   PubMed=8289249; DOI=10.1016/s0022-2836(05)80033-6;
+RA   Morellet N., de Rocquigny H., Mely Y., Jullian N., Demene H., Ottmann M.,
+RA   Gerard D., Darlix J.L., Fournie-Zaluski M.-C., Roques B.P.;
+RT   "Conformational behaviour of the active and inactive forms of the
+RT   nucleocapsid NCp7 of HIV-1 studied by 1H NMR.";
+RL   J. Mol. Biol. 235:287-301(1994).
+RN   [61]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 489-587 IN COMPLEX WITH THE
+RP   INHIBITOR XK263.
+RX   PubMed=8278812; DOI=10.1126/science.8278812;
+RA   Lam P.Y.S., Jadhav P.K., Eyermann C.J., Hodge C.N., Ru Y., Bacheler L.T.,
+RA   Meek J.L., Otto M.J., Rayner M.M., Wong Y.N., Chang C.-H., Weber P.C.,
+RA   Jackson D.A., Sharpe T.R., Erickson-Viitanen S.;
+RT   "Rational design of potent, bioavailable, nonpeptide cyclic ureas as HIV
+RT   protease inhibitors.";
+RL   Science 263:380-384(1994).
+RN   [62]
+RP   X-RAY CRYSTALLOGRAPHY (2.2 ANGSTROMS) OF 588-1147.
+RX   PubMed=7523679; DOI=10.1006/jmbi.1994.1604;
+RA   Stammers D.K., Somers D.O., Ross C.K., Kirby I., Ray P.H., Wilson J.E.,
+RA   Norman M., Ren J.S., Esnouf R.M., Garman E.F., Jones E.Y., Stuart D.I.;
+RT   "Crystals of HIV-1 reverse transcriptase diffracting to 2.2 A resolution.";
+RL   J. Mol. Biol. 242:586-588(1994).
+RN   [63]
+RP   STRUCTURE BY NMR OF 1-132.
+RX   PubMed=8654825; DOI=10.1042/bst0230725;
+RA   Matthews S., Barlow P., Clark N., Kingsman S., Kingsman A., Campbell I.;
+RT   "Refined solution structure of p17, the HIV matrix protein.";
+RL   Biochem. Soc. Trans. 23:725-729(1995).
+RN   [64]
+RP   X-RAY CRYSTALLOGRAPHY (2.6 ANGSTROMS) OF 588-1027.
+RX   PubMed=8535785; DOI=10.1016/s0969-2126(01)00226-x;
+RA   Ren J.S., Esnouf R.M., Hopkins A.L., Ross C.K., Jones E.Y., Stammers D.K.,
+RA   Stuart D.I.;
+RT   "The structure of HIV-1 reverse transcriptase complexed with 9-chloro-TIBO:
+RT   lessons for inhibitor design.";
+RL   Structure 3:915-926(1995).
+RN   [65]
+RP   X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) OF 588-1147.
+RX   PubMed=7540935; DOI=10.1038/nsb0495-303;
+RA   Esnouf R.M., Ren J.S., Ross C.K., Jones E.Y., Stammers D.K., Stuart D.I.;
+RT   "Mechanism of inhibition of HIV-1 reverse transcriptase by non-nucleoside
+RT   inhibitors.";
+RL   Nat. Struct. Biol. 2:303-308(1995).
+RN   [66]
+RP   X-RAY CRYSTALLOGRAPHY (2.55 ANGSTROMS) OF 588-1027.
+RX   PubMed=8648598; DOI=10.1021/jm960056x;
+RA   Hopkins A.L., Ren J.S., Esnouf R.M., Willcox B.E., Jones E.Y., Ross C.K.,
+RA   Miyasaka T., Walker R.T., Tanaka H., Stammers D.K., Stuart D.I.;
+RT   "Complexes of HIV-1 reverse transcriptase with inhibitors of the HEPT
+RT   series reveal conformational changes relevant to the design of potent non-
+RT   nucleoside inhibitors.";
+RL   J. Med. Chem. 39:1589-1600(1996).
+RN   [67]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 489-587 IN COMPLEX WITH COMPLEX
+RP   WITH DMP450.
+RX   PubMed=8807858; DOI=10.1016/s1074-5521(96)90110-6;
+RA   Hodge C.N., Aldrich P.E., Bacheler L.T., Chang C.-H., Eyermann C.J.,
+RA   Garber S.S., Grubb M., Jackson D.A., Jadhav P.K., Korant B.D., Lam P.Y.S.,
+RA   Maurin M.B., Meek J.L., Otto M.J., Rayner M.M., Reid C., Sharpe T.R.,
+RA   Shum L., Winslow D.L., Erickson-Viitanen S.;
+RT   "Improved cyclic urea inhibitors of the HIV-1 protease: synthesis, potency,
+RT   resistance profile, human pharmacokinetics and X-ray crystal structure of
+RT   DMP 450.";
+RL   Chem. Biol. 3:301-314(1996).
+RN   [68]
+RP   STRUCTURE BY NMR OF 489-587 IN COMPLEX WITH THE INHIBITOR DMP323.
+RX   PubMed=8868486; DOI=10.1002/pro.5560050311;
+RA   Yamazaki T., Hinck A.P., Wang Y.X., Nicholson L.K., Torchia D.A.,
+RA   Wingfield P., Stahl S.J., Kaufman J.D., Chang C.-H., Domaille P.J.,
+RA   Lam P.Y.S.;
+RT   "Three-dimensional solution structure of the HIV-1 protease complexed with
+RT   DMP323, a novel cyclic urea-type inhibitor, determined by nuclear magnetic
+RT   resonance spectroscopy.";
+RL   Protein Sci. 5:495-506(1996).
+RN   [69]
+RP   X-RAY CRYSTALLOGRAPHY (2.65 ANGSTROMS) OF 588-1130.
+RX   PubMed=9108091; DOI=10.1073/pnas.94.8.3984;
+RA   Esnouf R.M., Ren J.S., Hopkins A.L., Ross C.K., Jones E.Y., Stammers D.K.,
+RA   Stuart D.I.;
+RT   "Unique features in the structure of the complex between HIV-1 reverse
+RT   transcriptase and the bis(heteroaryl)piperazine (BHAP) U-90152 explain
+RT   resistance mutations for this nonnucleoside inhibitor.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 94:3984-3989(1997).
+RN   [70]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 489-587.
+RX   PubMed=9003516; DOI=10.1021/jm960586t;
+RA   Jadhav P.K., Ala P.J., Woerner F.J., Chang C.-H., Garber S.S., Anton E.D.,
+RA   Bacheler L.T.;
+RT   "Cyclic urea amides: HIV-1 protease inhibitors with low nanomolar potency
+RT   against both wild type and protease inhibitor resistant mutants of HIV.";
+RL   J. Med. Chem. 40:181-191(1997).
+RN   [71]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 489-587 IN COMPLEX WITH THE
+RP   INHIBITOR LP-130.
+RX   PubMed=9827997; DOI=10.1002/pro.5560071108;
+RA   Kervinen J., Lubkowski J., Zdanov A., Bhatt D., Dunn B.M., Hui K.Y.,
+RA   Powell D.J., Kay J., Wlodawer A., Gustchina A.;
+RT   "Toward a universal inhibitor of retroviral proteases: comparative analysis
+RT   of the interactions of LP-130 complexed with proteases from HIV-1, FIV, and
+RT   EIAV.";
+RL   Protein Sci. 7:2314-2323(1998).
+RN   [72]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 489-587.
+RX   PubMed=9554878; DOI=10.1021/jm970524i;
+RA   Jadhav P.K., Woerner F.J., Lam P.Y., Hodge C.N., Eyermann C.J., Man H.W.,
+RA   Daneker W.F., Bacheler L.T., Rayner M.M., Meek J.L., Erickson-Viitanen S.,
+RA   Jackson D.A., Calabrese J.C., Schadt M.C., Chang C.-H.;
+RT   "Nonpeptide cyclic cyanoguanidines as HIV-1 protease inhibitors: synthesis,
+RT   structure-activity relationships, and X-ray crystal structure studies.";
+RL   J. Med. Chem. 41:1446-1455(1998).
+RN   [73]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 489-587.
+RX   PubMed=9790666; DOI=10.1021/bi980386e;
+RA   Ala P.J., Huston E.E., Klabe R.M., Jadhav P.K., Lam P.Y.S., Chang C.-H.;
+RT   "Counteracting HIV-1 protease drug resistance: structural analysis of
+RT   mutant proteases complexed with XV638 and SD146, cyclic urea amides with
+RT   broad specificities.";
+RL   Biochemistry 37:15042-15049(1998).
+RN   [74]
+RP   X-RAY CRYSTALLOGRAPHY (1.8 ANGSTROMS) OF 489-587.
+RX   PubMed=9575185; DOI=10.1074/jbc.273.20.12325;
+RA   Ala P.J., DeLoskey R.J., Huston E.E., Jadhav P.K., Lam P.Y.S.,
+RA   Eyermann C.J., Hodge C.N., Schadt M.C., Lewandowski F.A., Weber P.C.,
+RA   McCabe D.D., Duke J.L., Chang C.-H.;
+RT   "Molecular recognition of cyclic urea HIV-1 protease inhibitors.";
+RL   J. Biol. Chem. 273:12325-12331(1998).
+RN   [75]
+RP   X-RAY CRYSTALLOGRAPHY (2.0 ANGSTROMS) OF 490-587 IN COMPLEX WITH A
+RP   TRIPEPTIDE INHIBITOR.
+RX   PubMed=9485357; DOI=10.1021/bi972059x;
+RA   Louis J.M., Dyda F., Nashed N.T., Kimmel A.R., Davies D.R.;
+RT   "Hydrophilic peptides derived from the transframe region of Gag-Pol inhibit
+RT   the HIV-1 protease.";
+RL   Biochemistry 37:2105-2110(1998).
+RN   [76]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 588-1130.
+RX   PubMed=9689112; DOI=10.1073/pnas.95.16.9518;
+RA   Ren J.S., Esnouf R.M., Hopkins A.L., Jones E.Y., Kirby I., Keeling J.,
+RA   Ross C.K., Larder B.A., Stuart D.I., Stammers D.K.;
+RT   "3'-azido-3'-deoxythymidine drug resistance mutations in HIV-1 reverse
+RT   transcriptase can induce long range conformational changes.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 95:9518-9523(1998).
+RN   [77]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 588-1147 IN COMPLEX WITH
+RP   CARBOXANILIDE DERIVATIVES.
+RX   PubMed=9772165; DOI=10.1021/bi981309m;
+RA   Ren J.S., Esnouf R.M., Hopkins A.L., Warren J., Balzarini J., Stuart D.I.,
+RA   Stammers D.K.;
+RT   "Crystal structures of HIV-1 reverse transcriptase in complex with
+RT   carboxanilide derivatives.";
+RL   Biochemistry 37:14394-14403(1998).
+RN   [78]
+RP   X-RAY CRYSTALLOGRAPHY (1.88 ANGSTROMS) OF 501-599.
+RX   PubMed=10429209; DOI=10.1046/j.1432-1327.1999.00514.x;
+RA   Mahalingam B., Louis J.M., Reed C.C., Adomat J.M., Krouse J., Wang Y.-F.,
+RA   Harrison R.W., Weber I.T.;
+RT   "Structural and kinetic analysis of drug resistant mutants of HIV-1
+RT   protease.";
+RL   Eur. J. Biochem. 263:238-245(1999).
+RN   [79]
+RP   X-RAY CRYSTALLOGRAPHY (2.8 ANGSTROMS) OF 1199-1435.
+RX   PubMed=10890912; DOI=10.1073/pnas.150220297;
+RA   Chen J.C., Krucinski J., Miercke L.J., Finer-Moore J.S., Tang A.H.,
+RA   Leavitt A.D., Stroud R.M.;
+RT   "Crystal structure of the HIV-1 integrase catalytic core and C-terminal
+RT   domains: a model for viral DNA binding.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 97:8233-8238(2000).
+RN   [80]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 489-587.
+RX   PubMed=11170214;
+RX   DOI=10.1002/1097-0134(20010401)43:1<57::aid-prot1017>3.0.co;2-d;
+RA   Pillai B., Kannan K.K., Hosur M.V.;
+RT   "1.9 A X-ray study shows closed flap conformation in crystals of tethered
+RT   HIV-1 PR.";
+RL   Proteins 43:57-64(2001).
+RN   [81]
+RP   X-RAY CRYSTALLOGRAPHY (2.4 ANGSTROMS) OF 588-1147 IN COMPLEX WITH
+RP   INHIBITORS.
+RX   PubMed=11575933; DOI=10.1006/jmbi.2001.4988;
+RA   Ren J.S., Nichols C.E., Bird L.E., Chamberlain P.P., Weaver K.L.,
+RA   Short S.A., Stuart D.I., Stammers D.K.;
+RT   "Structural mechanisms of drug resistance for mutations at codons 181 and
+RT   188 in HIV-1 reverse transcriptase and the improved resilience of second
+RT   generation non-nucleoside inhibitors.";
+RL   J. Mol. Biol. 312:795-805(2001).
+RN   [82]
+RP   X-RAY CRYSTALLOGRAPHY (2.1 ANGSTROMS) OF 489-587.
+RX   PubMed=12051725; DOI=10.1016/s0006-291x(02)00482-5;
+RA   Kumar M., Kannan K.K., Hosur M.V., Bhavesh N.S., Chatterjee A., Mittal R.,
+RA   Hosur R.V.;
+RT   "Effects of remote mutation on the autolysis of HIV-1 PR: X-ray and NMR
+RT   investigations.";
+RL   Biochem. Biophys. Res. Commun. 294:395-401(2002).
+RN   [83]
+RP   STRUCTURE BY NMR OF 1014-1147.
+RX   PubMed=12534276; DOI=10.1021/bi0204894;
+RA   Pari K., Mueller G.A., DeRose E.F., Kirby T.W., London R.E.;
+RT   "Solution structure of the RNase H domain of the HIV-1 reverse
+RT   transcriptase in the presence of magnesium.";
+RL   Biochemistry 42:639-650(2003).
+RN   [84]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 588-1147 IN COMPLEX WITH
+RP   INHIBITORS.
+RX   PubMed=15095972; DOI=10.1016/j.jmb.2003.12.055;
+RA   Ren J.S., Nichols C.E., Chamberlain P.P., Weaver K.L., Short S.A.,
+RA   Stammers D.K.;
+RT   "Crystal structures of HIV-1 reverse transcriptases mutated at codons 100,
+RT   106 and 108 and mechanisms of resistance to non-nucleoside inhibitors.";
+RL   J. Mol. Biol. 336:569-578(2004).
+RN   [85]
+RP   X-RAY CRYSTALLOGRAPHY (3.0 ANGSTROMS) OF 588-1147 IN COMPLEX WITH
+RP   INHIBITORS.
+RX   PubMed=15537347; DOI=10.1021/jm040072r;
+RA   Freeman G.A., Andrews C.W. III, Hopkins A.L., Lowell G.S., Schaller L.T.,
+RA   Cowan J.R., Gonzales S.S., Koszalka G.W., Hazen R.J., Boone L.R.,
+RA   Ferris R.G., Creech K.L., Roberts G.B., Short S.A., Weaver K.L.,
+RA   Reynolds D.J., Milton J., Ren J.S., Stuart D.I., Stammers D.K., Chan J.H.;
+RT   "Design of non-nucleoside inhibitors of HIV-1 reverse transcriptase with
+RT   improved drug resistance properties. 2.";
+RL   J. Med. Chem. 47:5923-5936(2004).
+CC   -!- FUNCTION: [Gag-Pol polyprotein]: Mediates, with Gag polyprotein, the
+CC       essential events in virion assembly, including binding the plasma
+CC       membrane, making the protein-protein interactions necessary to create
+CC       spherical particles, recruiting the viral Env proteins, and packaging
+CC       the genomic RNA via direct interactions with the RNA packaging sequence
+CC       (Psi). Gag-Pol polyprotein may regulate its own translation, by the
+CC       binding genomic RNA in the 5'-UTR. At low concentration, the
+CC       polyprotein would promote translation, whereas at high concentration,
+CC       the polyprotein would encapsidate genomic RNA and then shut off
+CC       translation.
+CC   -!- FUNCTION: [Matrix protein p17]: Targets the polyprotein to the plasma
+CC       membrane via a multipartite membrane-binding signal, that includes its
+CC       myristoylated N-terminus (By similarity). Matrix protein is part of the
+CC       pre-integration complex. Implicated in the release from host cell
+CC       mediated by Vpu. Binds to RNA (By similarity).
+CC       {ECO:0000250|UniProtKB:P12497}.
+CC   -!- FUNCTION: [Capsid protein p24]: Forms the conical core that
+CC       encapsulates the genomic RNA-nucleocapsid complex in the virion
+CC       (PubMed:8648689). Most core are conical, with only 7% tubular. The core
+CC       is constituted by capsid protein hexamer subunits. The core is
+CC       disassembled soon after virion entry (PubMed:12660176). Host
+CC       restriction factors such as monkey TRIM5-alpha or TRIMCyp bind
+CC       retroviral capsids and cause premature capsid disassembly, leading to
+CC       blocks in reverse transcription. Capsid restriction by TRIM5 is one of
+CC       the factors which restricts HIV-1 to the human species
+CC       (PubMed:23785198). Host PIN1 apparently facilitates the virion
+CC       uncoating (By similarity). On the other hand, interactions with PDZD8
+CC       or CYPA stabilize the capsid (PubMed:24554657).
+CC       {ECO:0000250|UniProtKB:P12497, ECO:0000269|PubMed:12660176,
+CC       ECO:0000269|PubMed:23785198, ECO:0000269|PubMed:24554657,
+CC       ECO:0000269|PubMed:8648689}.
+CC   -!- FUNCTION: [Nucleocapsid protein p7]: Encapsulates and protects viral
+CC       dimeric unspliced genomic RNA (gRNA). Binds these RNAs through its zinc
+CC       fingers. Acts as a nucleic acid chaperone which is involved in
+CC       rearangement of nucleic acid secondary structure during gRNA
+CC       retrotranscription. Also facilitates template switch leading to
+CC       recombination. As part of the polyprotein, participates in gRNA
+CC       dimerization, packaging, tRNA incorporation and virion assembly.
+CC       {ECO:0000269|PubMed:11044125, ECO:0000269|PubMed:17070549,
+CC       ECO:0000269|PubMed:18343475, ECO:0000269|PubMed:20828778,
+CC       ECO:0000269|PubMed:9931246}.
+CC   -!- FUNCTION: [Protease]: Aspartyl protease that mediates proteolytic
+CC       cleavages of Gag and Gag-Pol polyproteins during or shortly after the
+CC       release of the virion from the plasma membrane (PubMed:11932404,
+CC       PubMed:9573231). Cleavages take place as an ordered, step-wise cascade
+CC       to yield mature proteins (PubMed:11932404, PubMed:9573231). This
+CC       process is called maturation (PubMed:11932404, PubMed:9573231).
+CC       Displays maximal activity during the budding process just prior to
+CC       particle release from the cell (PubMed:11932404, PubMed:9573231). Also
+CC       cleaves Nef and Vif, probably concomitantly with viral structural
+CC       proteins on maturation of virus particles (PubMed:7835426). Hydrolyzes
+CC       host EIF4GI and PABP1 in order to shut off the capped cellular mRNA
+CC       translation. The resulting inhibition of cellular protein synthesis
+CC       serves to ensure maximal viral gene expression and to evade host immune
+CC       response (PubMed:12660176, PubMed:19914170). Also mediates cleavage of
+CC       host YTHDF3 (PubMed:32053707). Mediates cleavage of host CARD8, thereby
+CC       activating the CARD8 inflammasome, leading to the clearance of latent
+CC       HIV-1 in patient CD4(+) T-cells after viral reactivation; in contrast,
+CC       HIV-1 can evade CARD8-sensing when its protease remains inactive in
+CC       infected cells prior to viral budding (PubMed:33542150).
+CC       {ECO:0000255|PROSITE-ProRule:PRU00275, ECO:0000269|PubMed:12505164,
+CC       ECO:0000269|PubMed:19956697, ECO:0000269|PubMed:32053707,
+CC       ECO:0000269|PubMed:33542150, ECO:0000269|PubMed:7835426}.
+CC   -!- FUNCTION: [Reverse transcriptase/ribonuclease H]: Multifunctional
+CC       enzyme that converts the viral RNA genome into dsDNA in the cytoplasm,
+CC       shortly after virus entry into the cell. This enzyme displays a DNA
+CC       polymerase activity that can copy either DNA or RNA templates, and a
+CC       ribonuclease H (RNase H) activity that cleaves the RNA strand of RNA-
+CC       DNA heteroduplexes in a partially processive 3' to 5' endonucleasic
+CC       mode. Conversion of viral genomic RNA into dsDNA requires many steps. A
+CC       tRNA(3)-Lys binds to the primer-binding site (PBS) situated at the 5'-
+CC       end of the viral RNA. RT uses the 3' end of the tRNA primer to perform
+CC       a short round of RNA-dependent minus-strand DNA synthesis. The reading
+CC       proceeds through the U5 region and ends after the repeated (R) region
+CC       which is present at both ends of viral RNA. The portion of the RNA-DNA
+CC       heteroduplex is digested by the RNase H, resulting in a ssDNA product
+CC       attached to the tRNA primer. This ssDNA/tRNA hybridizes with the
+CC       identical R region situated at the 3' end of viral RNA. This template
+CC       exchange, known as minus-strand DNA strong stop transfer, can be either
+CC       intra- or intermolecular. RT uses the 3' end of this newly synthesized
+CC       short ssDNA to perform the RNA-dependent minus-strand DNA synthesis of
+CC       the whole template. RNase H digests the RNA template except for two
+CC       polypurine tracts (PPTs) situated at the 5'-end and near the center of
+CC       the genome. It is not clear if both polymerase and RNase H activities
+CC       are simultaneous. RNase H probably can proceed both in a polymerase-
+CC       dependent (RNA cut into small fragments by the same RT performing DNA
+CC       synthesis) and a polymerase-independent mode (cleavage of remaining RNA
+CC       fragments by free RTs). Secondly, RT performs DNA-directed plus-strand
+CC       DNA synthesis using the PPTs that have not been removed by RNase H as
+CC       primers. PPTs and tRNA primers are then removed by RNase H. The 3' and
+CC       5' ssDNA PBS regions hybridize to form a circular dsDNA intermediate.
+CC       Strand displacement synthesis by RT to the PBS and PPT ends produces a
+CC       blunt ended, linear dsDNA copy of the viral genome that includes long
+CC       terminal repeats (LTRs) at both ends. {ECO:0000269|PubMed:16221683}.
+CC   -!- FUNCTION: [Integrase]: Catalyzes viral DNA integration into the host
+CC       chromosome, by performing a series of DNA cutting and joining
+CC       reactions. This enzyme activity takes place after virion entry into a
+CC       cell and reverse transcription of the RNA genome in dsDNA. The first
+CC       step in the integration process is 3' processing. This step requires a
+CC       complex comprising the viral genome, matrix protein, Vpr and integrase.
+CC       This complex is called the pre-integration complex (PIC). The integrase
+CC       protein removes 2 nucleotides from each 3' end of the viral DNA,
+CC       leaving recessed CA OH's at the 3' ends. In the second step, the PIC
+CC       enters cell nucleus. This process is mediated through integrase and Vpr
+CC       proteins, and allows the virus to infect a non dividing cell. This
+CC       ability to enter the nucleus is specific of lentiviruses, other
+CC       retroviruses cannot and rely on cell division to access cell
+CC       chromosomes. In the third step, termed strand transfer, the integrase
+CC       protein joins the previously processed 3' ends to the 5' ends of
+CC       strands of target cellular DNA at the site of integration. The 5'-ends
+CC       are produced by integrase-catalyzed staggered cuts, 5 bp apart. A Y-
+CC       shaped, gapped, recombination intermediate results, with the 5'-ends of
+CC       the viral DNA strands and the 3' ends of target DNA strands remaining
+CC       unjoined, flanking a gap of 5 bp. The last step is viral DNA
+CC       integration into host chromosome. This involves host DNA repair
+CC       synthesis in which the 5 bp gaps between the unjoined strands are
+CC       filled in and then ligated. Since this process occurs at both cuts
+CC       flanking the HIV genome, a 5 bp duplication of host DNA is produced at
+CC       the ends of HIV-1 integration. Alternatively, Integrase may catalyze
+CC       the excision of viral DNA just after strand transfer, this is termed
+CC       disintegration. {ECO:0000269|PubMed:20554775,
+CC       ECO:0000269|PubMed:2349226}.
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Specific for a P1 residue that is hydrophobic, and P1'
+CC         variable, but often Pro.; EC=3.4.23.16;
+CC         Evidence={ECO:0000255|PROSITE-ProRule:PRU00275,
+CC         ECO:0000269|PubMed:32053707, ECO:0000269|PubMed:33542150};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=Endohydrolysis of RNA in RNA/DNA hybrids. Three different
+CC         cleavage modes: 1. sequence-specific internal cleavage of RNA. Human
+CC         immunodeficiency virus type 1 and Moloney murine leukemia virus
+CC         enzymes prefer to cleave the RNA strand one nucleotide away from the
+CC         RNA-DNA junction. 2. RNA 5'-end directed cleavage 13-19 nucleotides
+CC         from the RNA end. 3. DNA 3'-end directed cleavage 15-20 nucleotides
+CC         away from the primer terminus.; EC=3.1.26.13;
+CC         Evidence={ECO:0000250|UniProtKB:P03366};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=3'-end directed exonucleolytic cleavage of viral RNA-DNA
+CC         hybrid.; EC=3.1.13.2;
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=DNA(n) + a 2'-deoxyribonucleoside 5'-triphosphate = DNA(n+1) +
+CC         diphosphate; Xref=Rhea:RHEA:22508, Rhea:RHEA-COMP:17339, Rhea:RHEA-
+CC         COMP:17340, ChEBI:CHEBI:33019, ChEBI:CHEBI:61560, ChEBI:CHEBI:173112;
+CC         EC=2.7.7.49; Evidence={ECO:0000255|PROSITE-ProRule:PRU00405};
+CC   -!- CATALYTIC ACTIVITY:
+CC       Reaction=DNA(n) + a 2'-deoxyribonucleoside 5'-triphosphate = DNA(n+1) +
+CC         diphosphate; Xref=Rhea:RHEA:22508, Rhea:RHEA-COMP:17339, Rhea:RHEA-
+CC         COMP:17340, ChEBI:CHEBI:33019, ChEBI:CHEBI:61560, ChEBI:CHEBI:173112;
+CC         EC=2.7.7.7; Evidence={ECO:0000255|PROSITE-ProRule:PRU00405};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Note=Binds 2 magnesium ions for reverse transcriptase polymerase
+CC       activity. {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Note=Binds 2 magnesium ions for ribonuclease H (RNase H) activity.
+CC       Substrate-binding is a precondition for magnesium binding.
+CC       {ECO:0000250};
+CC   -!- COFACTOR:
+CC       Name=Mg(2+); Xref=ChEBI:CHEBI:18420; Evidence={ECO:0000250};
+CC       Note=Magnesium ions are required for integrase activity. Binds at least
+CC       1, maybe 2 magnesium ions. {ECO:0000250};
+CC   -!- ACTIVITY REGULATION: Protease: The viral protease is inhibited by many
+CC       synthetic protease inhibitors (PIs), such as amprenavir, atazanavir,
+CC       indinavir, loprinavir, nelfinavir, ritonavir and saquinavir. Use of
+CC       protease inhibitors in tritherapy regimens permit more ambitious
+CC       therapeutic strategies. Reverse transcriptase/ribonuclease H: RT can be
+CC       inhibited either by nucleoside RT inhibitors (NRTIs) or by non
+CC       nucleoside RT inhibitors (NNRTIs). NRTIs act as chain terminators,
+CC       whereas NNRTIs inhibit DNA polymerization by binding a small
+CC       hydrophobic pocket near the RT active site and inducing an allosteric
+CC       change in this region. Classical NRTIs are abacavir, adefovir (PMEA),
+CC       didanosine (ddI), lamivudine (3TC), stavudine (d4T), tenofovir (PMPA),
+CC       zalcitabine (ddC), and zidovudine (AZT). Classical NNRTIs are
+CC       atevirdine (BHAP U-87201E), delavirdine, efavirenz (DMP-266), emivirine
+CC       (I-EBU), and nevirapine (BI-RG-587). The tritherapies used as a basic
+CC       effective treatment of AIDS associate two NRTIs and one NNRTI.
+CC   -!- SUBUNIT: [Matrix protein p17]: Homotrimer; further assembles as
+CC       hexamers of trimers (PubMed:19327811). Interacts with gp41 (via C-
+CC       terminus) (By similarity). Interacts with host CALM1; this interaction
+CC       induces a conformational change in the Matrix protein, triggering
+CC       exposure of the myristate group (PubMed:24500712). Interacts with host
+CC       AP3D1; this interaction allows the polyprotein trafficking to
+CC       multivesicular bodies during virus assembly (By similarity). Part of
+CC       the pre-integration complex (PIC) which is composed of viral genome,
+CC       matrix protein, Vpr and integrase (By similarity).
+CC       {ECO:0000250|UniProtKB:P12497, ECO:0000269|PubMed:19327811,
+CC       ECO:0000269|PubMed:24500712}.
+CC   -!- SUBUNIT: [Capsid protein p24]: Homodimer; the homodimer further
+CC       multimerizes as homohexamers or homopentamers (PubMed:19914170).
+CC       Interacts with human PPIA/CYPA (PubMed:9223641, PubMed:8513493); this
+CC       interaction stabilizes the capsid. Interacts with human NUP153 (By
+CC       similarity). Interacts with host PDZD8; this interaction stabilizes the
+CC       capsid (PubMed:20573829). Interacts with monkey TRIM5; this interaction
+CC       destabilizes the capsid (PubMed:23785198).
+CC       {ECO:0000250|UniProtKB:P12497, ECO:0000269|PubMed:19914170,
+CC       ECO:0000269|PubMed:20573829, ECO:0000269|PubMed:23785198,
+CC       ECO:0000269|PubMed:8513493, ECO:0000269|PubMed:9223641}.
+CC   -!- SUBUNIT: [Protease]: Homodimer, whose active site consists of two
+CC       apposed aspartic acid residues (PubMed:2162350, PubMed:24132393).
+CC       {ECO:0000269|PubMed:2162350, ECO:0000269|PubMed:24132393}.
+CC   -!- SUBUNIT: [Reverse transcriptase/ribonuclease H]: Heterodimer of p66 RT
+CC       and p51 RT (RT p66/p51) (PubMed:15183348). Heterodimerization of RT is
+CC       essential for DNA polymerase activity (By similarity). The overall
+CC       folding of the subdomains is similar in p66 RT and p51 RT but the
+CC       spatial arrangements of the subdomains are dramatically different (By
+CC       similarity). {ECO:0000250|UniProtKB:P03366,
+CC       ECO:0000269|PubMed:15183348}.
+CC   -!- SUBUNIT: [Integrase]: Homotetramer; may further associate as a
+CC       homohexadecamer (By similarity). Part of the pre-integration complex
+CC       (PIC) which is composed of viral genome, matrix protein, Vpr and
+CC       integrase. Interacts with human SMARCB1/INI1 and human PSIP1/LEDGF
+CC       isoform 1 (PubMed:7801128). Interacts with human KPNA3; this
+CC       interaction might play a role in nuclear import of the pre-.
+CC       integration complex (PubMed:19914170). Interacts with human NUP153;
+CC       this interaction might play a role in nuclear import of the pre-
+CC       integration complex (By similarity). {ECO:0000250|UniProtKB:P03367,
+CC       ECO:0000250|UniProtKB:P12497, ECO:0000269|PubMed:19914170,
+CC       ECO:0000269|PubMed:7801128}.
+CC   -!- INTERACTION:
+CC       P04585; P04585: gag-pol; NbExp=29; IntAct=EBI-3989067, EBI-3989067;
+CC       P04585; P03366: gag-pol; Xeno; NbExp=2; IntAct=EBI-3989067, EBI-6164084;
+CC       P04585; O75475: PSIP1; Xeno; NbExp=21; IntAct=EBI-3989067, EBI-1801773;
+CC       P04585; P69718: rev; Xeno; NbExp=8; IntAct=EBI-3989067, EBI-8540156;
+CC       PRO_0000042440; PRO_0000042440 [P04585]: gag-pol; NbExp=5; IntAct=EBI-2504097, EBI-2504097;
+CC       PRO_0000042447; O00629: KPNA4; Xeno; NbExp=4; IntAct=EBI-9872653, EBI-396343;
+CC       PRO_0000042447; O75475-1: PSIP1; Xeno; NbExp=2; IntAct=EBI-9872653, EBI-5279836;
+CC       PRO_0000042447; Q12824: SMARCB1; Xeno; NbExp=3; IntAct=EBI-9872653, EBI-358419;
+CC       PRO_0000042447; Q9Y5L0: TNPO3; Xeno; NbExp=6; IntAct=EBI-9872653, EBI-1042571;
+CC   -!- SUBCELLULAR LOCATION: [Gag-Pol polyprotein]: Host cell membrane; Lipid-
+CC       anchor {ECO:0000250|UniProtKB:P12493}. Host endosome, host
+CC       multivesicular body {ECO:0000250|UniProtKB:P12493}. Note=These
+CC       locations are linked to virus assembly sites. The main location is the
+CC       cell membrane, but under some circumstances, late endosomal
+CC       compartments can serve as productive sites for virion assembly.
+CC       {ECO:0000250|UniProtKB:P12493}.
+CC   -!- SUBCELLULAR LOCATION: [Matrix protein p17]: Virion membrane; Lipid-
+CC       anchor {ECO:0000305}. Host nucleus {ECO:0000250}. Host cytoplasm
+CC       {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: [Capsid protein p24]: Virion {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: [Nucleocapsid protein p7]: Virion {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: [Reverse transcriptase/ribonuclease H]: Virion
+CC       {ECO:0000305}.
+CC   -!- SUBCELLULAR LOCATION: [Integrase]: Virion {ECO:0000305}. Host nucleus
+CC       {ECO:0000269|PubMed:18722123}. Host cytoplasm {ECO:0000305}.
+CC       Note=Nuclear at initial phase, cytoplasmic at assembly. {ECO:0000305}.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Ribosomal frameshifting; Named isoforms=2;
+CC         Comment=Translation results in the formation of the Gag polyprotein
+CC         most of the time. Ribosomal frameshifting at the gag-pol genes
+CC         boundary occurs at low frequency and produces the Gag-Pol
+CC         polyprotein. This strategy of translation probably allows the virus
+CC         to modulate the quantity of each viral protein. Maintenance of a
+CC         correct Gag to Gag-Pol ratio is essential for RNA dimerization and
+CC         viral infectivity.;
+CC       Name=Gag-Pol polyprotein;
+CC         IsoId=P04585-1; Sequence=Displayed;
+CC       Name=Gag polyprotein;
+CC         IsoId=P04591-1; Sequence=External;
+CC   -!- DOMAIN: [Reverse transcriptase/ribonuclease H]: RT is structured in
+CC       five subdomains: finger, palm, thumb, connection and RNase H. Within
+CC       the palm subdomain, the 'primer grip' region is thought to be involved
+CC       in the positioning of the primer terminus for accommodating the
+CC       incoming nucleotide. The RNase H domain stabilizes the association of
+CC       RT with primer-template (By similarity). {ECO:0000250}.
+CC   -!- DOMAIN: [Reverse transcriptase/ribonuclease H]: The tryptophan repeat
+CC       motif is involved in RT p66/p51 dimerization.
+CC   -!- DOMAIN: [Integrase]: The core domain contains the D-x(n)-D-x(35)-E
+CC       motif, named for the phylogenetically conserved glutamic acid and
+CC       aspartic acid residues and the invariant 35 amino acid spacing between
+CC       the second and third acidic residues. Each acidic residue of the
+CC       D,D(35)E motif is independently essential for the 3'-processing and
+CC       strand transfer activities of purified integrase protein.
+CC   -!- PTM: [Gag-Pol polyprotein]: Specific enzymatic cleavages by the viral
+CC       protease yield mature proteins. The protease is released by
+CC       autocatalytic cleavage. The polyprotein is cleaved during and after
+CC       budding, this process is termed maturation. Proteolytic cleavage of p66
+CC       RT removes the RNase H domain to yield the p51 RT subunit. Nucleocapsid
+CC       protein p7 might be further cleaved after virus entry.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00405, ECO:0000269|PubMed:10494040,
+CC       ECO:0000269|PubMed:12477841, ECO:0000269|PubMed:15065874}.
+CC   -!- PTM: [Matrix protein p17]: Tyrosine phosphorylated presumably in the
+CC       virion by a host kinase. Phosphorylation is apparently not a major
+CC       regulator of membrane association (PubMed:17656588).
+CC       {ECO:0000269|PubMed:17656588}.
+CC   -!- PTM: [Capsid protein p24]: Phosphorylated possibly by host MAPK1; this
+CC       phosphorylation is necessary for Pin1-mediated virion uncoating.
+CC       {ECO:0000250|UniProtKB:P12493}.
+CC   -!- PTM: [Nucleocapsid protein p7]: Methylated by host PRMT6, impairing its
+CC       function by reducing RNA annealing and the initiation of reverse
+CC       transcription. {ECO:0000250|UniProtKB:P03366}.
+CC   -!- MISCELLANEOUS: [Reverse transcriptase/ribonuclease H]: Error-prone
+CC       enzyme that lacks a proof-reading function. High mutations rate is a
+CC       direct consequence of this characteristic. RT also displays frequent
+CC       template switching leading to high recombination rate. Recombination
+CC       mostly occurs between homologous regions of the two copackaged RNA
+CC       genomes. If these two RNA molecules derive from different viral
+CC       strains, reverse transcription will give rise to highly recombinated
+CC       proviral DNAs.
+CC   -!- MISCELLANEOUS: HIV-1 lineages are divided in three main groups, M (for
+CC       Major), O (for Outlier), and N (for New, or Non-M, Non-O). The vast
+CC       majority of strains found worldwide belong to the group M. Group O
+CC       seems to be endemic to and largely confined to Cameroon and neighboring
+CC       countries in West Central Africa, where these viruses represent a small
+CC       minority of HIV-1 strains. The group N is represented by a limited
+CC       number of isolates from Cameroonian persons. The group M is further
+CC       subdivided in 9 clades or subtypes (A to D, F to H, J and K).
+CC   -!- MISCELLANEOUS: Resistance to inhibitors associated with mutations are
+CC       observed both in viral protease and in reverse transcriptase. Most of
+CC       the time, single mutations confer only a modest reduction in drug
+CC       susceptibility. Combination of several mutations is usually required to
+CC       develop a high-level drug resistance. These mutations are predominantly
+CC       found in clade B viruses and not in other genotypes. They are listed in
+CC       this entry which is a representative of clade B.
+CC   -!- MISCELLANEOUS: [Isoform Gag-Pol polyprotein]: Produced by -1 ribosomal
+CC       frameshifting.
+CC   -!- WEB RESOURCE: Name=HIV drug resistance mutations;
+CC       URL="https://www.iasusa.org/hiv-drug-resistance/hiv-drug-resistance-mutations/";
+CC   -!- WEB RESOURCE: Name=hivdb; Note=HIV drug resistance database;
+CC       URL="https://hivdb.stanford.edu";
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; K03455; AAB50259.1; ALT_SEQ; Genomic_RNA.
+DR   EMBL; AF033819; AAC82598.2; ALT_SEQ; Genomic_RNA.
+DR   RefSeq; NP_057849.4; NC_001802.1.
+DR   PDB; 1A30; X-ray; 2.00 A; A/B=489-587.
+DR   PDB; 1BV7; X-ray; 2.00 A; A/B=489-587.
+DR   PDB; 1BV9; X-ray; 2.00 A; A/B=489-587.
+DR   PDB; 1BVE; NMR; -; A/B=489-587.
+DR   PDB; 1BVG; NMR; -; A/B=489-587.
+DR   PDB; 1BWA; X-ray; 1.90 A; A/B=489-587.
+DR   PDB; 1BWB; X-ray; 1.80 A; A/B=489-587.
+DR   PDB; 1C0T; X-ray; 2.70 A; A=588-1147, B=588-1027.
+DR   PDB; 1C0U; X-ray; 2.52 A; A=588-1147, B=588-1027.
+DR   PDB; 1C1B; X-ray; 2.50 A; A=588-1147, B=588-1027.
+DR   PDB; 1C1C; X-ray; 2.50 A; A=588-1147, B=588-1027.
+DR   PDB; 1DMP; X-ray; 2.00 A; A/B=489-587.
+DR   PDB; 1DTQ; X-ray; 2.80 A; A=588-1147, B=588-1027.
+DR   PDB; 1DTT; X-ray; 3.00 A; A=588-1147, B=588-1027.
+DR   PDB; 1E6J; X-ray; 3.00 A; P=143-352.
+DR   PDB; 1EP4; X-ray; 2.50 A; A=588-1147, B=588-1027.
+DR   PDB; 1ESK; NMR; -; A=390-430.
+DR   PDB; 1EX4; X-ray; 2.80 A; A/B=1199-1435.
+DR   PDB; 1EXQ; X-ray; 1.60 A; A/B=1203-1356.
+DR   PDB; 1FB7; X-ray; 2.60 A; A=489-587.
+DR   PDB; 1FK9; X-ray; 2.50 A; A=588-1130, B=588-1027.
+DR   PDB; 1FKO; X-ray; 2.90 A; A=588-1130, B=588-1027.
+DR   PDB; 1FKP; X-ray; 2.90 A; A=588-1130, B=588-1027.
+DR   PDB; 1G6L; X-ray; 1.90 A; A=484-587.
+DR   PDB; 1HIV; X-ray; 2.00 A; A/B=489-587.
+DR   PDB; 1HVH; X-ray; 1.80 A; A/B=489-587.
+DR   PDB; 1HVR; X-ray; 1.80 A; A/B=489-587.
+DR   PDB; 1HWR; X-ray; 1.80 A; A/B=489-587.
+DR   PDB; 1HXB; X-ray; 2.30 A; A/B=489-587.
+DR   PDB; 1JKH; X-ray; 2.50 A; A=588-1147, B=588-1027.
+DR   PDB; 1JLA; X-ray; 2.50 A; A=588-1147, B=588-1027.
+DR   PDB; 1JLB; X-ray; 3.00 A; A=588-1147, B=588-1027.
+DR   PDB; 1JLC; X-ray; 3.00 A; A=588-1147, B=588-1027.
+DR   PDB; 1JLE; X-ray; 2.80 A; A=588-1147, B=588-1027.
+DR   PDB; 1JLF; X-ray; 2.60 A; A=588-1147, B=588-1027.
+DR   PDB; 1JLG; X-ray; 2.60 A; A=588-1147, B=588-1027.
+DR   PDB; 1JLQ; X-ray; 3.00 A; A=588-1147, B=588-1027.
+DR   PDB; 1KLM; X-ray; 2.65 A; A=588-1147, B=588-1027.
+DR   PDB; 1LV1; X-ray; 2.10 A; A=484-587.
+DR   PDB; 1LW0; X-ray; 2.80 A; A=588-1147, B=588-1027.
+DR   PDB; 1LW2; X-ray; 3.00 A; A=588-1147, B=588-1027.
+DR   PDB; 1LWC; X-ray; 2.62 A; A=588-1147, B=588-1027.
+DR   PDB; 1LWE; X-ray; 2.81 A; A=588-1147, B=588-1027.
+DR   PDB; 1LWF; X-ray; 2.80 A; A=588-1147, B=588-1027.
+DR   PDB; 1NCP; NMR; -; N=390-406.
+DR   PDB; 1O1W; NMR; -; A=1014-1147.
+DR   PDB; 1ODW; X-ray; 2.10 A; A/B=489-587.
+DR   PDB; 1ODY; X-ray; 2.00 A; A/B=489-587.
+DR   PDB; 1QBR; X-ray; 1.80 A; A/B=489-587.
+DR   PDB; 1QBS; X-ray; 1.80 A; A/B=489-587.
+DR   PDB; 1QBT; X-ray; 2.10 A; A/B=489-587.
+DR   PDB; 1QBU; X-ray; 1.80 A; A/B=489-587.
+DR   PDB; 1REV; X-ray; 2.60 A; A=588-1147, B=588-1027.
+DR   PDB; 1RT1; X-ray; 2.55 A; A=588-1147, B=588-1027.
+DR   PDB; 1RT2; X-ray; 2.55 A; A=588-1147, B=588-1027.
+DR   PDB; 1RT3; X-ray; 3.00 A; A=588-1147, B=588-1027.
+DR   PDB; 1RT4; X-ray; 2.90 A; A=588-1147, B=588-1027.
+DR   PDB; 1RT5; X-ray; 2.90 A; A=588-1147, B=588-1027.
+DR   PDB; 1RT6; X-ray; 2.80 A; A=588-1147, B=588-1027.
+DR   PDB; 1RT7; X-ray; 3.00 A; A=588-1147, B=588-1027.
+DR   PDB; 1RTD; X-ray; 3.20 A; B/D=588-1027.
+DR   PDB; 1RTH; X-ray; 2.20 A; A=588-1147, B=588-1027.
+DR   PDB; 1RTI; X-ray; 3.00 A; A=588-1147, B=588-1027.
+DR   PDB; 1RTJ; X-ray; 2.35 A; A=588-1147, B=588-1027.
+DR   PDB; 1S1T; X-ray; 2.40 A; A=588-1147, B=588-1027.
+DR   PDB; 1S1U; X-ray; 3.00 A; A=588-1147, B=588-1027.
+DR   PDB; 1S1V; X-ray; 2.60 A; A=588-1147, B=588-1027.
+DR   PDB; 1S1W; X-ray; 2.70 A; A=588-1147, B=588-1027.
+DR   PDB; 1S1X; X-ray; 2.80 A; A=588-1147, B=588-1027.
+DR   PDB; 1T05; X-ray; 3.00 A; B=588-1016.
+DR   PDB; 1TAM; NMR; -; A=1-132.
+DR   PDB; 1TKT; X-ray; 2.60 A; A=588-1147, B=588-1027.
+DR   PDB; 1TKX; X-ray; 2.85 A; A=588-1147, B=588-1027.
+DR   PDB; 1TKZ; X-ray; 2.81 A; A=588-1147, B=588-1027.
+DR   PDB; 1TL1; X-ray; 2.90 A; A=588-1147, B=588-1027.
+DR   PDB; 1TL3; X-ray; 2.80 A; A=588-1147, B=588-1027.
+DR   PDB; 1VRT; X-ray; 2.20 A; A=588-1147, B=588-1027.
+DR   PDB; 1VRU; X-ray; 2.40 A; A=588-1147, B=588-1027.
+DR   PDB; 2HND; X-ray; 2.50 A; A=591-1124.
+DR   PDB; 2HNY; X-ray; 2.50 A; A=591-1124.
+DR   PDB; 2HNZ; X-ray; 3.00 A; A=591-1124, B=594-1015.
+DR   PDB; 2KOD; NMR; -; A/B=276-363.
+DR   PDB; 2NPH; X-ray; 1.65 A; A/B=489-587.
+DR   PDB; 2OPP; X-ray; 2.55 A; A=591-1132, B=592-1018.
+DR   PDB; 2OPQ; X-ray; 2.80 A; A=591-1124, B=592-1015.
+DR   PDB; 2OPR; X-ray; 2.90 A; A=589-1135, B=593-1018.
+DR   PDB; 2OPS; X-ray; 2.30 A; A=589-1130, B=593-1027.
+DR   PDB; 2RF2; X-ray; 2.40 A; A=588-1147, B=588-1027.
+DR   PDB; 2RKI; X-ray; 2.30 A; A=588-1147, B=588-1027.
+DR   PDB; 2WHH; X-ray; 1.69 A; A=489-587.
+DR   PDB; 2WOM; X-ray; 3.20 A; A=588-1147, B=588-1027.
+DR   PDB; 2WON; X-ray; 2.80 A; A=588-1147, B=588-1027.
+DR   PDB; 2YNF; X-ray; 2.36 A; A=588-1147, B=588-1015.
+DR   PDB; 2YNG; X-ray; 2.12 A; A=588-1147, B=588-1015.
+DR   PDB; 2YNH; X-ray; 2.90 A; A=588-1147, B=588-1015.
+DR   PDB; 2YNI; X-ray; 2.49 A; A=588-1147, B=588-1015.
+DR   PDB; 3AO2; X-ray; 1.80 A; A/B=1197-1359.
+DR   PDB; 3C6T; X-ray; 2.70 A; A=588-1147, B=588-1027.
+DR   PDB; 3C6U; X-ray; 2.70 A; A=588-1147, B=588-1027.
+DR   PDB; 3DI6; X-ray; 2.65 A; A=588-1148, B=588-1027.
+DR   PDB; 3DLE; X-ray; 2.50 A; A=588-1147, B=588-1027.
+DR   PDB; 3DLG; X-ray; 2.20 A; A=588-1147, B=588-1027.
+DR   PDB; 3DM2; X-ray; 3.10 A; A=588-1147, B=588-1027.
+DR   PDB; 3DMJ; X-ray; 2.60 A; A=588-1147, B=588-1027.
+DR   PDB; 3DOK; X-ray; 2.90 A; A=588-1147, B=588-1027.
+DR   PDB; 3DOL; X-ray; 2.50 A; A=588-1147, B=588-1027.
+DR   PDB; 3DOX; X-ray; 2.00 A; A=484-587.
+DR   PDB; 3DRP; X-ray; 2.60 A; A=588-1147, B=588-1027.
+DR   PDB; 3DRR; X-ray; 2.89 A; A=588-1147, B=588-1027.
+DR   PDB; 3DRS; X-ray; 3.15 A; A=588-1147, B=588-1027.
+DR   PDB; 3DYA; X-ray; 2.30 A; A=588-1148, B=588-1027.
+DR   PDB; 3E01; X-ray; 2.95 A; A=588-1148, B=588-1027.
+DR   PDB; 3FFI; X-ray; 2.60 A; A=588-1147, B=588-1027.
+DR   PDB; 3I0R; X-ray; 2.98 A; A=588-1147, B=588-1027.
+DR   PDB; 3I0S; X-ray; 2.70 A; A=588-1147, B=588-1027.
+DR   PDB; 3KJV; X-ray; 3.10 A; A=588-1147, B=588-1027.
+DR   PDB; 3KK1; X-ray; 2.70 A; A=588-1147, B=588-1027.
+DR   PDB; 3KK2; X-ray; 2.90 A; A=588-1147, B=588-1027.
+DR   PDB; 3KK3; X-ray; 2.90 A; A=588-1147, B=588-1027.
+DR   PDB; 3KT2; X-ray; 1.65 A; A=484-587.
+DR   PDB; 3KT5; X-ray; 1.80 A; A=484-587.
+DR   PDB; 3LAK; X-ray; 2.30 A; A/B=588-1147.
+DR   PDB; 3LAL; X-ray; 2.51 A; A/B=588-1147.
+DR   PDB; 3LAM; X-ray; 2.76 A; A/B=588-1147.
+DR   PDB; 3LAN; X-ray; 2.55 A; A/B=588-1147.
+DR   PDB; 3LP0; X-ray; 2.79 A; A=588-1147, B=588-1027.
+DR   PDB; 3LP1; X-ray; 2.23 A; A=588-1147, B=588-1027.
+DR   PDB; 3LP2; X-ray; 2.80 A; A=588-1147, B=588-1027.
+DR   PDB; 3M8P; X-ray; 2.67 A; A=588-1148, B=588-1027.
+DR   PDB; 3M8Q; X-ray; 2.70 A; A=588-1148, B=588-1027.
+DR   PDB; 3MEC; X-ray; 2.30 A; A=588-1147, B=588-1027.
+DR   PDB; 3MED; X-ray; 2.50 A; A=588-1147, B=588-1027.
+DR   PDB; 3MEE; X-ray; 2.40 A; A=588-1147, B=588-1027.
+DR   PDB; 3MEG; X-ray; 2.80 A; A=588-1147, B=588-1027.
+DR   PDB; 3N3I; X-ray; 2.50 A; A=484-587.
+DR   PDB; 3NBP; X-ray; 2.95 A; A=588-1148, B=588-1027.
+DR   PDB; 3PHV; X-ray; 2.70 A; A=489-587.
+DR   PDB; 3QIN; X-ray; 1.70 A; A=1014-1103, A=1142-1148.
+DR   PDB; 3QIO; X-ray; 1.40 A; A=1014-1148.
+DR   PDB; 3QIP; X-ray; 2.09 A; A=588-1147, B=588-1027.
+DR   PDB; 3T19; X-ray; 2.60 A; A/B=588-1147.
+DR   PDB; 3T1A; X-ray; 2.40 A; A/B=588-1147.
+DR   PDB; 3TAM; X-ray; 2.51 A; A=590-1147, B=588-1027.
+DR   PDB; 4B3O; X-ray; 3.30 A; A=588-1145, B=588-1027.
+DR   PDB; 4B3P; X-ray; 4.84 A; A=588-1145, B=588-1027.
+DR   PDB; 4B3Q; X-ray; 5.00 A; A=588-1145, B=588-1027.
+DR   PDB; 4I7F; X-ray; 2.50 A; A=588-1147, B=588-1027.
+DR   PDB; 4KSE; X-ray; 2.68 A; B=588-1017.
+DR   PDB; 4KV8; X-ray; 2.30 A; A=588-1147, B=588-1027.
+DR   PDB; 4NCG; X-ray; 2.58 A; A=588-1147, B=585-1027.
+DR   PDB; 4Q1W; X-ray; 1.85 A; A/B=496-587.
+DR   PDB; 4Q1X; X-ray; 1.90 A; A/B=496-587.
+DR   PDB; 4Q1Y; X-ray; 1.50 A; A/B=496-587.
+DR   PDB; 4Q5M; X-ray; 1.79 A; A=484-587.
+DR   PDB; 4QLH; X-ray; 2.45 A; A=489-592.
+DR   PDB; 4U1H; X-ray; 1.59 A; C=180-188.
+DR   PDB; 4U1I; X-ray; 1.92 A; C=180-188.
+DR   PDB; 4U1J; X-ray; 1.38 A; C=180-188.
+DR   PDB; 4U7Q; X-ray; 1.70 A; A/B=496-587.
+DR   PDB; 4U7V; X-ray; 1.38 A; A/B=496-587.
+DR   PDB; 5DGU; X-ray; 1.22 A; A/B=496-587.
+DR   PDB; 5DGW; X-ray; 1.62 A; A/B=496-587.
+DR   PDB; 5EU7; X-ray; 2.64 A; A/B=1204-1356.
+DR   PDB; 5HRN; X-ray; 1.75 A; A=1197-1359.
+DR   PDB; 5HRP; X-ray; 1.81 A; A=1197-1359.
+DR   PDB; 5HRR; X-ray; 1.88 A; A=1197-1359.
+DR   PDB; 5HRS; X-ray; 1.86 A; A=1197-1359.
+DR   PDB; 5IM7; X-ray; 2.50 A; E/F=308-316.
+DR   PDB; 5J2M; X-ray; 2.43 A; A=588-1147, B=588-1027.
+DR   PDB; 5J2N; X-ray; 2.90 A; A=588-1147, B=588-1027.
+DR   PDB; 5J2P; X-ray; 2.53 A; A=588-1147, B=588-1027.
+DR   PDB; 5J2Q; X-ray; 2.79 A; A=588-1147, B=588-1027.
+DR   PDB; 5K14; X-ray; 2.40 A; A=588-1147.
+DR   PDB; 5KAO; X-ray; 1.80 A; A/B=489-587.
+DR   PDB; 5T82; NMR; -; A=824-905.
+DR   PDB; 5TC2; X-ray; 1.84 A; A/B=1366-1420.
+DR   PDB; 5VZ6; X-ray; 2.60 A; A=585-1147, B=585-1027.
+DR   PDB; 5XOS; X-ray; 1.70 A; C=880-888.
+DR   PDB; 5XOT; X-ray; 2.79 A; C=880-888.
+DR   PDB; 5YRS; X-ray; 1.76 A; A/B=489-587.
+DR   PDB; 6BJ2; X-ray; 3.35 A; C=880-888.
+DR   PDB; 6BJ3; X-ray; 1.90 A; C=880-888.
+DR   PDB; 6BSG; X-ray; 2.44 A; A=588-1144, B=588-1027.
+DR   PDB; 6BSH; X-ray; 2.65 A; A=588-1144, B=588-1027.
+DR   PDB; 6BSI; X-ray; 3.25 A; A=588-1144, B=588-1027.
+DR   PDB; 6BSJ; X-ray; 2.89 A; A=588-1144, B=588-1027.
+DR   PDB; 6DIF; X-ray; 1.20 A; A/B=489-587.
+DR   PDB; 6DIL; X-ray; 1.48 A; A/B=489-587.
+DR   PDB; 6DJ1; X-ray; 1.26 A; A/B=489-587.
+DR   PDB; 6DJ2; X-ray; 1.36 A; A/B=489-587.
+DR   PDB; 6DJ5; X-ray; 1.75 A; A/B=489-587.
+DR   PDB; 6DJ7; X-ray; 1.31 A; A/B=489-587.
+DR   PDB; 6DV0; X-ray; 1.20 A; A/B=489-587.
+DR   PDB; 6DV4; X-ray; 1.14 A; A/B=489-587.
+DR   PDB; 6E7J; X-ray; 1.30 A; A/B=489-587.
+DR   PDB; 6E9A; X-ray; 1.22 A; A/B=489-587.
+DR   PDB; 6EWA; X-ray; 2.39 A; C/G=896-904.
+DR   PDB; 6EX9; X-ray; 2.01 A; A=1204-1355.
+DR   PDB; 6GL1; X-ray; 2.62 A; P/Q/R/T=275-283.
+DR   PDB; 6J1V; X-ray; 2.00 A; C=745-753.
+DR   PDB; 6J1W; X-ray; 1.50 A; C=745-753.
+DR   PDB; 6OR7; X-ray; 2.53 A; A=588-1147, B=588-1027.
+DR   PDB; 6OTZ; X-ray; 2.86 A; A=588-1145, B=588-1027.
+DR   PDB; 6P1I; X-ray; 2.74 A; A=588-1147, B=588-1027.
+DR   PDB; 6P1X; X-ray; 2.55 A; A=588-1147, B=588-1027.
+DR   PDB; 6P2G; X-ray; 2.99 A; A=588-1147, B=588-1027.
+DR   PDB; 6PYL; X-ray; 1.52 A; C=263-272.
+DR   PDB; 6SKK; EM; 3.60 A; A/B/C/D/E/F=133-363.
+DR   PDB; 6SKM; EM; 4.90 A; A/B/C/D/E/F=133-363.
+DR   PDB; 6SKN; EM; 4.50 A; A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R=133-363.
+DR   PDB; 6SLQ; EM; 4.40 A; A/B/C/D/E/F=133-363.
+DR   PDB; 6SLU; EM; 4.70 A; A/B/C/D/E/F=133-363.
+DR   PDB; 6SMU; EM; 5.00 A; A/B/C/D/E/F=133-363.
+DR   PDB; 6UIR; X-ray; 2.64 A; A=588-1147, B=588-1027.
+DR   PDB; 6UIS; X-ray; 2.75 A; A=588-1147, B=588-1027.
+DR   PDB; 6UIT; X-ray; 2.81 A; A=588-1147, B=588-1027.
+DR   PDB; 6UJX; X-ray; 2.70 A; A=588-1147, B=588-1027.
+DR   PDB; 6UJY; X-ray; 2.59 A; A=588-1147, B=588-1027.
+DR   PDB; 6UJZ; X-ray; 2.56 A; A=588-1147, B=588-1027.
+DR   PDB; 6UK0; X-ray; 2.76 A; A=588-1147, B=588-1027.
+DR   PDB; 6VPZ; X-ray; 2.10 A; C=263-273.
+DR   PDB; 6VQ2; X-ray; 2.25 A; C=263-276.
+DR   PDB; 6VQD; X-ray; 1.88 A; C=263-270.
+DR   PDB; 6VQE; X-ray; 1.77 A; C=263-275.
+DR   PDB; 6VQY; X-ray; 2.57 A; F/G=263-269.
+DR   PDB; 6VQZ; X-ray; 2.25 A; F/G=263-268.
+DR   PDB; 6WAZ; EM; 4.10 A; B=588-1027.
+DR   PDB; 6WB1; EM; 4.70 A; B=588-1027.
+DR   PDB; 6WPF; X-ray; 2.53 A; A=588-1147, B=588-1027.
+DR   PDB; 6WPH; X-ray; 2.72 A; A=588-1147, B=588-1027.
+DR   PDB; 6WPJ; X-ray; 2.73 A; A=588-1147, B=588-1027.
+DR   PDB; 7DOZ; X-ray; 1.91 A; A=489-593.
+DR   PDB; 7DPQ; X-ray; 1.65 A; A=489-593.
+DR   PDB; 7DT9; X-ray; 1.89 A; A=489-593.
+DR   PDB; 7R7V; X-ray; 1.60 A; C=308-316.
+DR   PDB; 7R7X; X-ray; 2.10 A; E/F=308-316.
+DR   PDB; 7R80; X-ray; 2.90 A; E=308-316.
+DR   PDB; 7SLR; X-ray; 2.18 A; A/B=587-1147.
+DR   PDB; 7SLS; X-ray; 2.08 A; A/B=587-1147.
+DR   PDB; 7XIS; X-ray; 1.88 A; A=1014-1093, A=1103-1148.
+DR   PDB; 7XIT; X-ray; 2.18 A; A=1014-1093, A=1103-1148.
+DR   PDB; 7XIU; X-ray; 2.09 A; A=1014-1087, A=1103-1148.
+DR   PDB; 7XJ4; X-ray; 1.80 A; A=1014-1087, A=1103-1148.
+DR   PDB; 7XJ5; X-ray; 1.75 A; A=1014-1087, A=1103-1148.
+DR   PDB; 7XJ7; X-ray; 1.80 A; A=1014-1087, A=1103-1148.
+DR   PDB; 8ERX; X-ray; 2.07 A; C=745-753.
+DR   PDB; 8ESX; X-ray; 1.35 A; A/B=489-587.
+DR   PDB; 8ESY; X-ray; 1.35 A; A/B=489-587.
+DR   PDB; 8F0F; X-ray; 1.29 A; A/B=489-587.
+DR   PDB; 8F5A; X-ray; 1.95 A; E=240-249.
+DR   PDB; 8F7M; X-ray; 1.88 A; C=240-249.
+DR   PDB; 8FCC; X-ray; 2.57 A; A=588-1147, B=588-1027.
+DR   PDB; 8FCD; X-ray; 2.57 A; A=588-1147, B=588-1027.
+DR   PDB; 8FCE; X-ray; 2.77 A; A=588-1147, B=588-1027.
+DR   PDB; 8JYH; X-ray; 2.21 A; A=1014-1148.
+DR   PDB; 8JYI; X-ray; 1.92 A; A=1014-1148.
+DR   PDB; 8JYJ; X-ray; 2.01 A; A=1014-1148.
+DR   PDB; 8TCJ; X-ray; 1.85 A; B=588-1005.
+DR   PDB; 8TCK; X-ray; 2.20 A; B=588-1005.
+DR   PDB; 8TCL; X-ray; 1.95 A; B=588-1005.
+DR   PDB; 8TCM; X-ray; 1.82 A; B=588-1005.
+DR   PDBsum; 1A30; -.
+DR   PDBsum; 1BV7; -.
+DR   PDBsum; 1BV9; -.
+DR   PDBsum; 1BVE; -.
+DR   PDBsum; 1BVG; -.
+DR   PDBsum; 1BWA; -.
+DR   PDBsum; 1BWB; -.
+DR   PDBsum; 1C0T; -.
+DR   PDBsum; 1C0U; -.
+DR   PDBsum; 1C1B; -.
+DR   PDBsum; 1C1C; -.
+DR   PDBsum; 1DMP; -.
+DR   PDBsum; 1DTQ; -.
+DR   PDBsum; 1DTT; -.
+DR   PDBsum; 1E6J; -.
+DR   PDBsum; 1EP4; -.
+DR   PDBsum; 1ESK; -.
+DR   PDBsum; 1EX4; -.
+DR   PDBsum; 1EXQ; -.
+DR   PDBsum; 1FB7; -.
+DR   PDBsum; 1FK9; -.
+DR   PDBsum; 1FKO; -.
+DR   PDBsum; 1FKP; -.
+DR   PDBsum; 1G6L; -.
+DR   PDBsum; 1HIV; -.
+DR   PDBsum; 1HVH; -.
+DR   PDBsum; 1HVR; -.
+DR   PDBsum; 1HWR; -.
+DR   PDBsum; 1HXB; -.
+DR   PDBsum; 1JKH; -.
+DR   PDBsum; 1JLA; -.
+DR   PDBsum; 1JLB; -.
+DR   PDBsum; 1JLC; -.
+DR   PDBsum; 1JLE; -.
+DR   PDBsum; 1JLF; -.
+DR   PDBsum; 1JLG; -.
+DR   PDBsum; 1JLQ; -.
+DR   PDBsum; 1KLM; -.
+DR   PDBsum; 1LV1; -.
+DR   PDBsum; 1LW0; -.
+DR   PDBsum; 1LW2; -.
+DR   PDBsum; 1LWC; -.
+DR   PDBsum; 1LWE; -.
+DR   PDBsum; 1LWF; -.
+DR   PDBsum; 1NCP; -.
+DR   PDBsum; 1O1W; -.
+DR   PDBsum; 1ODW; -.
+DR   PDBsum; 1ODY; -.
+DR   PDBsum; 1QBR; -.
+DR   PDBsum; 1QBS; -.
+DR   PDBsum; 1QBT; -.
+DR   PDBsum; 1QBU; -.
+DR   PDBsum; 1REV; -.
+DR   PDBsum; 1RT1; -.
+DR   PDBsum; 1RT2; -.
+DR   PDBsum; 1RT3; -.
+DR   PDBsum; 1RT4; -.
+DR   PDBsum; 1RT5; -.
+DR   PDBsum; 1RT6; -.
+DR   PDBsum; 1RT7; -.
+DR   PDBsum; 1RTD; -.
+DR   PDBsum; 1RTH; -.
+DR   PDBsum; 1RTI; -.
+DR   PDBsum; 1RTJ; -.
+DR   PDBsum; 1S1T; -.
+DR   PDBsum; 1S1U; -.
+DR   PDBsum; 1S1V; -.
+DR   PDBsum; 1S1W; -.
+DR   PDBsum; 1S1X; -.
+DR   PDBsum; 1T05; -.
+DR   PDBsum; 1TAM; -.
+DR   PDBsum; 1TKT; -.
+DR   PDBsum; 1TKX; -.
+DR   PDBsum; 1TKZ; -.
+DR   PDBsum; 1TL1; -.
+DR   PDBsum; 1TL3; -.
+DR   PDBsum; 1VRT; -.
+DR   PDBsum; 1VRU; -.
+DR   PDBsum; 2HND; -.
+DR   PDBsum; 2HNY; -.
+DR   PDBsum; 2HNZ; -.
+DR   PDBsum; 2KOD; -.
+DR   PDBsum; 2NPH; -.
+DR   PDBsum; 2OPP; -.
+DR   PDBsum; 2OPQ; -.
+DR   PDBsum; 2OPR; -.
+DR   PDBsum; 2OPS; -.
+DR   PDBsum; 2RF2; -.
+DR   PDBsum; 2RKI; -.
+DR   PDBsum; 2WHH; -.
+DR   PDBsum; 2WOM; -.
+DR   PDBsum; 2WON; -.
+DR   PDBsum; 2YNF; -.
+DR   PDBsum; 2YNG; -.
+DR   PDBsum; 2YNH; -.
+DR   PDBsum; 2YNI; -.
+DR   PDBsum; 3AO2; -.
+DR   PDBsum; 3C6T; -.
+DR   PDBsum; 3C6U; -.
+DR   PDBsum; 3DI6; -.
+DR   PDBsum; 3DLE; -.
+DR   PDBsum; 3DLG; -.
+DR   PDBsum; 3DM2; -.
+DR   PDBsum; 3DMJ; -.
+DR   PDBsum; 3DOK; -.
+DR   PDBsum; 3DOL; -.
+DR   PDBsum; 3DOX; -.
+DR   PDBsum; 3DRP; -.
+DR   PDBsum; 3DRR; -.
+DR   PDBsum; 3DRS; -.
+DR   PDBsum; 3DYA; -.
+DR   PDBsum; 3E01; -.
+DR   PDBsum; 3FFI; -.
+DR   PDBsum; 3I0R; -.
+DR   PDBsum; 3I0S; -.
+DR   PDBsum; 3KJV; -.
+DR   PDBsum; 3KK1; -.
+DR   PDBsum; 3KK2; -.
+DR   PDBsum; 3KK3; -.
+DR   PDBsum; 3KT2; -.
+DR   PDBsum; 3KT5; -.
+DR   PDBsum; 3LAK; -.
+DR   PDBsum; 3LAL; -.
+DR   PDBsum; 3LAM; -.
+DR   PDBsum; 3LAN; -.
+DR   PDBsum; 3LP0; -.
+DR   PDBsum; 3LP1; -.
+DR   PDBsum; 3LP2; -.
+DR   PDBsum; 3M8P; -.
+DR   PDBsum; 3M8Q; -.
+DR   PDBsum; 3MEC; -.
+DR   PDBsum; 3MED; -.
+DR   PDBsum; 3MEE; -.
+DR   PDBsum; 3MEG; -.
+DR   PDBsum; 3N3I; -.
+DR   PDBsum; 3NBP; -.
+DR   PDBsum; 3PHV; -.
+DR   PDBsum; 3QIN; -.
+DR   PDBsum; 3QIO; -.
+DR   PDBsum; 3QIP; -.
+DR   PDBsum; 3T19; -.
+DR   PDBsum; 3T1A; -.
+DR   PDBsum; 3TAM; -.
+DR   PDBsum; 4B3O; -.
+DR   PDBsum; 4B3P; -.
+DR   PDBsum; 4B3Q; -.
+DR   PDBsum; 4I7F; -.
+DR   PDBsum; 4KSE; -.
+DR   PDBsum; 4KV8; -.
+DR   PDBsum; 4NCG; -.
+DR   PDBsum; 4Q1W; -.
+DR   PDBsum; 4Q1X; -.
+DR   PDBsum; 4Q1Y; -.
+DR   PDBsum; 4Q5M; -.
+DR   PDBsum; 4QLH; -.
+DR   PDBsum; 4U1H; -.
+DR   PDBsum; 4U1I; -.
+DR   PDBsum; 4U1J; -.
+DR   PDBsum; 4U7Q; -.
+DR   PDBsum; 4U7V; -.
+DR   PDBsum; 5DGU; -.
+DR   PDBsum; 5DGW; -.
+DR   PDBsum; 5EU7; -.
+DR   PDBsum; 5HRN; -.
+DR   PDBsum; 5HRP; -.
+DR   PDBsum; 5HRR; -.
+DR   PDBsum; 5HRS; -.
+DR   PDBsum; 5IM7; -.
+DR   PDBsum; 5J2M; -.
+DR   PDBsum; 5J2N; -.
+DR   PDBsum; 5J2P; -.
+DR   PDBsum; 5J2Q; -.
+DR   PDBsum; 5K14; -.
+DR   PDBsum; 5KAO; -.
+DR   PDBsum; 5T82; -.
+DR   PDBsum; 5TC2; -.
+DR   PDBsum; 5VZ6; -.
+DR   PDBsum; 5XOS; -.
+DR   PDBsum; 5XOT; -.
+DR   PDBsum; 5YRS; -.
+DR   PDBsum; 6BJ2; -.
+DR   PDBsum; 6BJ3; -.
+DR   PDBsum; 6BSG; -.
+DR   PDBsum; 6BSH; -.
+DR   PDBsum; 6BSI; -.
+DR   PDBsum; 6BSJ; -.
+DR   PDBsum; 6DIF; -.
+DR   PDBsum; 6DIL; -.
+DR   PDBsum; 6DJ1; -.
+DR   PDBsum; 6DJ2; -.
+DR   PDBsum; 6DJ5; -.
+DR   PDBsum; 6DJ7; -.
+DR   PDBsum; 6DV0; -.
+DR   PDBsum; 6DV4; -.
+DR   PDBsum; 6E7J; -.
+DR   PDBsum; 6E9A; -.
+DR   PDBsum; 6EWA; -.
+DR   PDBsum; 6EX9; -.
+DR   PDBsum; 6GL1; -.
+DR   PDBsum; 6J1V; -.
+DR   PDBsum; 6J1W; -.
+DR   PDBsum; 6OR7; -.
+DR   PDBsum; 6OTZ; -.
+DR   PDBsum; 6P1I; -.
+DR   PDBsum; 6P1X; -.
+DR   PDBsum; 6P2G; -.
+DR   PDBsum; 6PYL; -.
+DR   PDBsum; 6SKK; -.
+DR   PDBsum; 6SKM; -.
+DR   PDBsum; 6SKN; -.
+DR   PDBsum; 6SLQ; -.
+DR   PDBsum; 6SLU; -.
+DR   PDBsum; 6SMU; -.
+DR   PDBsum; 6UIR; -.
+DR   PDBsum; 6UIS; -.
+DR   PDBsum; 6UIT; -.
+DR   PDBsum; 6UJX; -.
+DR   PDBsum; 6UJY; -.
+DR   PDBsum; 6UJZ; -.
+DR   PDBsum; 6UK0; -.
+DR   PDBsum; 6VPZ; -.
+DR   PDBsum; 6VQ2; -.
+DR   PDBsum; 6VQD; -.
+DR   PDBsum; 6VQE; -.
+DR   PDBsum; 6VQY; -.
+DR   PDBsum; 6VQZ; -.
+DR   PDBsum; 6WAZ; -.
+DR   PDBsum; 6WB1; -.
+DR   PDBsum; 6WPF; -.
+DR   PDBsum; 6WPH; -.
+DR   PDBsum; 6WPJ; -.
+DR   PDBsum; 7DOZ; -.
+DR   PDBsum; 7DPQ; -.
+DR   PDBsum; 7DT9; -.
+DR   PDBsum; 7R7V; -.
+DR   PDBsum; 7R7X; -.
+DR   PDBsum; 7R80; -.
+DR   PDBsum; 7SLR; -.
+DR   PDBsum; 7SLS; -.
+DR   PDBsum; 7XIS; -.
+DR   PDBsum; 7XIT; -.
+DR   PDBsum; 7XIU; -.
+DR   PDBsum; 7XJ4; -.
+DR   PDBsum; 7XJ5; -.
+DR   PDBsum; 7XJ7; -.
+DR   PDBsum; 8ERX; -.
+DR   PDBsum; 8ESX; -.
+DR   PDBsum; 8ESY; -.
+DR   PDBsum; 8F0F; -.
+DR   PDBsum; 8F5A; -.
+DR   PDBsum; 8F7M; -.
+DR   PDBsum; 8FCC; -.
+DR   PDBsum; 8FCD; -.
+DR   PDBsum; 8FCE; -.
+DR   PDBsum; 8JYH; -.
+DR   PDBsum; 8JYI; -.
+DR   PDBsum; 8JYJ; -.
+DR   PDBsum; 8TCJ; -.
+DR   PDBsum; 8TCK; -.
+DR   PDBsum; 8TCL; -.
+DR   PDBsum; 8TCM; -.
+DR   BMRB; P04585; -.
+DR   SASBDB; P04585; -.
+DR   SMR; P04585; -.
+DR   BioGRID; 1205538; 133.
+DR   IntAct; P04585; 7.
+DR   MINT; P04585; -.
+DR   BindingDB; P04585; -.
+DR   ChEMBL; CHEMBL3638360; -.
+DR   DrugBank; DB07910; (2S)-2-amino-3-phenylpropane-1,1-diol.
+DR   DrugBank; DB07473; (R)-(+) 5(9BH)-OXO-9B-PHENYL-2,3-DIHYDROTHIAZOLO[2,3-A]ISOINDOL-3-CARBOXYLIC ACID METHYL ESTER.
+DR   DrugBank; DB07472; (R)-(+)9B-(3-METHYL)PHENYL-2,3-DIHYDROTHIAZOLO[2,3-A]ISOINDOL-5(9BH)-ONE.
+DR   DrugBank; DB07892; 1-(2-HYDROXYETHYLOXYMETHYL)-6-PHENYL THIOTHYMINE.
+DR   DrugBank; DB08372; 1-[2-(4-ETHOXY-3-FLUOROPYRIDIN-2-YL)ETHYL]-3-(5-METHYLPYRIDIN-2-YL)THIOUREA.
+DR   DrugBank; DB08682; 1-METHYL ETHYL 1-CHLORO-5-[[(5,6DIHYDRO-2-METHYL-1,4-OXATHIIN-3-YL)CARBONYL]AMINO]BENZOATE.
+DR   DrugBank; DB08681; 1-METHYL ETHYL 2-CHLORO-5-[[[(1-METHYLETHOXY)THIOOXO]METHYL]AMINO]-BENZOATE.
+DR   DrugBank; DB08286; 1-Naphthoxyacetic acid.
+DR   DrugBank; DB07826; 2-[4-chloro-2-(phenylcarbonyl)phenoxy]-N-phenylacetamide.
+DR   DrugBank; DB08528; 2-AMINO-6-(3,5-DIMETHYLPHENYL)SULFONYLBENZONITRILE.
+DR   DrugBank; DB08444; 3-[2-bromo-4-(1H-pyrazolo[3,4-c]pyridazin-3-ylmethyl)phenoxy]-5-methylbenzonitrile.
+DR   DrugBank; DB08446; 3-[6-bromo-2-fluoro-3-(1H-pyrazolo[3,4-c]pyridazin-3-ylmethyl)phenoxy]-5-chlorobenzonitrile.
+DR   DrugBank; DB08154; 3-chloro-5-[2-chloro-5-(1H-indazol-3-ylmethoxy)phenoxy]benzonitrile.
+DR   DrugBank; DB08459; 3-chloro-5-[2-chloro-5-(1H-pyrazolo[3,4-b]pyridin-3-ylmethoxy)phenoxy]benzonitrile.
+DR   DrugBank; DB07864; 4-[(CYCLOPROPYLETHYNYL)OXY]-6-FLUORO-3-ISOPROPYLQUINOLIN-2(1H)-ONE.
+DR   DrugBank; DB08211; 5-bromo-3-(pyrrolidin-1-ylsulfonyl)-1H-indole-2-carboxamide.
+DR   DrugBank; DB08665; 6,11-DIHYDRO-11-ETHYL-6-METHYL-9-NITRO-5H-PYRIDO[2,3-B][1,5]BENZODIAZEPIN-5-ONE.
+DR   DrugBank; DB07820; 6-(3',5'-DIMETHYLBENZYL)-1-ETHOXYMETHYL-5-ISOPROPYLURACIL.
+DR   DrugBank; DB08379; 6-(4-chloro-2-fluoro-3-phenoxybenzyl)pyridazin-3(2H)-one.
+DR   DrugBank; DB07184; 6-(cyclohexylsulfanyl)-1-(ethoxymethyl)-5-(1-methylethyl)pyrimidine-2,4(1H,3H)-dione.
+DR   DrugBank; DB08634; 6-BENZYL-1-BENZYLOXYMETHYL-5-ISOPROPYL URACIL.
+DR   DrugBank; DB07871; 6-CHLORO-4-(CYCLOHEXYLOXY)-3-ISOPROPYLQUINOLIN-2(1H)-ONE.
+DR   DrugBank; DB07867; 6-CHLORO-4-(CYCLOHEXYLOXY)-3-PROPYLQUINOLIN-2(1H)-ONE.
+DR   DrugBank; DB07868; 6-CHLORO-4-(CYCLOHEXYLSULFANYL)-3-PROPYLQUINOLIN-2(1H)-ONE.
+DR   DrugBank; DB07869; 6-Chloro-4-[(R)-cyclohexylsulfinyl]-3-propyl-2(1H)-quinolinone.
+DR   DrugBank; DB06910; [4-R-(4-ALPHA,6-BETA,7-BETA]-HEXAHYDRO-5,6-DI(HYDROXY)-1,3-DI(ALLYL)-4,7-BISPHENYLMETHYL)-2H-1,3-DIAZEPINONE.
+DR   DrugBank; DB07332; ALPHA-(2,6-DICHLOROPHENYL)-ALPHA-(2-ACETYL-5-METHYLANILINO)ACETAMIDE.
+DR   DrugBank; DB06581; Bevirimat.
+DR   DrugBank; DB08502; Capravirine.
+DR   DrugBank; DB08188; Emivirine.
+DR   DrugBank; DB06414; Etravirine.
+DR   DrugBank; DB13119; GSK-364735.
+DR   DrugBank; DB04609; INHIBITOR Q8467 OF DUPONT MERCK.
+DR   DrugBank; DB15673; Lenacapavir.
+DR   DrugBank; DB08460; MK-4965.
+DR   DrugBank; DB02102; Mozenavir.
+DR   DrugBank; DB07797; N-[[3-FLUORO-4-ETHOXY-PYRID-2-YL]ETHYL]-N'-[5-CHLORO-PYRIDYL]-THIOUREA.
+DR   DrugBank; DB07781; N-[[3-FLUORO-4-ETHOXY-PYRID-2-YL]ETHYL]-N'-[5-NITRILOMETHYL-PYRIDYL]-THIOUREA.
+DR   DrugBank; DB08680; N-{3-[(E)-(tert-butoxyimino)methyl]-4-chlorophenyl}-2-methylfuran-3-carbimidothioic acid.
+DR   DrugBank; DB07884; Opaviraline.
+DR   DrugBank; DB08598; R-82913.
+DR   DrugBank; DB08494; S-{2-[(2-chloro-4-sulfamoylphenyl)amino]-2-oxoethyl} 6-methyl-3,4-dihydroquinoline-1(2H)-carbothioate.
+DR   DrugBank; DB02729; SD146.
+DR   DrugBank; DB05328; VGV-1.
+DR   DrugBank; DB02702; XV638.
+DR   MEROPS; A02.001; -.
+DR   ABCD; P04585; 3 sequenced antibodies.
+DR   GeneID; 155348; -.
+DR   KEGG; vg:155348; -.
+DR   Reactome; R-HSA-162585; Uncoating of the HIV Virion.
+DR   Reactome; R-HSA-162588; Budding and maturation of HIV virion.
+DR   Reactome; R-HSA-162592; Integration of provirus.
+DR   Reactome; R-HSA-162594; Early Phase of HIV Life Cycle.
+DR   Reactome; R-HSA-164516; Minus-strand DNA synthesis.
+DR   Reactome; R-HSA-164525; Plus-strand DNA synthesis.
+DR   Reactome; R-HSA-164843; 2-LTR circle formation.
+DR   Reactome; R-HSA-173107; Binding and entry of HIV virion.
+DR   Reactome; R-HSA-175474; Assembly Of The HIV Virion.
+DR   Reactome; R-HSA-175567; Integration of viral DNA into host genomic DNA.
+DR   Reactome; R-HSA-177539; Autointegration results in viral DNA circles.
+DR   Reactome; R-HSA-180689; APOBEC3G mediated resistance to HIV-1 infection.
+DR   Reactome; R-HSA-180910; Vpr-mediated nuclear import of PICs.
+DR   SABIO-RK; P04585; -.
+DR   EvolutionaryTrace; P04585; -.
+DR   PRO; PR:P04585; -.
+DR   Proteomes; UP000002241; Segment.
+DR   Proteomes; UP000105453; Segment.
+DR   GO; GO:0043657; C:host cell; IEA:GOC.
+DR   GO; GO:0042025; C:host cell nucleus; IEA:UniProtKB-SubCell.
+DR   GO; GO:0020002; C:host cell plasma membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0072494; C:host multivesicular body; IEA:UniProtKB-SubCell.
+DR   GO; GO:0019013; C:viral nucleocapsid; IEA:UniProtKB-KW.
+DR   GO; GO:0055036; C:virion membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0004190; F:aspartic-type endopeptidase activity; IDA:UniProt.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003887; F:DNA-directed DNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0004533; F:exoribonuclease H activity; IEA:UniProtKB-EC.
+DR   GO; GO:0042802; F:identical protein binding; IPI:IntAct.
+DR   GO; GO:0008907; F:integrase activity; TAS:Reactome.
+DR   GO; GO:0008289; F:lipid binding; IEA:UniProtKB-KW.
+DR   GO; GO:0008233; F:peptidase activity; TAS:Reactome.
+DR   GO; GO:0035613; F:RNA stem-loop binding; IEA:TreeGrafter.
+DR   GO; GO:0003964; F:RNA-directed DNA polymerase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0004523; F:RNA-DNA hybrid ribonuclease activity; IEA:InterPro.
+DR   GO; GO:0005198; F:structural molecule activity; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IDA:CAFA.
+DR   GO; GO:0006310; P:DNA recombination; IEA:UniProtKB-KW.
+DR   GO; GO:0075713; P:establishment of integrated proviral latency; TAS:Reactome.
+DR   GO; GO:0016485; P:protein processing; IDA:UniProt.
+DR   GO; GO:0046718; P:symbiont entry into host cell; IEA:UniProtKB-KW.
+DR   GO; GO:0052151; P:symbiont-mediated activation of host apoptosis; IEA:UniProtKB-KW.
+DR   GO; GO:0039657; P:symbiont-mediated suppression of host gene expression; IEA:UniProtKB-KW.
+DR   GO; GO:0044826; P:viral genome integration into host DNA; IEA:UniProtKB-KW.
+DR   GO; GO:0019058; P:viral life cycle; TAS:Reactome.
+DR   GO; GO:0075732; P:viral penetration into host nucleus; IEA:UniProtKB-KW.
+DR   GO; GO:0075523; P:viral translational frameshifting; IEA:UniProtKB-KW.
+DR   CDD; cd05482; HIV_retropepsin_like; 1.
+DR   CDD; cd01645; RT_Rtv; 1.
+DR   FunFam; 1.10.1200.30:FF:000001; Gag polyprotein; 1.
+DR   FunFam; 1.10.150.90:FF:000001; Gag polyprotein; 1.
+DR   FunFam; 1.10.375.10:FF:000001; Gag polyprotein; 1.
+DR   FunFam; 1.20.5.760:FF:000001; Gag polyprotein; 1.
+DR   FunFam; 4.10.60.10:FF:000001; Gag polyprotein; 1.
+DR   FunFam; 2.40.70.10:FF:000001; Gag-Pol polyprotein; 1.
+DR   FunFam; 3.30.420.10:FF:000025; Gag-Pol polyprotein; 1.
+DR   FunFam; 2.30.30.10:FF:000001; POL polyprotein; 1.
+DR   FunFam; 3.30.420.10:FF:000017; POL polyprotein; 1.
+DR   FunFam; 3.30.70.270:FF:000016; POL polyprotein; 1.
+DR   Gene3D; 1.10.10.200; -; 1.
+DR   Gene3D; 1.10.1200.30; -; 1.
+DR   Gene3D; 3.30.70.270; -; 3.
+DR   Gene3D; 2.40.70.10; Acid Proteases; 1.
+DR   Gene3D; 3.10.10.10; HIV Type 1 Reverse Transcriptase, subunit A, domain 1; 1.
+DR   Gene3D; 1.10.375.10; Human Immunodeficiency Virus Type 1 Capsid Protein; 1.
+DR   Gene3D; 1.10.150.90; Immunodeficiency lentiviruses, gag gene matrix protein p17; 1.
+DR   Gene3D; 2.30.30.10; Integrase, C-terminal domain superfamily, retroviral; 1.
+DR   Gene3D; 3.30.420.10; Ribonuclease H-like superfamily/Ribonuclease H; 2.
+DR   Gene3D; 1.20.5.760; Single helix bin; 1.
+DR   Gene3D; 4.10.60.10; Zinc finger, CCHC-type; 1.
+DR   InterPro; IPR001969; Aspartic_peptidase_AS.
+DR   InterPro; IPR043502; DNA/RNA_pol_sf.
+DR   InterPro; IPR045345; Gag_p24_C.
+DR   InterPro; IPR017856; Integrase-like_N.
+DR   InterPro; IPR036862; Integrase_C_dom_sf_retrovir.
+DR   InterPro; IPR001037; Integrase_C_retrovir.
+DR   InterPro; IPR001584; Integrase_cat-core.
+DR   InterPro; IPR003308; Integrase_Zn-bd_dom_N.
+DR   InterPro; IPR000071; Lentvrl_matrix_N.
+DR   InterPro; IPR012344; Matrix_HIV/RSV_N.
+DR   InterPro; IPR001995; Peptidase_A2_cat.
+DR   InterPro; IPR021109; Peptidase_aspartic_dom_sf.
+DR   InterPro; IPR034170; Retropepsin-like_cat_dom.
+DR   InterPro; IPR018061; Retropepsins.
+DR   InterPro; IPR008916; Retrov_capsid_C.
+DR   InterPro; IPR008919; Retrov_capsid_N.
+DR   InterPro; IPR010999; Retrovr_matrix.
+DR   InterPro; IPR043128; Rev_trsase/Diguanyl_cyclase.
+DR   InterPro; IPR012337; RNaseH-like_sf.
+DR   InterPro; IPR002156; RNaseH_domain.
+DR   InterPro; IPR036397; RNaseH_sf.
+DR   InterPro; IPR000477; RT_dom.
+DR   InterPro; IPR010659; RVT_connect.
+DR   InterPro; IPR010661; RVT_thumb.
+DR   InterPro; IPR001878; Znf_CCHC.
+DR   InterPro; IPR036875; Znf_CCHC_sf.
+DR   PANTHER; PTHR41694; ENDOGENOUS RETROVIRUS GROUP K MEMBER POL PROTEIN; 1.
+DR   PANTHER; PTHR41694:SF3; RNA-DIRECTED DNA POLYMERASE-RELATED; 1.
+DR   Pfam; PF00540; Gag_p17; 1.
+DR   Pfam; PF19317; Gag_p24_C; 1.
+DR   Pfam; PF00552; IN_DBD_C; 1.
+DR   Pfam; PF02022; Integrase_Zn; 1.
+DR   Pfam; PF00075; RNase_H; 1.
+DR   Pfam; PF00665; rve; 1.
+DR   Pfam; PF00077; RVP; 1.
+DR   Pfam; PF00078; RVT_1; 1.
+DR   Pfam; PF06815; RVT_connect; 1.
+DR   Pfam; PF06817; RVT_thumb; 1.
+DR   Pfam; PF00098; zf-CCHC; 2.
+DR   PRINTS; PR00234; HIV1MATRIX.
+DR   SMART; SM00343; ZnF_C2HC; 2.
+DR   SUPFAM; SSF50630; Acid proteases; 1.
+DR   SUPFAM; SSF50122; DNA-binding domain of retroviral integrase; 1.
+DR   SUPFAM; SSF56672; DNA/RNA polymerases; 1.
+DR   SUPFAM; SSF46919; N-terminal Zn binding domain of HIV integrase; 1.
+DR   SUPFAM; SSF47836; Retroviral matrix proteins; 1.
+DR   SUPFAM; SSF47353; Retrovirus capsid dimerization domain-like; 1.
+DR   SUPFAM; SSF47943; Retrovirus capsid protein, N-terminal core domain; 1.
+DR   SUPFAM; SSF57756; Retrovirus zinc finger-like domains; 1.
+DR   SUPFAM; SSF53098; Ribonuclease H-like; 2.
+DR   PROSITE; PS50175; ASP_PROT_RETROV; 1.
+DR   PROSITE; PS00141; ASP_PROTEASE; 1.
+DR   PROSITE; PS50994; INTEGRASE; 1.
+DR   PROSITE; PS51027; INTEGRASE_DBD; 1.
+DR   PROSITE; PS50879; RNASE_H_1; 1.
+DR   PROSITE; PS50878; RT_POL; 1.
+DR   PROSITE; PS50158; ZF_CCHC; 2.
+DR   PROSITE; PS50876; ZF_INTEGRASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Activation of host caspases by virus; AIDS;
+KW   Aspartyl protease; Capsid protein; DNA integration; DNA recombination;
+KW   DNA-binding; DNA-directed DNA polymerase; Endonuclease;
+KW   Eukaryotic host gene expression shutoff by virus;
+KW   Eukaryotic host translation shutoff by virus; Host cell membrane;
+KW   Host cytoplasm; Host endosome; Host gene expression shutoff by virus;
+KW   Host membrane; Host nucleus; Host-virus interaction; Hydrolase;
+KW   Lipid-binding; Lipoprotein; Magnesium; Membrane; Metal-binding;
+KW   Modulation of host cell apoptosis by virus; Multifunctional enzyme;
+KW   Myristate; Nuclease; Nucleotidyltransferase; Phosphoprotein; Protease;
+KW   Reference proteome; Repeat; Ribosomal frameshifting; RNA-binding;
+KW   RNA-directed DNA polymerase; Transferase; Viral genome integration;
+KW   Viral nucleoprotein; Viral penetration into host nucleus;
+KW   Viral release from host cell; Virion; Virion maturation;
+KW   Virus entry into host cell; Zinc; Zinc-finger.
+FT   INIT_MET        1
+FT                   /note="Removed; by host"
+FT                   /evidence="ECO:0000250"
+FT   CHAIN           2..1435
+FT                   /note="Gag-Pol polyprotein"
+FT                   /id="PRO_0000223620"
+FT   CHAIN           2..132
+FT                   /note="Matrix protein p17"
+FT                   /evidence="ECO:0000250"
+FT                   /id="PRO_0000042439"
+FT   CHAIN           133..363
+FT                   /note="Capsid protein p24"
+FT                   /evidence="ECO:0000250"
+FT                   /id="PRO_0000042440"
+FT   PEPTIDE         364..377
+FT                   /note="Spacer peptide 1"
+FT                   /evidence="ECO:0000250"
+FT                   /id="PRO_0000042441"
+FT   CHAIN           378..432
+FT                   /note="Nucleocapsid protein p7"
+FT                   /evidence="ECO:0000250"
+FT                   /id="PRO_0000042442"
+FT   PEPTIDE         433..440
+FT                   /note="Transframe peptide"
+FT                   /evidence="ECO:0000255"
+FT                   /id="PRO_0000246716"
+FT   CHAIN           441..488
+FT                   /note="p6-pol"
+FT                   /evidence="ECO:0000255"
+FT                   /id="PRO_0000042443"
+FT   CHAIN           489..587
+FT                   /note="Protease"
+FT                   /id="PRO_0000038665"
+FT   CHAIN           588..1147
+FT                   /note="Reverse transcriptase/ribonuclease H"
+FT                   /id="PRO_0000042444"
+FT   CHAIN           588..1027
+FT                   /note="p51 RT"
+FT                   /id="PRO_0000042445"
+FT   CHAIN           1028..1147
+FT                   /note="p15"
+FT                   /id="PRO_0000042446"
+FT   CHAIN           1148..1435
+FT                   /note="Integrase"
+FT                   /evidence="ECO:0000250"
+FT                   /id="PRO_0000042447"
+FT   DOMAIN          508..577
+FT                   /note="Peptidase A2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00275"
+FT   DOMAIN          631..821
+FT                   /note="Reverse transcriptase"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00405"
+FT   DOMAIN          1021..1144
+FT                   /note="RNase H type-1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00408"
+FT   DOMAIN          1201..1351
+FT                   /note="Integrase catalytic"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00457"
+FT   ZN_FING         390..407
+FT                   /note="CCHC-type 1"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00047"
+FT   ZN_FING         411..428
+FT                   /note="CCHC-type 2"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00047"
+FT   ZN_FING         1150..1191
+FT                   /note="Integrase-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00450"
+FT   DNA_BIND        1370..1417
+FT                   /note="Integrase-type"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00506"
+FT   REGION          7..31
+FT                   /note="Interaction with Gp41"
+FT                   /evidence="ECO:0000250|UniProtKB:P12497"
+FT   REGION          8..43
+FT                   /note="Interaction with host CALM1"
+FT                   /evidence="ECO:0000269|PubMed:24500712"
+FT   REGION          12..19
+FT                   /note="Interaction with host AP3D1"
+FT                   /evidence="ECO:0000250|UniProtKB:P12497"
+FT   REGION          14..33
+FT                   /note="Interaction with membrane phosphatidylinositol 4,5-
+FT                   bisphosphate and RNA"
+FT                   /evidence="ECO:0000250|UniProtKB:P12497"
+FT   REGION          73..77
+FT                   /note="Interaction with membrane phosphatidylinositol 4,5-
+FT                   bisphosphate"
+FT                   /evidence="ECO:0000250|UniProtKB:P12497"
+FT   REGION          106..128
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          189..227
+FT                   /note="Interaction with host PPIA/CYPA and NUP153"
+FT                   /evidence="ECO:0000250|UniProtKB:P12497"
+FT   REGION          217..225
+FT                   /note="PPIA/CYPA-binding loop"
+FT   REGION          277..363
+FT                   /note="Dimerization/Multimerization of capsid protein p24"
+FT   REGION          448..481
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          489..493
+FT                   /note="Dimerization of protease"
+FT                   /evidence="ECO:0000269|PubMed:2162350"
+FT   REGION          537..543
+FT                   /note="Dimerization of protease"
+FT                   /evidence="ECO:0000269|PubMed:2162350"
+FT   REGION          576..588
+FT                   /note="Dimerization of protease"
+FT                   /evidence="ECO:0000269|PubMed:2162350"
+FT   REGION          814..822
+FT                   /note="RT 'primer grip'"
+FT                   /evidence="ECO:0000250"
+FT   MOTIF           16..22
+FT                   /note="Nuclear export signal"
+FT                   /evidence="ECO:0000250"
+FT   MOTIF           26..32
+FT                   /note="Nuclear localization signal"
+FT                   /evidence="ECO:0000250"
+FT   MOTIF           985..1001
+FT                   /note="Tryptophan repeat motif"
+FT                   /evidence="ECO:0000250"
+FT   ACT_SITE        513
+FT                   /note="For protease activity; shared with dimeric partner"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU10094,
+FT                   ECO:0000305|PubMed:33542150"
+FT   BINDING         697
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="1"
+FT                   /ligand_note="catalytic; for reverse transcriptase
+FT                   activity"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         772
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="1"
+FT                   /ligand_note="catalytic; for reverse transcriptase
+FT                   activity"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         773
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="1"
+FT                   /ligand_note="catalytic; for reverse transcriptase
+FT                   activity"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         1030
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="2"
+FT                   /ligand_note="catalytic; for RNase H activity"
+FT   BINDING         1065
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="2"
+FT                   /ligand_note="catalytic; for RNase H activity"
+FT                   /evidence="ECO:0000269|PubMed:12206668"
+FT   BINDING         1085
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="2"
+FT                   /ligand_note="catalytic; for RNase H activity"
+FT   BINDING         1136
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="2"
+FT                   /ligand_note="catalytic; for RNase H activity"
+FT                   /evidence="ECO:0000269|PubMed:12206668"
+FT   BINDING         1159
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00450"
+FT   BINDING         1163
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00450"
+FT   BINDING         1187
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00450"
+FT   BINDING         1190
+FT                   /ligand="Zn(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:29105"
+FT                   /evidence="ECO:0000255|PROSITE-ProRule:PRU00450"
+FT   BINDING         1211
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="3"
+FT                   /ligand_note="catalytic; for integrase activity"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         1263
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="3"
+FT                   /ligand_note="catalytic; for integrase activity"
+FT                   /evidence="ECO:0000250"
+FT   BINDING         1299
+FT                   /ligand="Mg(2+)"
+FT                   /ligand_id="ChEBI:CHEBI:18420"
+FT                   /ligand_label="3"
+FT                   /ligand_note="catalytic; for integrase activity"
+FT                   /evidence="ECO:0000305"
+FT   SITE            132..133
+FT                   /note="Cleavage; by viral protease"
+FT                   /evidence="ECO:0000250"
+FT   SITE            221..222
+FT                   /note="Cis/trans isomerization of proline peptide bond; by
+FT                   human PPIA/CYPA"
+FT   SITE            363..364
+FT                   /note="Cleavage; by viral protease"
+FT                   /evidence="ECO:0000250"
+FT   SITE            377..378
+FT                   /note="Cleavage; by viral protease"
+FT                   /evidence="ECO:0000250"
+FT   SITE            393..394
+FT                   /note="Cleavage; by viral protease"
+FT                   /evidence="ECO:0000255"
+FT   SITE            426..427
+FT                   /note="Cleavage; by viral protease"
+FT                   /evidence="ECO:0000255"
+FT   SITE            432..433
+FT                   /note="Cleavage; by viral protease"
+FT                   /evidence="ECO:0000255"
+FT   SITE            440..441
+FT                   /note="Cleavage; by viral protease"
+FT                   /evidence="ECO:0000250"
+FT   SITE            488..489
+FT                   /note="Cleavage; by viral protease"
+FT                   /evidence="ECO:0000305|PubMed:15183348"
+FT   SITE            587..588
+FT                   /note="Cleavage; by viral protease"
+FT                   /evidence="ECO:0000250"
+FT   SITE            988
+FT                   /note="Essential for RT p66/p51 heterodimerization"
+FT                   /evidence="ECO:0000250"
+FT   SITE            1001
+FT                   /note="Essential for RT p66/p51 heterodimerization"
+FT                   /evidence="ECO:0000250"
+FT   SITE            1027..1028
+FT                   /note="Cleavage; by viral protease; partial"
+FT                   /evidence="ECO:0000250"
+FT   SITE            1147..1148
+FT                   /note="Cleavage; by viral protease"
+FT                   /evidence="ECO:0000250"
+FT   MOD_RES         132
+FT                   /note="Phosphotyrosine; by host"
+FT                   /evidence="ECO:0000250"
+FT   LIPID           2
+FT                   /note="N-myristoyl glycine; by host"
+FT                   /evidence="ECO:0000250"
+FT   VARIANT         496
+FT                   /note="R -> K (confers to resistance to A-77003; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         496
+FT                   /note="R -> Q (confers to resistance to A-77003)"
+FT   VARIANT         498
+FT                   /note="L -> F (confers resistance to amprenavir,
+FT                   atazanavir, lopinavir; when associated with other amino
+FT                   acid changes)"
+FT   VARIANT         498
+FT                   /note="L -> I (confers resistance to indinavir, lopinavir,
+FT                   ritonavir and saquinavir; when associated with other amino
+FT                   acid changes)"
+FT   VARIANT         498
+FT                   /note="L -> R (confers resistance to indinavir and
+FT                   lopinavir; when associated with other amino acid changes)"
+FT   VARIANT         498
+FT                   /note="L -> V (confers resistance to indinavir and
+FT                   lopinavir; when associated with other amino acid changes)"
+FT   VARIANT         498
+FT                   /note="L -> Y (confers resistance to atazanavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         503
+FT                   /note="I -> V (confers resistance to tipranavir)"
+FT   VARIANT         504
+FT                   /note="G -> E (confers resistance to lopinavir, ritonavir
+FT                   and saquinavir; when associated with other amino acid
+FT                   changes)"
+FT   VARIANT         508
+FT                   /note="K -> I (confers resistance to lopinavir)"
+FT   VARIANT         508
+FT                   /note="K -> M (confers resistance to indinavir, lopinavir
+FT                   and nelfinavir; when associated with other amino acid
+FT                   changes)"
+FT   VARIANT         508
+FT                   /note="K -> R (confers resistance to indinavir, lopinavir
+FT                   and ritonavir; when associated with other amino acid
+FT                   changes)"
+FT   VARIANT         511
+FT                   /note="L -> I (confers resistance to BILA 2185 BS)"
+FT   VARIANT         512
+FT                   /note="L -> I (confers resistance to amprenavir, indinavir,
+FT                   lopinavir, ritonavir and saquinavir; when associated with
+FT                   other amino acid changes)"
+FT   VARIANT         518
+FT                   /note="D -> N (confers resistance to nelfinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         520
+FT                   /note="V -> I (confers resistance to A-77003, amprenavir,
+FT                   atazanavir, indinavir, kynostatin, lopinavir, ritonavir and
+FT                   saquinavir; when associated with other amino acid changes)"
+FT   VARIANT         521
+FT                   /note="L -> F (confers resistance to atazanavir nelfinavir
+FT                   and ritonavir; when associated with other amino acid
+FT                   changes)"
+FT   VARIANT         522
+FT                   /note="E -> Q (confers resistance to lopinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         523
+FT                   /note="E -> D (confers resistance to tipranavir)"
+FT   VARIANT         524
+FT                   /note="M -> I (confers resistance to nelfinavir and
+FT                   ritonavir; when associated with other amino acid changes)"
+FT   VARIANT         524
+FT                   /note="M -> L (confers resistance to ritonavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         525
+FT                   /note="S -> D (confers resistance to indinavir and
+FT                   tipranavir; when associated with other amino acid changes)"
+FT   VARIANT         529
+FT                   /note="R -> K (confers resistance to tipranavir)"
+FT   VARIANT         533
+FT                   /note="K -> I (confers resistance to DMD-323; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         534
+FT                   /note="M -> F (confers resistance to A-77003)"
+FT   VARIANT         534
+FT                   /note="M -> I (confers resistance to A-77003, amprenavir,
+FT                   atazanavir, indinavir, kynostatin, lopinavir, ritonavir,
+FT                   saquinavir and telinavir; when associated with other amino
+FT                   acid changes)"
+FT   VARIANT         534
+FT                   /note="M -> L (confers resistance to A-77003, amprenavir,
+FT                   indinavir, lopinavir, ritonavir and saquinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         535
+FT                   /note="I -> V (confers resistance to amprenavir, lopinavir,
+FT                   kynostatin, ritonavir and saquinavir; when associated with
+FT                   other amino acid changes)"
+FT   VARIANT         536
+FT                   /note="G -> V (confers resistance to A-77003, amprenavir,
+FT                   indinavir, ritonavir, saquinavir and telinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         538
+FT                   /note="I -> L (confers resistance to atazanavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         538
+FT                   /note="I -> V (confers resistance to amprenavir, lopinavir
+FT                   and ritonavir; when associated with other amino acid
+FT                   changes)"
+FT   VARIANT         541
+FT                   /note="F -> L (confers resistance to lopinavir and
+FT                   telinavir; when associated with other amino acid changes)"
+FT   VARIANT         541
+FT                   /note="F -> Y (confers resistance to indinavir, ritonavir
+FT                   and saquinavir; when associated with other amino acid
+FT                   changes)"
+FT   VARIANT         542
+FT                   /note="I -> A (confers resistance to lopinavir)"
+FT   VARIANT         542
+FT                   /note="I -> L (confers resistance to amprenavir and
+FT                   lopinavir; when associated with other amino acid changes)"
+FT   VARIANT         542
+FT                   /note="I -> M (confers resistance to amprenavir and
+FT                   lopinavir)"
+FT   VARIANT         542
+FT                   /note="I -> S (confers resistance to lopinavir)"
+FT   VARIANT         542
+FT                   /note="I -> T (confers resistance to lopinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         542
+FT                   /note="I -> V (confers resistance to indinavir, lopinavir,
+FT                   ritonavir and saquinavir; when associated with other amino
+FT                   acid changes)"
+FT   VARIANT         543
+FT                   /note="K -> R (confers resistance to nelfinavir)"
+FT   VARIANT         545
+FT                   /note="R -> K (confers resistance to nelfinavir)"
+FT   VARIANT         546
+FT                   /note="Q -> E (confers resistance to lopinavir and
+FT                   ritonavir; when associated with other amino acid changes)"
+FT   VARIANT         548
+FT                   /note="D -> E (confers resistance to tripanavir)"
+FT   VARIANT         549
+FT                   /note="Q -> H (confers resistance to lopinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         551
+FT                   /note="L -> P (confers resistance to atazanavir, indinavir,
+FT                   lopinavir, ritonavir and saquinavir; when associated with
+FT                   other amino acid changes)"
+FT   VARIANT         551
+FT                   /note="L -> T (confers resistance to lopinavir)"
+FT   VARIANT         553
+FT                   /note="E -> Q (confers resistance to lopinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         554
+FT                   /note="I -> F (confers resistance to indinavir, ritonavir
+FT                   and saquinavir; when associated with other amino acid
+FT                   changes)"
+FT   VARIANT         557
+FT                   /note="H -> Y (confers resistance to lopinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         559
+FT                   /note="A -> I (confers resistance to lopinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         559
+FT                   /note="A -> L (confers resistance to lopinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         559
+FT                   /note="A -> T (confers resistance to A-77003, indinavir,
+FT                   lopinavir, nelfinavir and tripanavir; when associated with
+FT                   other amino acid changes)"
+FT   VARIANT         559
+FT                   /note="A -> V (confers resistance to amprenavir,
+FT                   atazanavir, indinavir, kynostatin, lopinavir, nelfinavir,
+FT                   ritonavir, saquinavir and telinavir; when associated with
+FT                   other amino acid changes)"
+FT   VARIANT         561
+FT                   /note="G -> S (confers resistance to indinavir, nelfinavir,
+FT                   ritonavir and saquinavir; when associated with other amino
+FT                   acid changes)"
+FT   VARIANT         565
+FT                   /note="V -> I (confers resistance to indinavir, nelfinavir,
+FT                   ritonavir and saquinavir; when associated with other amino
+FT                   acid changes)"
+FT   VARIANT         570
+FT                   /note="V -> A (confers resistance to A-77003, indinavir,
+FT                   lopinavir, nelfinavir, ritonavir and saquinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         570
+FT                   /note="V -> F (confers resistance to lopinavir and
+FT                   ritonavir; when associated with other amino acid changes)"
+FT   VARIANT         570
+FT                   /note="V -> I (confers resistance to A-77003 and
+FT                   kynostatin; when associated with other amino acid changes)"
+FT   VARIANT         570
+FT                   /note="V -> S (confers resistance to lopinavir and
+FT                   ritonavir)"
+FT   VARIANT         570
+FT                   /note="V -> T (confers resistance to indinavir, lopinavir,
+FT                   ritonavir and saquinavir; when associated with other amino
+FT                   acid changes)"
+FT   VARIANT         572
+FT                   /note="I -> A (confers resistance to atazanavir, indinavir,
+FT                   lopinavir, nelfinavir, ritonavir and saquinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         572
+FT                   /note="I -> V (confers resistance to amprenavir,
+FT                   atazanavir, indinavir, kynostatin, lopinavir, nelfinavir,
+FT                   ritonavir, saquinavir and telinavir; when associated with
+FT                   other amino acid changes)"
+FT   VARIANT         576
+FT                   /note="N -> D (confers resistance to nelfinavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         576
+FT                   /note="N -> S (confers resistance to atazanavir, indinavir
+FT                   and nelfinavir; when associated with other amino acid
+FT                   changes)"
+FT   VARIANT         577
+FT                   /note="L -> M (confers resistance to atazanavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         578
+FT                   /note="L -> M (confers resistance to indinavir, lopinavir,
+FT                   nelfinavir, ritonavir and saquinavir; when associated with
+FT                   other amino acid changes)"
+FT   VARIANT         579
+FT                   /note="T -> S (confers resistance to lopinavir, ritonavir
+FT                   and saquinavir; when associated with other amino acid
+FT                   changes)"
+FT   VARIANT         581
+FT                   /note="I -> L (confers resistance to indinavir)"
+FT   VARIANT         628
+FT                   /note="M -> L (confers resistance to zidovudine; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         631
+FT                   /note="E -> A (confers resistance to lamivudine)"
+FT   VARIANT         631
+FT                   /note="E -> D (confers resistance to zidovudine; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         639
+FT                   /note="P -> R (confers resistance to stavudine)"
+FT   VARIANT         641
+FT                   /note="N -> D (confers resistance to stavudine)"
+FT   VARIANT         649
+FT                   /note="A -> V (confers multi-NRTI resistance; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         652
+FT                   /note="K -> R (confers resistance to abacavir, adefovir,
+FT                   didenosine, lamivudine, stavudine, tenofir and zidovuline;
+FT                   when associated with other amino acid changes)"
+FT   VARIANT         654
+FT                   /note="D -> A (confers resistance to zidovudine)"
+FT   VARIANT         654
+FT                   /note="D -> E (confers multi-NRTI resistance)"
+FT   VARIANT         654
+FT                   /note="D -> G (confers multi-NRTI resistance)"
+FT   VARIANT         654
+FT                   /note="D -> N (confers resistance to zidovudine)"
+FT   VARIANT         654
+FT                   /note="D -> S (confers multi-NRTI resistance)"
+FT   VARIANT         655
+FT                   /note="S -> G (confers multi-NRTI resistance; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         655
+FT                   /note="S -> N (confers multi-NRTI resistance)"
+FT   VARIANT         655
+FT                   /note="S -> Y (confers multi-NRTI resistance)"
+FT   VARIANT         656
+FT                   /note="T -> A (confers resistance to lamivudine and
+FT                   stavudine)"
+FT   VARIANT         656
+FT                   /note="T -> D (confers resistance to lamivudine, stavudine
+FT                   and rarely to zalcitabine)"
+FT   VARIANT         656
+FT                   /note="T -> G (confers resistance to didanosine,
+FT                   zalcitabine and zidovudine)"
+FT   VARIANT         656
+FT                   /note="T -> N (confers resistance to lamivudine and
+FT                   stavudine)"
+FT   VARIANT         657
+FT                   /note="K -> E (confers resistance to adefovir and
+FT                   lamivudine)"
+FT   VARIANT         657
+FT                   /note="K -> R (confers resistance to zidovudine; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         657
+FT                   /note="K -> S (confers resistance to didanosine and
+FT                   stavudine)"
+FT   VARIANT         661
+FT                   /note="L -> I (confers resistance to HBY 097)"
+FT   VARIANT         661
+FT                   /note="L -> V (confers resistance to abacavir, didanosine,
+FT                   HBY 097 and zalcitabine; when associated with other amino
+FT                   acid changes)"
+FT   VARIANT         662
+FT                   /note="V -> I (confers multi-NRTI resistance; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         662
+FT                   /note="V -> L (confers resistance to HBY 097)"
+FT   VARIANT         662
+FT                   /note="V -> M (confers resistance to stavudine and
+FT                   zalcitabine)"
+FT   VARIANT         662
+FT                   /note="V -> T (confers resistance to d4C, didanosine,
+FT                   stavudine and zalcitabine)"
+FT   VARIANT         664
+FT                   /note="F -> L (confers multi-NRTI resistance; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         675
+FT                   /note="W -> G (confers resistance to pyrophosphate analog
+FT                   PFA)"
+FT   VARIANT         675
+FT                   /note="W -> S (confers resistance to pyrophosphate analog
+FT                   PFA)"
+FT   VARIANT         676
+FT                   /note="E -> G (confers resistance to pyrophosphate analog
+FT                   PFA)"
+FT   VARIANT         676
+FT                   /note="E -> K (confers resistance to pyrophosphate analog
+FT                   PFA)"
+FT   VARIANT         679
+FT                   /note="L -> I (confers resistance to pyrophosphate analog
+FT                   PFA)"
+FT   VARIANT         687
+FT                   /note="L -> I (confers resistance to nevirapine and
+FT                   efavirenz)"
+FT   VARIANT         688
+FT                   /note="K -> E (confers resistance to atevirdine, efavirenz,
+FT                   nevirapine and zidovudine)"
+FT   VARIANT         688
+FT                   /note="K -> P (confers resistance to TMC125; when
+FT                   associated with E-142)"
+FT   VARIANT         688
+FT                   /note="K -> Q (confers resistance to efavirenz; when
+FT                   associated with I-19)"
+FT   VARIANT         690
+FT                   /note="K -> E (confers resistance to atevirdine; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         690
+FT                   /note="K -> N (confers resistance to atevirdine, efavirenz,
+FT                   emivirine and nevirapine; when associated with other amino
+FT                   acid changes)"
+FT   VARIANT         690
+FT                   /note="K -> R (confers resistance to emivirine and
+FT                   trovirdine; when associated with other D-179 and C-181)"
+FT   VARIANT         693
+FT                   /note="V -> A (confers resistance to nevirapine)"
+FT   VARIANT         693
+FT                   /note="V -> I (confers resistance to HBY 097)"
+FT   VARIANT         693
+FT                   /note="V -> M (confers resistance to delavirdine, efavirenz
+FT                   and nevirapine)"
+FT   VARIANT         695
+FT                   /note="V -> I (confers resistance to efavirenz, emivirine,
+FT                   nevirapine and trovirdine; when associated with other amino
+FT                   acid changes)"
+FT   VARIANT         702
+FT                   /note="Y -> F (confers resistance to abacavir; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         703
+FT                   /note="F -> Y (confers multi-NRTI resistance; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         705
+FT                   /note="V -> I (confers resistance to zidovudine; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         706
+FT                   /note="P -> S (confers resistance to lodenosine)"
+FT   VARIANT         722
+FT                   /note="I -> L (confers resistance to delavirdine, efavirenz
+FT                   and nevirapine; when associated with I-239)"
+FT   VARIANT         722
+FT                   /note="I -> M (confers resistance to delavirdine, efavirenz
+FT                   and nevirapine; when associated with I-239)"
+FT   VARIANT         722
+FT                   /note="I -> T (confers resistance to delavirdine, efavirenz
+FT                   and nevirapine; when associated with I-239)"
+FT   VARIANT         725
+FT                   /note="E -> K (confers resistance to emivirine)"
+FT   VARIANT         732
+FT                   /note="Q -> M (confers both multi-NRTI and multi-NNRTI
+FT                   resistance)"
+FT   VARIANT         738
+FT                   /note="Q -> M (confers multi-NRTI resistance; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         743
+FT                   /note="S -> A (confers resistance to pyrophosphate analog
+FT                   PFA)"
+FT   VARIANT         744
+FT                   /note="P -> S (confers resistance to lamivudine)"
+FT   VARIANT         748
+FT                   /note="Q -> L (confers resistance to pyrophosphate analog
+FT                   PFA)"
+FT   VARIANT         766
+FT                   /note="V -> D (confers resistance to efavirenz, tivirapine
+FT                   and trovirdine; when associated with other amino acid
+FT                   changes)"
+FT   VARIANT         768
+FT                   /note="Y -> C (confers multi-NNRTI resistance)"
+FT   VARIANT         771
+FT                   /note="M -> I (confers resistance to lamivudine and
+FT                   emtricitabine)"
+FT   VARIANT         771
+FT                   /note="M -> T (confers resistance to abacavir, didanosine,
+FT                   emtricitabine, lamivudine and zalcitabine)"
+FT   VARIANT         771
+FT                   /note="M -> V (confers resistance to lamivudine)"
+FT   VARIANT         775
+FT                   /note="Y -> C (confers resistance to nevirapine)"
+FT   VARIANT         775
+FT                   /note="Y -> H (confers resistance to atevirdine, efavirenz,
+FT                   loviride and zidovudine)"
+FT   VARIANT         775
+FT                   /note="Y -> L (confers resistance to efavirenz)"
+FT   VARIANT         776
+FT                   /note="V -> I (confers resistance to HBY 097)"
+FT   VARIANT         777
+FT                   /note="G -> A (confers resistance to efavirenz and
+FT                   nevirapine)"
+FT   VARIANT         777
+FT                   /note="G -> C (confers resistance to efavirenz and
+FT                   nevirapine)"
+FT   VARIANT         777
+FT                   /note="G -> E (confers resistance to efavirenz, nevirapine
+FT                   and quinoxaline)"
+FT   VARIANT         777
+FT                   /note="G -> Q (confers resistance to efavirenz, HBY 097 and
+FT                   nevirapine)"
+FT   VARIANT         777
+FT                   /note="G -> S (confers resistance to efavirenz and
+FT                   nevirapine)"
+FT   VARIANT         777
+FT                   /note="G -> T (confers resistance to efavirenz, HBY 097 and
+FT                   nevirapine)"
+FT   VARIANT         777
+FT                   /note="G -> V (confers resistance to efavirenz and
+FT                   nevirapine)"
+FT   VARIANT         795
+FT                   /note="H -> Y (confers resistance to lamivudine,
+FT                   pyrophosphate analog PFA and zidovudine)"
+FT   VARIANT         797
+FT                   /note="L -> W (confers resistance to zidovudine)"
+FT   VARIANT         798
+FT                   /note="R -> K (confers resistance to lamivudine and
+FT                   zidovudine)"
+FT   VARIANT         801
+FT                   /note="L -> F (confers resistance to ph-AZT and
+FT                   zidovudine)"
+FT   VARIANT         802
+FT                   /note="T -> F (confers resistance to zidovudine; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         802
+FT                   /note="T -> Y (confers resistance to zidovudine; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         806
+FT                   /note="K -> E (confers resistance to zidovudine)"
+FT   VARIANT         806
+FT                   /note="K -> Q (confers resistance to zidovudine; when
+FT                   associated with other amino acid changes)"
+FT   VARIANT         806
+FT                   /note="K -> R (confers resistance to lamivudine, stavudine,
+FT                   zalcicabine and zidovudine)"
+FT   VARIANT         812
+FT                   /note="P -> H (confers resistance to efavirenz, emivirine,
+FT                   HBY 097 and quinoxaline; when associated with A-17)"
+FT   VARIANT         823
+FT                   /note="P -> L (confers resistance to atevirdine and
+FT                   delavirdine)"
+FT   VARIANT         825
+FT                   /note="K -> T (confers resistance to atevirdine and
+FT                   zidovudine; when associated with other amino acid changes)"
+FT   VARIANT         870
+FT                   /note="L -> I (confers resistance to delavirdine, efavirenz
+FT                   and nevirapine)"
+FT   VARIANT         905
+FT                   /note="Y -> F (confers resistance to delavirdine and
+FT                   nevirapine)"
+FT   VARIANT         920
+FT                   /note="G -> D (confers resistance to abacavir, lamivudine
+FT                   and zidovudine)"
+FT   VARIANT         920
+FT                   /note="G -> E (confers resistance to abacavir, lamivudine
+FT                   and zidovudine)"
+FT   VARIANT         973
+FT                   /note="T -> I (confers resistance to abacavir, lamivudine
+FT                   and zidovudine)"
+FT   MUTAGEN         6
+FT                   /note="S->D: No influence on the PIP2- or
+FT                   concentration-dependent myristyl switch mechanism."
+FT                   /evidence="ECO:0000269|PubMed:17656588"
+FT   MUTAGEN         9
+FT                   /note="S->D: No influence on the PIP2- or
+FT                   concentration-dependent myristyl switch mechanism."
+FT                   /evidence="ECO:0000269|PubMed:17656588"
+FT   MUTAGEN         18
+FT                   /note="K->A: Replication-defective, induces nuclear
+FT                   mislocalization of matrix protein; when associated with
+FT                   G-22."
+FT                   /evidence="ECO:0000269|PubMed:10604476"
+FT   MUTAGEN         22
+FT                   /note="R->G: Replication-defective, induces nuclear
+FT                   mislocalization of matrix protein; when associated with
+FT                   A-18."
+FT                   /evidence="ECO:0000269|PubMed:10604476"
+FT   MUTAGEN         27
+FT                   /note="K->A: No effect on subcellular localization of
+FT                   matrix protein; when associated with A-18 and G-22."
+FT                   /evidence="ECO:0000269|PubMed:10604476"
+FT   MUTAGEN         67
+FT                   /note="S->D: No influence on the PIP2- or
+FT                   concentration-dependent myristyl switch mechanism."
+FT                   /evidence="ECO:0000269|PubMed:17656588"
+FT   MUTAGEN         72
+FT                   /note="S->D: No influence on the PIP2- or
+FT                   concentration-dependent myristyl switch mechanism."
+FT                   /evidence="ECO:0000269|PubMed:17656588"
+FT   MUTAGEN         217
+FT                   /note="P->A: 3-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         218
+FT                   /note="V->A: 2.7-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         219
+FT                   /note="H->A,Q: 8-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         220
+FT                   /note="A->G: 44-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         220
+FT                   /note="A->V: 3.4-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         221
+FT                   /note="G->A: 31-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         221
+FT                   /note="G->V: 154-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         222
+FT                   /note="P->A: 36-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         222
+FT                   /note="P->V: More than 150-fold decrease of PPIA-binding
+FT                   affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         223
+FT                   /note="I->A: 1.2-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         223
+FT                   /note="I->V: 1.0-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         224
+FT                   /note="A->G: 2.3-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         224
+FT                   /note="A->V: 1.7-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         225
+FT                   /note="P->A: 1.6-fold decrease of PPIA-binding affinity."
+FT                   /evidence="ECO:0000269|PubMed:9223641"
+FT   MUTAGEN         394
+FT                   /note="N->F,G: Decreases infectivity and replication."
+FT                   /evidence="ECO:0000269|PubMed:16904152"
+FT   MUTAGEN         400
+FT                   /note="H->C: Complete loss of infectivity and in vitro
+FT                   chaperone activity."
+FT                   /evidence="ECO:0000269|PubMed:11932404"
+FT   MUTAGEN         405
+FT                   /note="C->H: Complete loss of infectivity and DNA
+FT                   synthesis."
+FT                   /evidence="ECO:0000269|PubMed:11932404"
+FT   MUTAGEN         421
+FT                   /note="H->C: Partial loss of infectivity. Complete loss of
+FT                   in vitro chaperone activity."
+FT                   /evidence="ECO:0000269|PubMed:11932404"
+FT   MUTAGEN         426
+FT                   /note="C->H: Partial loss of infectivity."
+FT                   /evidence="ECO:0000269|PubMed:11932404"
+FT   MUTAGEN         488..490
+FT                   /note="FPQ->IPK: Complete loss of RT p66/p51 cleavage."
+FT                   /evidence="ECO:0000269|PubMed:15183348"
+FT   MUTAGEN         513
+FT                   /note="D->H: Abolished protease activity."
+FT                   /evidence="ECO:0000269|PubMed:33542150"
+FT   MUTAGEN         821
+FT                   /note="L->A: Complete loss of RT dimerization."
+FT                   /evidence="ECO:0000269|PubMed:15183348"
+FT   MUTAGEN         1065
+FT                   /note="E->Q: Complete loss of RNase H activity."
+FT                   /evidence="ECO:0000269|PubMed:12206668"
+FT   MUTAGEN         1136
+FT                   /note="D->N: Complete loss of RNase H activity."
+FT                   /evidence="ECO:0000269|PubMed:12206668"
+FT   MUTAGEN         1159
+FT                   /note="H->C: No effect on integrase activity in vitro."
+FT                   /evidence="ECO:0000269|PubMed:8420982"
+FT   MUTAGEN         1163
+FT                   /note="H->C,V: 75% increase of integrase activity in
+FT                   vitro."
+FT                   /evidence="ECO:0000269|PubMed:8420982"
+FT   MUTAGEN         1187
+FT                   /note="C->A: Complete loss of integrase activity in vivo."
+FT                   /evidence="ECO:0000269|PubMed:8035478"
+FT   MUTAGEN         1190
+FT                   /note="C->A: Complete loss of integrase activity in vivo."
+FT                   /evidence="ECO:0000269|PubMed:8035478"
+FT   MUTAGEN         1200
+FT                   /note="Q->C: 75% increase of integrase activity in vitro."
+FT                   /evidence="ECO:0000269|PubMed:8420982"
+FT   MUTAGEN         1208
+FT                   /note="W->A: Complete loss of integrase activity in vivo."
+FT                   /evidence="ECO:0000269|PubMed:8035478"
+FT   MUTAGEN         1211
+FT                   /note="D->A,V: Complete loss of integrase activity in vivo
+FT                   and in vitro."
+FT                   /evidence="ECO:0000269|PubMed:8035478,
+FT                   ECO:0000269|PubMed:8420982, ECO:0000269|PubMed:9573231"
+FT   MUTAGEN         1213
+FT                   /note="T->A: No effect on infectivity."
+FT                   /evidence="ECO:0000269|PubMed:8035478"
+FT   MUTAGEN         1222
+FT                   /note="V->P: Complete loss of integrase activity."
+FT                   /evidence="ECO:0000269|PubMed:8035478"
+FT   MUTAGEN         1228
+FT                   /note="S->A: Complete loss of integrase activity in vivo."
+FT                   /evidence="ECO:0000269|PubMed:8035478,
+FT                   ECO:0000269|PubMed:8420982"
+FT   MUTAGEN         1228
+FT                   /note="S->R: No effect on integrase activity in vitro."
+FT                   /evidence="ECO:0000269|PubMed:8035478,
+FT                   ECO:0000269|PubMed:8420982"
+FT   MUTAGEN         1262
+FT                   /note="T->A: No effect infectivity."
+FT                   /evidence="ECO:0000269|PubMed:8035478"
+FT   MUTAGEN         1263
+FT                   /note="D->A,I: Complete loss of integrase activity in vivo
+FT                   and in vitro."
+FT                   /evidence="ECO:0000269|PubMed:8035478,
+FT                   ECO:0000269|PubMed:8420982, ECO:0000269|PubMed:9573231"
+FT   MUTAGEN         1270
+FT                   /note="G->A: No effect on infectivity."
+FT                   /evidence="ECO:0000269|PubMed:8035478"
+FT   MUTAGEN         1282
+FT                   /note="I->P: Complete loss of integrase activity in vivo."
+FT                   /evidence="ECO:0000269|PubMed:8035478"
+FT   MUTAGEN         1298
+FT                   /note="V->A: No effect on infectivity."
+FT                   /evidence="ECO:0000269|PubMed:8035478"
+FT   MUTAGEN         1299
+FT                   /note="E->G,P: Complete loss of integrase activity in
+FT                   vitro."
+FT                   /evidence="ECO:0000269|PubMed:8035478,
+FT                   ECO:0000269|PubMed:8420982, ECO:0000269|PubMed:9573231"
+FT   MUTAGEN         1306
+FT                   /note="K->P: Slow down virus replication."
+FT                   /evidence="ECO:0000269|PubMed:8035478"
+FT   MUTAGEN         1326
+FT                   /note="A->P: Complete loss of integrase activity in vivo."
+FT                   /evidence="ECO:0000269|PubMed:8035478"
+FT   MUTAGEN         1346
+FT                   /note="R->C: 75% increase of integrase activity in vitro."
+FT                   /evidence="ECO:0000269|PubMed:8420982"
+FT   MUTAGEN         1382
+FT                   /note="W->A: Complete loss of infectivity. No effect on
+FT                   integrase activity in vitro."
+FT                   /evidence="ECO:0000269|PubMed:8035478,
+FT                   ECO:0000269|PubMed:8420982"
+FT   MUTAGEN         1382
+FT                   /note="W->E: 75% increase of integrase activity in vitro."
+FT                   /evidence="ECO:0000269|PubMed:8035478,
+FT                   ECO:0000269|PubMed:8420982"
+FT   STRAND          7..10
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   HELIX           11..18
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   STRAND          19..21
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   STRAND          23..25
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   HELIX           31..45
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   STRAND          46..48
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   TURN            50..52
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   HELIX           54..67
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   TURN            68..70
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   HELIX           72..90
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   HELIX           97..108
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   HELIX           109..112
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   STRAND          116..118
+FT                   /evidence="ECO:0007829|PDB:1TAM"
+FT   HELIX           149..162
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   HELIX           168..175
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   TURN            176..178
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   HELIX           181..189
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   HELIX           195..215
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   HELIX           233..236
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   TURN            237..240
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   HELIX           243..250
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   STRAND          251..254
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   TURN            268..271
+FT                   /evidence="ECO:0007829|PDB:6VPZ"
+FT   HELIX           282..284
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   HELIX           293..305
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   HELIX           311..324
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   HELIX           328..337
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   HELIX           343..349
+FT                   /evidence="ECO:0007829|PDB:1E6J"
+FT   TURN            350..353
+FT                   /evidence="ECO:0007829|PDB:2KOD"
+FT   STRAND          357..360
+FT                   /evidence="ECO:0007829|PDB:2KOD"
+FT   STRAND          393..395
+FT                   /evidence="ECO:0007829|PDB:1ESK"
+FT   TURN            402..404
+FT                   /evidence="ECO:0007829|PDB:1ESK"
+FT   STRAND          414..416
+FT                   /evidence="ECO:0007829|PDB:1ESK"
+FT   TURN            423..425
+FT                   /evidence="ECO:0007829|PDB:1ESK"
+FT   STRAND          490..492
+FT                   /evidence="ECO:0007829|PDB:1HVR"
+FT   STRAND          493..495
+FT                   /evidence="ECO:0007829|PDB:6DV4"
+FT   STRAND          498..503
+FT                   /evidence="ECO:0007829|PDB:6DV4"
+FT   STRAND          506..512
+FT                   /evidence="ECO:0007829|PDB:6DV4"
+FT   STRAND          517..521
+FT                   /evidence="ECO:0007829|PDB:6DV4"
+FT   STRAND          530..537
+FT                   /evidence="ECO:0007829|PDB:6DV4"
+FT   STRAND          540..554
+FT                   /evidence="ECO:0007829|PDB:6DV4"
+FT   STRAND          557..566
+FT                   /evidence="ECO:0007829|PDB:6DV4"
+FT   STRAND          569..573
+FT                   /evidence="ECO:0007829|PDB:1ODW"
+FT   HELIX           575..578
+FT                   /evidence="ECO:0007829|PDB:6DV4"
+FT   TURN            579..582
+FT                   /evidence="ECO:0007829|PDB:6DV4"
+FT   STRAND          584..586
+FT                   /evidence="ECO:0007829|PDB:6DV4"
+FT   HELIX           591..593
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          597..599
+FT                   /evidence="ECO:0007829|PDB:7DPQ"
+FT   STRAND          600..602
+FT                   /evidence="ECO:0007829|PDB:2RF2"
+FT   STRAND          607..611
+FT                   /evidence="ECO:0007829|PDB:2WHH"
+FT   STRAND          613..618
+FT                   /evidence="ECO:0007829|PDB:3KT2"
+FT   HELIX           625..629
+FT                   /evidence="ECO:0007829|PDB:3KJV"
+FT   TURN            630..632
+FT                   /evidence="ECO:0007829|PDB:1VRU"
+FT   STRAND          633..636
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          639..641
+FT                   /evidence="ECO:0007829|PDB:2RF2"
+FT   STRAND          647..650
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   TURN            653..656
+FT                   /evidence="ECO:0007829|PDB:3LAK"
+FT   STRAND          659..662
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   HELIX           665..670
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   HELIX           672..676
+FT                   /evidence="ECO:0007829|PDB:3QIP"
+FT   TURN            677..679
+FT                   /evidence="ECO:0007829|PDB:3QIP"
+FT   HELIX           684..686
+FT                   /evidence="ECO:0007829|PDB:7SLS"
+FT   HELIX           687..689
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          690..697
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   HELIX           699..704
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          705..707
+FT                   /evidence="ECO:0007829|PDB:1EP4"
+FT   TURN            709..711
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   HELIX           712..715
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          717..719
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   HELIX           722..724
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          725..727
+FT                   /evidence="ECO:0007829|PDB:8TCK"
+FT   STRAND          729..735
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   HELIX           742..761
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          762..765
+FT                   /evidence="ECO:0007829|PDB:1C0T"
+FT   STRAND          766..770
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          773..778
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   HELIX           782..798
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   TURN            806..808
+FT                   /evidence="ECO:0007829|PDB:7SLS"
+FT   TURN            813..816
+FT                   /evidence="ECO:0007829|PDB:8TCJ"
+FT   STRAND          819..821
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   HELIX           823..825
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          826..828
+FT                   /evidence="ECO:0007829|PDB:7SLS"
+FT   STRAND          837..840
+FT                   /evidence="ECO:0007829|PDB:1RTH"
+FT   HELIX           841..854
+FT                   /evidence="ECO:0007829|PDB:7SLS"
+FT   TURN            855..857
+FT                   /evidence="ECO:0007829|PDB:7SLS"
+FT   STRAND          858..860
+FT                   /evidence="ECO:0007829|PDB:3DOL"
+FT   HELIX           864..869
+FT                   /evidence="ECO:0007829|PDB:7SLS"
+FT   TURN            870..872
+FT                   /evidence="ECO:0007829|PDB:3QIP"
+FT   STRAND          876..879
+FT                   /evidence="ECO:0007829|PDB:2YNI"
+FT   HELIX           884..897
+FT                   /evidence="ECO:0007829|PDB:7SLS"
+FT   STRAND          902..904
+FT                   /evidence="ECO:0007829|PDB:1JLG"
+FT   STRAND          908..910
+FT                   /evidence="ECO:0007829|PDB:6P1X"
+FT   STRAND          913..919
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   TURN            920..922
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          923..929
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          937..942
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          945..949
+FT                   /evidence="ECO:0007829|PDB:3QIP"
+FT   HELIX           951..970
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          975..977
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   HELIX           982..992
+FT                   /evidence="ECO:0007829|PDB:8TCM"
+FT   STRAND          993..995
+FT                   /evidence="ECO:0007829|PDB:7SLS"
+FT   STRAND          1001..1003
+FT                   /evidence="ECO:0007829|PDB:8TCJ"
+FT   HELIX           1008..1013
+FT                   /evidence="ECO:0007829|PDB:3QIP"
+FT   STRAND          1022..1024
+FT                   /evidence="ECO:0007829|PDB:1RT2"
+FT   STRAND          1025..1033
+FT                   /evidence="ECO:0007829|PDB:3QIO"
+FT   TURN            1035..1037
+FT                   /evidence="ECO:0007829|PDB:3QIO"
+FT   STRAND          1040..1046
+FT                   /evidence="ECO:0007829|PDB:3QIO"
+FT   STRAND          1047..1049
+FT                   /evidence="ECO:0007829|PDB:3DRP"
+FT   STRAND          1051..1058
+FT                   /evidence="ECO:0007829|PDB:3QIO"
+FT   HELIX           1061..1075
+FT                   /evidence="ECO:0007829|PDB:3QIO"
+FT   STRAND          1078..1085
+FT                   /evidence="ECO:0007829|PDB:3QIO"
+FT   HELIX           1087..1093
+FT                   /evidence="ECO:0007829|PDB:3QIO"
+FT   STRAND          1098..1102
+FT                   /evidence="ECO:0007829|PDB:3QIP"
+FT   HELIX           1105..1112
+FT                   /evidence="ECO:0007829|PDB:3QIO"
+FT   STRAND          1116..1122
+FT                   /evidence="ECO:0007829|PDB:3QIO"
+FT   STRAND          1125..1127
+FT                   /evidence="ECO:0007829|PDB:3LP1"
+FT   HELIX           1130..1140
+FT                   /evidence="ECO:0007829|PDB:3QIO"
+FT   TURN            1141..1143
+FT                   /evidence="ECO:0007829|PDB:3QIO"
+FT   HELIX           1204..1206
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   STRAND          1207..1215
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   STRAND          1218..1225
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   TURN            1226..1228
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   STRAND          1231..1240
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   HELIX           1241..1254
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   STRAND          1259..1261
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   HELIX           1266..1268
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   HELIX           1271..1280
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   STRAND          1283..1285
+FT                   /evidence="ECO:0007829|PDB:6EX9"
+FT   HELIX           1292..1294
+FT                   /evidence="ECO:0007829|PDB:5HRN"
+FT   HELIX           1302..1312
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   HELIX           1313..1315
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   HELIX           1319..1332
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   STRAND          1335..1339
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   HELIX           1343..1355
+FT                   /evidence="ECO:0007829|PDB:1EXQ"
+FT   HELIX           1358..1368
+FT                   /evidence="ECO:0007829|PDB:1EX4"
+FT   STRAND          1371..1375
+FT                   /evidence="ECO:0007829|PDB:5TC2"
+FT   STRAND          1377..1380
+FT                   /evidence="ECO:0007829|PDB:5TC2"
+FT   STRAND          1382..1392
+FT                   /evidence="ECO:0007829|PDB:5TC2"
+FT   STRAND          1395..1400
+FT                   /evidence="ECO:0007829|PDB:5TC2"
+FT   STRAND          1403..1408
+FT                   /evidence="ECO:0007829|PDB:5TC2"
+FT   HELIX           1409..1411
+FT                   /evidence="ECO:0007829|PDB:5TC2"
+FT   STRAND          1412..1415
+FT                   /evidence="ECO:0007829|PDB:5TC2"
+SQ   SEQUENCE   1435 AA;  162042 MW;  8487B36BDEAC5FE4 CRC64;
+     MGARASVLSG GELDRWEKIR LRPGGKKKYK LKHIVWASRE LERFAVNPGL LETSEGCRQI
+     LGQLQPSLQT GSEELRSLYN TVATLYCVHQ RIEIKDTKEA LDKIEEEQNK SKKKAQQAAA
+     DTGHSNQVSQ NYPIVQNIQG QMVHQAISPR TLNAWVKVVE EKAFSPEVIP MFSALSEGAT
+     PQDLNTMLNT VGGHQAAMQM LKETINEEAA EWDRVHPVHA GPIAPGQMRE PRGSDIAGTT
+     STLQEQIGWM TNNPPIPVGE IYKRWIILGL NKIVRMYSPT SILDIRQGPK EPFRDYVDRF
+     YKTLRAEQAS QEVKNWMTET LLVQNANPDC KTILKALGPA ATLEEMMTAC QGVGGPGHKA
+     RVLAEAMSQV TNSATIMMQR GNFRNQRKIV KCFNCGKEGH TARNCRAPRK KGCWKCGKEG
+     HQMKDCTERQ ANFLREDLAF LQGKAREFSS EQTRANSPTR RELQVWGRDN NSPSEAGADR
+     QGTVSFNFPQ VTLWQRPLVT IKIGGQLKEA LLDTGADDTV LEEMSLPGRW KPKMIGGIGG
+     FIKVRQYDQI LIEICGHKAI GTVLVGPTPV NIIGRNLLTQ IGCTLNFPIS PIETVPVKLK
+     PGMDGPKVKQ WPLTEEKIKA LVEICTEMEK EGKISKIGPE NPYNTPVFAI KKKDSTKWRK
+     LVDFRELNKR TQDFWEVQLG IPHPAGLKKK KSVTVLDVGD AYFSVPLDED FRKYTAFTIP
+     SINNETPGIR YQYNVLPQGW KGSPAIFQSS MTKILEPFRK QNPDIVIYQY MDDLYVGSDL
+     EIGQHRTKIE ELRQHLLRWG LTTPDKKHQK EPPFLWMGYE LHPDKWTVQP IVLPEKDSWT
+     VNDIQKLVGK LNWASQIYPG IKVRQLCKLL RGTKALTEVI PLTEEAELEL AENREILKEP
+     VHGVYYDPSK DLIAEIQKQG QGQWTYQIYQ EPFKNLKTGK YARMRGAHTN DVKQLTEAVQ
+     KITTESIVIW GKTPKFKLPI QKETWETWWT EYWQATWIPE WEFVNTPPLV KLWYQLEKEP
+     IVGAETFYVD GAANRETKLG KAGYVTNRGR QKVVTLTDTT NQKTELQAIY LALQDSGLEV
+     NIVTDSQYAL GIIQAQPDQS ESELVNQIIE QLIKKEKVYL AWVPAHKGIG GNEQVDKLVS
+     AGIRKVLFLD GIDKAQDEHE KYHSNWRAMA SDFNLPPVVA KEIVASCDKC QLKGEAMHGQ
+     VDCSPGIWQL DCTHLEGKVI LVAVHVASGY IEAEVIPAET GQETAYFLLK LAGRWPVKTI
+     HTDNGSNFTG ATVRAACWWA GIKQEFGIPY NPQSQGVVES MNKELKKIIG QVRDQAEHLK
+     TAVQMAVFIH NFKRKGGIGG YSAGERIVDI IATDIQTKEL QKQITKIQNF RVYYRDSRNP
+     LWKGPAKLLW KGEGAVVIQD NSDIKVVPRR KAKIIRDYGK QMAGDDCVAS RQDED
+//
