@@ -1,6 +1,6 @@
-# 🌁 hyperloop
+# 🧂 saltbridge
 
-Short workflow to identify contact points / interactions between the hypervariable loop regions of TCRs (the CDRs) and pMHCs in structures.
+Short workflow to identify contact points / interactions between TCRs (and their CDR3s) and pMHC/MR1 in structures.
 
 ---
 
